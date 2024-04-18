@@ -1,0 +1,11 @@
+{
+    "Format": "2.0.0",
+ 
+    "CustomLocations": [
+       // add the in-game location
+       {
+          "Name": "Custom_Village",
+          "FromMapFile": "assets/Map.tmx"
+       }
+    ]
+}
