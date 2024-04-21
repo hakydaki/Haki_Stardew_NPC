@@ -4,8 +4,8 @@
     "CustomLocations": [
        // add the in-game location
        {
-          "Name": "Custom_Village",
-          "FromMapFile": "assets/Map.tmx"
+          "Name": "Custom_Haki_Cabin",
+          "FromMapFile": "assets/maps/HakiCabin.tmx"
        }
     ]
 }
