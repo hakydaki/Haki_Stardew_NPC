@@ -1,0 +1,30 @@
+{
+    "Format": "2.0.0",
+    "Changes": [
+        {
+            "Action": "EditMap",
+            "Target": "Maps/Forest",
+            "FromFile": "assets/Maps/Forest.tmx",
+            "FromArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 17,
+                "Height": 15
+            },
+            "ToArea": {
+                "X": 40,
+                "Y": 37,
+                "Width": 17,
+                "Height": 15
+            }
+        }
+    ],
+    
+    "CustomLocations": [
+       // add the in-game location
+       {
+          "Name": "Custom_Haki_Cabin",
+          "FromMapFile": "assets/maps/HakiCabin.tmx"
+       }
+    ]
+}
