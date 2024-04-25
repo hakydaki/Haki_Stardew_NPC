@@ -8,14 +8,14 @@
             "FromArea": {
                 "X": 0,
                 "Y": 0,
-                "Width": 17,
-                "Height": 15
+                "Width": 19,
+                "Height": 12
             },
             "ToArea": {
-                "X": 40,
-                "Y": 37,
-                "Width": 17,
-                "Height": 15
+                "X": 69,
+                "Y": 22,
+                "Width": 19,
+                "Height": 12
             }
         }
     ],
