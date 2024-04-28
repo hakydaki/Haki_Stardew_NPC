@@ -1,0 +1,44 @@
+
+// Define Haki attributes
+
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/Characters",
+            "Entries": {
+                "HakanNpc_Hakan": {
+                    "DisplayName": "Hakan",
+                    "Gender": "Male",
+                    "Age": "Adult",
+		            "Manner": "Polite",
+                    "SocialAnxiety": "Neutral",
+                    "Optimism": "Neutral",
+                    "BirthSeason": "Fall",
+                    "BirthDay": "3",
+                    "HomeRegion": "Town",
+                    "CanSocialize": "True",
+                    "CanBeRomanced": "True",
+                    "CanReceiveGifts": "True",
+                    "SocialTab": "UnknownUntilMet",
+                    "Calendar": "HiddenUntilMet",
+                    "IntroductionsQuest": "True",
+                    "ItemDeliveryQuests": "True",
+                    "DumpsterDiveEmote": "8",
+                    "WinterStarParticipant": "True",
+                    "Home": [
+                        {
+                            "Id": "Default",
+                            "Location": "Custom_Haki_Cabin",
+                            "Tile": {
+                                "X": 17,
+                                "Y": 6
+                            },
+                            "Direction": "up"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

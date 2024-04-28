@@ -18,6 +18,66 @@
                 "Height": 12
             }
         }
+    
+    // Haki NPC stuff
+
+            //DATA LOADING
+        {
+            "Logname": "Haki_Dispositions",
+            "Action": "Include",
+            "FromFile": "data/dispo.json"
+        },
+
+            //SPRITE LOADING - PORTRAITS
+        {
+            "Logname": "Haki_Portraits",
+            "Action": "Load",
+            "FromFile": "assets/sprites/hakan_portraits.png"
+        },
+        {
+            "Logname": "Haki_Winter_Portraits",
+            "Action": "Load",
+            "FromFile": "assets/sprites/hakan_winter_portraits.png"
+            "When": {
+                "Season": "winter"
+            }
+        }
+        {
+            "Logname": "Haki_Portraits_Beach",
+            "Action": "Load",
+            "FromFile": "assets/sprites/hakan_beach_portraits.png"
+        },
+        {
+            "Logname": "Haki_Portraits_Casual",
+            "Action": "Load",
+            "FromFile": "assets/sprites/hakan_casual_portraits.png"
+        },
+
+            //SPRITE LOADING - SPRITES
+
+        {
+            "Logname": "Haki_Sprites",
+            "Action": "Load",
+            "FromFile": "assets/sprites/hakan.png"
+        },
+        {
+            "Logname": "Haki_Winter_Sprites",
+            "Action": "Load",
+            "FromFile": "assets/sprites/hakan_winter.png"
+            "When": {
+                "Season": "winter"
+            }
+        }
+        {
+            "Logname":  "Haki_Beach_Sprites",
+            "Action": "Load",
+            "FromFile": "assets/sprites/hakan_beach.png"
+        },
+        {
+            "Logname": "Haki_Casual_Sprites",
+            "Action": "Load",
+            "FromFile": "assets/sprites/hakan_casual.png"
+        },
     ],
     
     "CustomLocations": [

@@ -1,0 +1,14 @@
+// Haki Dialogues
+
+"Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Hakan",
+      "Entries": {
+        "Introduction": "{{i18n:Hakan.Intro}}",
+
+        //Marriage
+        
+      }
+    }
+]
