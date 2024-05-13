@@ -1,3 +1,4 @@
+{
 // Special
 
 "Hakan.Intro": "Hello, @, I'm Hakan. I actually work at the adventurers guild but Marlon called me back.",
@@ -27,20 +28,21 @@
 
 // Festivals
 
-"Hakan.eggfestival": "Why did Marnie make me hide all the eggs this year? She knows that I get hungry..."
-"Hakan.luau": "When I was a kid I threw a sea cucumber into the soup... $eIt took a while for everyone to forgive me after that."
-"Hakan.moonjellies": "...Isn't it super weird that Pierre is selling merchandise at a jellyfish viewing? $e...and at many other town events. He's sacrificing these rare moments just to make a quick buck."
-"Hakan.fair": "*Homf nomf* $b%Hakan is too busy eating burgers."
-"Hakan.spirit": "It's kind of messed up that the guild captures monsters for the town's entertainment."
-"Hakan.ice": "Puh, you won't beat me at the fishing competition. I have the touch."
-"Hakan.winterstar": "I hope my recipient like the gift I got them. "
-"Hakan.nightmarket": "Yo, you should try the deep fishing on the submarine. I've caught some really unusual fish there!"
-"Hakan.flowerdance": "I'm not really that interested in dancing. I'm just here for the food."
-"Hakan.flowerdance_accept": "O-Oh um... sure! Guess I can put down the food for a bit...Sorry in advanced for my clumsiness."
-"Hakan.flowerdance_accept_spouse": "...You are more important than the food. Of course."
+"Hakan.eggfestival": "Why did Marnie make me hide all the eggs this year? She knows that I get hungry...",
+"Hakan.luau": "When I was a kid I threw a sea cucumber into the soup... $eIt took a while for everyone to forgive me after that.",
+"Hakan.moonjellies": "...Isn't it super weird that Pierre is selling merchandise at a jellyfish viewing? $e...and at many other town events. He's sacrificing these rare moments just to make a quick buck.",
+"Hakan.fair": "*Homf nomf* $b%Hakan is too busy eating burgers.",
+"Hakan.spirit": "It's kind of messed up that the guild captures monsters for the town's entertainment.",
+"Hakan.ice": "Puh, you won't beat me at the fishing competition. I have the touch.",
+"Hakan.winterstar": "I hope my recipient like the gift I got them. ",
+"Hakan.nightmarket": "Yo, you should try the deep fishing on the submarine. I've caught some really unusual fish there!",
+"Hakan.flowerdance": "I'm not really that interested in dancing. I'm just here for the food.",
+"Hakan.flowerdance_accept": "O-Oh um... sure! Guess I can put down the food for a bit...Sorry in advanced for my clumsiness.",
+"Hakan.flowerdance_accept_spouse": "...You are more important than the food. Of course.",
 "Hakan.flowerdance_decline": "No, I'm hungry."
 
 // Heart Events
 
 // Ginger Island
 
+}

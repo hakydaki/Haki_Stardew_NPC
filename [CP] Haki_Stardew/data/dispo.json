@@ -7,7 +7,7 @@
             "Action": "EditData",
             "Target": "Data/Characters",
             "Entries": {
-                "HakanNpc_Hakan": {
+                "Hakan": {
                     "DisplayName": "Hakan",
                     "Gender": "Male",
                     "Age": "Adult",
@@ -29,12 +29,12 @@
                     "Home": [
                         {
                             "Id": "Default",
-                            "Location": "Custom_Haki_Cabin",
+                            "Location": "Backwoods",
                             "Tile": {
-                                "X": 17,
-                                "Y": 6
+                                "X": 24,
+                                "Y": 12
                             },
-                            "Direction": "up"
+                            "Direction": "down"
                         }
                     ]
                 }
