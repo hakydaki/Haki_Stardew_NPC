@@ -3,11 +3,13 @@
 
 "Hakan.Intro": "Hello, @, I'm Hakan. I actually work at the adventurers guild but Marlon called me back.",
 "Hakan.Intro2": "I heard you reached to bottom of the mines. Unfortunately, it's seems to have riled up the monsters.", 
-"Hakan.Intro2": "But don't worry, I'm here to help keep them under control. Hope to see you around on my patrols!",
+"Hakan.Intro3": "But don't worry, I'm here to help keep them under control. Hope to see you around on my patrols!",
 "Hakan.GreenRain": "Green rain... I heard it was good for the environment but its awful for my nose.",
-"Hakan.GreenRainFinished": "*sniff* My allergies are awful today.",
+"Hakan.GreenRainFinished": "*sniff* My allergies are still awful today.",
 "Hakan.Dumpsterdive": "...I hope you aren't eating that.",
-
+"Hakan.cc_Complete": "I feel a great natural magic surrounding the valley. Your offerings have made the forest spirits happy, perhaps it will keep the monsters at bay.",
+"Hakan.movietheatercreated": "",
+"Hakan.summit": "Look at you, look at us! You put Stardew Valley on the map!$bI'm so glad we got to go on this ride together. I will protect you with all my heart.",
 // Gift Tastes
 
 "Gifts.Hakan.Loved": "Damn, you know exactly the way to a man's heart.",
@@ -18,6 +20,10 @@
 
 // Specific Gift Dialogues
 
+"Gifts.Hakan.StardropTea": "Wow, this should  my stamina.$b Thanks, now I can keep you safer!",
+"Gifts.Hakan.Fish": "*gasp* A fish for my collection? I love this, thank you!",
+"Gifts.Hakan.Driftwood": "Woah, this would look amazing in my next aquascape. I'll be sure to show you sometime.",
+"Gifts.Hakan.Woodskip": "*gasp* Woodskip! My favorite fish. He will go with the others in my pond.",
 
 // Birthday
 
@@ -39,10 +45,19 @@
 "Hakan.flowerdance": "I'm not really that interested in dancing. I'm just here for the food.",
 "Hakan.flowerdance_accept": "O-Oh um... sure! Guess I can put down the food for a bit...Sorry in advanced for my clumsiness.",
 "Hakan.flowerdance_accept_spouse": "...You are more important than the food. Of course.",
-"Hakan.flowerdance_decline": "No, I'm hungry."
+"Hakan.flowerdance_decline": "No, I'm hungry.",
 
 // Heart Events
 
+// Dating Dialogue
+
+"Hakan.dating": "O-Oh hey honey... Sorry I'm trying to get used to this intimacy thing.$bUh, have you've seen any monsters lately?",
+
+// Marriage Dialogue
+
+"Hakan.patio": "Good Morning, @. Don't mind me, just watering some of the plants.",
+"Hakan.spouse_room": "Ah, it is so relaxing in here. Come, lets cuddle and watch a movie, dear.",
+""
 // Ginger Island
 
-}
+} 

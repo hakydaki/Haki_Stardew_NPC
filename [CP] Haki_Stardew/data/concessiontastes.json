@@ -1,0 +1,24 @@
+{   
+			"Action": "EditData",
+			"Target": "Data/ConcessionTastes",
+			"Entries": { 
+				"Nanami": {
+					"Name": "Hakan",
+					"LovedTags": [
+						"Apple Slices",
+						"Truffle Popcorn",
+                        "Hummus Snack Pack"
+					],
+					"LikedTags": [
+						"Salty",
+                        "Salted Peanuts",
+                        "Kale Smoothie"
+					],
+					"DislikedTags": [
+						"Fatty",
+                        "Chocolate Popcorn",
+                        "Cotton Candy"
+					]
+				} 
+			}
+		}
