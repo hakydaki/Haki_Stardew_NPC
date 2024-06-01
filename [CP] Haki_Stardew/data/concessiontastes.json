@@ -1,3 +1,7 @@
+
+// MOVIE THEATRE DATA
+
+// TASTES
 {   
 			"Action": "EditData",
 			"Target": "Data/ConcessionTastes",
@@ -22,3 +26,11 @@
 				} 
 			}
 		}
+
+// CUSTOME REACTIONS
+
+"Action": "EditData",
+"Target": "Data/MoviesReactions",
+"Entries": {
+	
+}

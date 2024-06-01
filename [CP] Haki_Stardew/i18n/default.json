@@ -1,14 +1,14 @@
 {
 // Special
 
-"Hakan.Intro": "Hello, @, I'm Hakan. I actually work at the adventurers guild but Marlon called me back.",
+"Hakan.Intro": "Hello, @, I heard you were the new farmer that moved in. I'm Hakan. I actually work at the adventurers guild but Marlon called me back.",
 "Hakan.Intro2": "I heard you reached to bottom of the mines. Unfortunately, it's seems to have riled up the monsters.", 
 "Hakan.Intro3": "But don't worry, I'm here to help keep them under control. Hope to see you around on my patrols!",
 "Hakan.GreenRain": "Green rain... I heard it was good for the environment but its awful for my nose.",
 "Hakan.GreenRainFinished": "*sniff* My allergies are still awful today.",
 "Hakan.Dumpsterdive": "...I hope you aren't eating that.",
 "Hakan.cc_Complete": "I feel a great natural magic surrounding the valley. Your offerings have made the forest spirits happy, perhaps it will keep the monsters at bay.",
-"Hakan.movietheatercreated": "",
+"Hakan.movietheatercreated": "The new movie theater looks amazing. It appeared overnight. I wonder what powers are capable of doing that?",
 "Hakan.summit": "Look at you, look at us! You put Stardew Valley on the map!$bI'm so glad we got to go on this ride together. I will protect you with all my heart.",
 // Gift Tastes
 
@@ -30,7 +30,16 @@
 "Bday.Hakan.Positive": "Aw, a birthday gift for me? I'm glad you remembered.",
 "Bday.Hakan.Negative": "If this is some sort of joke, its not funny.",
 
-// Movies
+// Movie Reactions
+
+"Hakan.movie.bravelilsapling": "",
+"Hakan.movie.journeyofprairie": "",
+"Hakan.movie.mysterium": "",
+"Hakan.movie.coldstarranch": "",
+"Hakan.movie.naturalwonders": "",
+"Hakan.movie.wumbus": "",
+"Hakan.movie.ithowlsintherain": "",
+"Hakan.movie.zuzucity": "",
 
 // Festivals
 
@@ -47,17 +56,113 @@
 "Hakan.flowerdance_accept_spouse": "...You are more important than the food. Of course.",
 "Hakan.flowerdance_decline": "No, I'm hungry.",
 
+// SVE COMMUNITY DAY
+
+"Hakan.cd_spring": "",
+"Hakan.cd_summer": "",
+"Hakan.cd_fall": "",
+"Hakan.cd_winter": "",
+
+"Hakan.cd_married_spring": "",
+"Hakan.cd_married_summer": "",
+"Hakan.cd_married_fall": "",
+"Hakan.cd_married_winter": "",
+
 // Heart Events
 
 // Dating Dialogue
 
-"Hakan.dating": "O-Oh hey honey... Sorry I'm trying to get used to this intimacy thing.$bUh, have you've seen any monsters lately?",
+"Hakan.dating": "$bUh, have you've seen any monsters lately?",
+"Hakan.dating_memory_oneday": "O-Oh hey honey... Sorry I'm trying to get used to this intimacy thing.",
+"Hakan.divorced": "...Sorry I can't look at you right now.",
+"Hakan.breakup": "Really? Man that stings...I wish we could've worked out. I'm sorry I couldn't be a better boyfriend.",
+"Hakan.dumped_boys": "Man, you really sleep around huh? Wild.",
 
 // Marriage Dialogue
 
 "Hakan.patio": "Good Morning, @. Don't mind me, just watering some of the plants.",
 "Hakan.spouse_room": "Ah, it is so relaxing in here. Come, lets cuddle and watch a movie, dear.",
-""
+"Hakan.stardrop": "Hey handsome. I made something special for you.^Hey beautiful. I made something special for you.",
+
+"Hakan.rainyday.01": "I love the smell of rain. Stay safe out there, I've been hearing something mysterious occasionally.",
+"Hakan.rainyday.02": "The rain should wash all the pollen away. My nose will be feeling clear tomorrow.",
+"Hakan.rainyday.03": "Maybe the slimes will be out of the caves today?",
+"Hakan.rainyday.04": "I hope %pet doesn't track in mud...",
+"Hakan.rainyday.05": "I'll be staying inside today. I don't want to get my fur wet, it's a nightmare to dry it out.",
+"Hakan.rainyday.06": "Make sure to take an umbrella and stay dry. I don't want you getting a cold. I might smother you when I am warming you up!",
+"Hakan.rainyday.07": "It's raining today... I wonder if there's any rare fish out.",
+
+"Hakan.rainynight.01": "I love nights like these. Listening to the rain while cuddling my beautiful husband. Its the dream...bed now! ^I love nights like these. Listening to the rain while cuddling my beautiful wife. Its the dream...bed now!",
+"Hakan.rainynight.02": "Hey dear, lets get to bed soon. I want to listen to you under the noise of the rain.",
+"Hakan.rainynight.03": "Welcome home @, you must be hungry from all of the running around in the rain today. Don't worry, I have a cozy meal prepared to warm you up. [226 237 236]",
+"Hakan.rainynight.04": "@, come here... I wanna hold you my love...",
+"Hakan.rainynight.05": "Sometimes, I miss my parents. I hope they are doing alright out there. I wish I could introduce you.",
+"Hakan.rainynight.06": "Please leave your shoes at the door, honey. I already cleaned up after %pet today.",
+
+"Hakan.good.01": "Heh, I'm glad I hooked a catch like you...$bor did you hook me? $eWell, who did what doesn't matter. We are in this like together.",
+"Hakan.good.02": "Why should I go fishing when I already caught someone like you?",
+"Hakan.good.03": "Hey...@...guess what? $eI love you.",
+"Hakan.good.04": "The farm looks like a lot of work, but you never ask me for help. Hey, I'm here for you if you need me to help. Just ask.",
+"Hakan.good.05": "Can I have a kiss before you go?",
+"Hakan.good.06": "You make me feel whole, secure. I hope to grow old together.",
+"Hakan.good.07": "Hey, my sword is shining brighter today. *holds it up* Look, it can even reflect your handsome face!^Hey, my sword is shining brighter today. *holds it up* Look, it can even reflect your beautiful face!",
+
+"Hakan.neutral.01": "I need to visit the guild soon. I'm low on adventuring supplies.",
+"Hakan.neutral.02": "I swear, sometimes when I'm foraging near your grandfather's shrine... I hear whispering. I think there's something special about it.",
+"Hakan.neutral.03": "Marlon took me under his wing when my parents mysteriously left. And now here I am, an adventurer fully trained to fight monsters. $eThere used to be more of us, but it's a risky profession.",
+"Hakan.neutral.04": "I learned a little bit of magic from Marlon. I'm not the best at it but I can cast some useful spells...",
+"Hakan.neutral.05": "Patrolling the town at night is so boring most of the time... the only rustling in the bushes I've heard were from Lewis and Marnie...- $b...You don't wanna know.",
+"Hakan.neutral.06": "What do you think our future will be? Will we continue the cozy life on the farm, or go adventuring together?",
+"Hakan.neutral.07": "I hope my fish are doing okay at my house. Willy helps me monitor them but its hard not being there 24/7.",
+
+"Hakan.bad.01": "Am I not good enough for you?",
+"Hakan.bad.02": "...Do you think I'm a good husband?",
+"Hakan.bad.03": "Did I do something wrong?",
+"Hakan.bad.04": "Sometimes, I feel like I'm invisible to you.",
+"Hakan.bad.05": "We are never together anymore. I miss you.",
+"Hakan.bad.06": "*sigh* My sword has been getting rusty lately...",
+"Hakan.bad.07": "...$e...sorry.",
+
+"Hakan.indoorday.01": "Hello my little woodskip, watcha' doing today?",
+"Hakan.indoorday.02": "Hey darling, I made you some breakfast. It is the most important meal of the day after all. You need to keep your stamina up. [240 242 241]",
+"Hakan.indoorday.03": "I'll be working inside the house today, see you later my love.",
+"Hakan.indoorday.04": "I have a feeling you might go adventuring, so here, take some of my adventuring supplies. Stay safe out there! [773, 403, 772]",
+"Hakan.indoorday.05": "I cleaned up the house a little for you, so you have one less thing to worry about when you get home tonight.",
+
+"Hakan.indoornight.01": "You must be exhausted. Here, I whipped up some dinner for us. [244 242 907 905 240]",
+"Hakan.indoornight.02": "I missed you, you must be tired. Come here, rest in my arms.",
+"Hakan.indoornight.03": "I'm so happy to see you home, lets cuddle later tonight.",
+"Hakan.indoornight.04": "Ahh I'm so eepy... I need to hold you.",
+"Hakan.indoornight.05": "Welcome home, did you catch any interesting fish? A woodskip I hope?",
+
+"Hakan.outdoor.01": "Ah, the air out here is really nice. It feels fresh and there's not much pollen out. It's lovely.",
+"Hakan.outdoor.02": "I don't know much about about cultivating crops, but I love watching you work.",
+"Hakan.outdoor.03": "I wonder what the fishing is like today? Maybe I'll try and catch some woodskips at the secret woods.",
+"Hakan.outdoor.04": "I love watching the progress you've made on this farm. Every day, there just seems to be something new.",
+"Hakan.outdoor.05": "Hey honey, stay safe out there, I'll be holding down the fort here. Just leave it to me.",
+
+"Hakan.job_return.01": "Controlling the monsters was a bit exhausting. The slimes were crawling out of the mine today. I'll need lots of kisses tonight.",
+"Hakan.job_leave.01": "I've got to do my rounds around town today. I'll see you later tonight love.",
+
+"Hakan.fun_return.01": "I think I had a huge fish on the line today, but it broke my rod. I think I'm gonna need to fix my rod tonight. $bHeh...Can you help me out?",
+"Hakan.fun_leave.01": "Hey I'm gonna go out fishing today. I hope I get some good catches.",
+
+"Hakan.OneKid_1": "",
+"Hakan.OneKid_2": "",
+"Hakan.OneKid_3": "",
+"Hakan.OneKid_4": "",
+"Hakan.TwoKids_1": "",
+"Hakan.TwoKids_2": "",
+"Hakan.TwoKids_3": "",
+"Hakan.TwoKids_4": "",
+
 // Ginger Island
+
+"Hakan.resort_bar": "Ah, these tropical drinks are delicious, wanna try some?",
+"Hakan.resort_entering": "Hopefully the tiger slimes stay away... I'd like to just relaxy.",
+"Hakan.resort_leaving": "Phew, those tiger slimes are strong! I had to swing my sword several times to subdue them.$eI don't think I'll be swinging my sword anymore tonight.",
+"Hakan.resort_shore": "...I wonder if there's any rare tropical fish here...",
+"Hakan.resort_wander": "No tiger slimes yet... I'm glad they are staying away from the beach.",
+"Hakan.resort_towel": "Ah, the sun feels so nice on my fur. You should sunbathe with me, dear.",
 
 } 
