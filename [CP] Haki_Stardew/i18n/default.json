@@ -10,6 +10,14 @@
 "Hakan.cc_Complete": "I feel a great natural magic surrounding the valley. Your offerings have made the forest spirits happy, perhaps it will keep the monsters at bay.",
 "Hakan.movietheatercreated": "The new movie theater looks amazing. It appeared overnight. I wonder what powers are capable of doing that?",
 "Hakan.summit": "Look at you, look at us! You put Stardew Valley on the map!$bI'm so glad we got to go on this ride together. I will protect you with all my heart.",
+"Hakan.married.abigail": "",
+
+// SVE Special Dialogues
+
+"Hakan.married.wizard": "I didn't expect you and the wizard to hitch up. Congrats!",
+"Hakan.married.lance": "Heh, I'd say my old adventuring buddy scored with you.",
+"Hakan.roommates.krobus": "I never thought you'd make a friend with a shadow person. I always thought that they just wanted to hurt us. Maybe there's more to them than I thought.",
+
 // Gift Tastes
 
 "Gifts.Hakan.Loved": "Damn, you know exactly the way to a man's heart.",
@@ -32,14 +40,30 @@
 
 // Movie Reactions
 
-"Hakan.movie.bravelilsapling": "",
-"Hakan.movie.journeyofprairie": "",
-"Hakan.movie.mysterium": "",
-"Hakan.movie.coldstarranch": "",
-"Hakan.movie.naturalwonders": "",
-"Hakan.movie.wumbus": "",
-"Hakan.movie.ithowlsintherain": "",
-"Hakan.movie.zuzucity": "",
+"Hakan.movie.bravelilsapling_1": "Aw, look at him, hes adorable...",
+"Hakan.movie.bravelilsapling_2": "Heh.",
+"Hakan.movie.bravelilsapling_3": "Hah, what a nice message. We all have to face some hardships in life.",
+"Hakan.movie.journeyofprairie_1": "Did you see the plants in the crane machine game? I want some...",
+"Hakan.movie.journeyofprairie_2": "Oh wow, he managed to get out of that situation easily.",
+"Hakan.movie.journeyofprairie_3": "Quick thinking by the protagonist.",
+"Hakan.movie.mysterium_1": "Ah a scary movie? I ain't afraid.",
+"Hakan.movie.mysterium_2": "*shivers*",
+"Hakan.movie.mysterium_3": "That was horrifying...I'm glad the ghosts of the mines aren't as scary. I never gave their purpose much thought.",
+"Hakan.movie.coldstarranch_1": "It's cold outside...I'm ready for a cozy movie.",
+"Hakan.movie.coldstarranch_2": "*sniff* $b%Hakan has a somber look on his face.",
+"Hakan.movie.coldstarranch_3": "Sorry, that movie brought up some old memories.",
+"Hakan.movie.naturalwonders_1": "A movie about our natural world, I'm gonna love this.",
+"Hakan.movie.naturalwonders_2": "Haha, crab rave!",
+"Hakan.movie.naturalwonders_3": "I loved that documentary...The pigeons in Zuzu city were so cute.",
+"Hakan.movie.wumbus_1": "A movie about an alien? This might be interesting.",
+"Hakan.movie.wumbus_2": "Ewww...",
+"Hakan.movie.wumbus_3": "What strange character designs.",
+"Hakan.movie.ithowlsintherain_1": "Wait, its the noise we sometimes hear in the rain!",
+"Hakan.movie.ithowlsintherain_2": "...&b%Hakan looks anxious",
+"Hakan.movie.ithowlsintherain_3": "*sigh* And still, no one has answers for what that strange noise is.",
+"Hakan.movie.zuzucity_1": "I'm not a huge fan of trains or old films, but this should be fun!",
+"Hakan.movie.zuzucity_2": "*Snore* &b%Hakan fell asleep...",
+"Hakan.movie.zuzucity_3": "*yawn* Is the movie over now?",
 
 // Festivals
 
@@ -47,33 +71,38 @@
 "Hakan.luau": "When I was a kid I threw a sea cucumber into the soup... $eIt took a while for everyone to forgive me after that.",
 "Hakan.moonjellies": "...Isn't it super weird that Pierre is selling merchandise at a jellyfish viewing? $e...and at many other town events. He's sacrificing these rare moments just to make a quick buck.",
 "Hakan.fair": "*Homf nomf* $b%Hakan is too busy eating burgers.",
-"Hakan.spirit": "It's kind of messed up that the guild captures monsters for the town's entertainment.",
-"Hakan.ice": "Puh, you won't beat me at the fishing competition. I have the touch.",
+"Hakan.spirit_01": "It's kind of messed up that the guild captures monsters for the town's entertainment.",
+"Hakan.spirit_02": "I should've dressed up as a vampire.",
+"Hakan.ice": "Puh, you won't beat me at the fishing competition. I have the touch.$bFish can't resist my rod.",
 "Hakan.winterstar": "I hope my recipient like the gift I got them. ",
-"Hakan.nightmarket": "Yo, you should try the deep fishing on the submarine. I've caught some really unusual fish there!",
+"Hakan.nightmarket_1": "Yo, you should try the deep fishing on the submarine. I've caught some really unusual fish there!",
+"Hakan.nightmarket_02": "Do you think they ",
 "Hakan.flowerdance": "I'm not really that interested in dancing. I'm just here for the food.",
 "Hakan.flowerdance_accept": "O-Oh um... sure! Guess I can put down the food for a bit...Sorry in advanced for my clumsiness.",
 "Hakan.flowerdance_accept_spouse": "...You are more important than the food. Of course.",
 "Hakan.flowerdance_decline": "No, I'm hungry.",
+"Hakan.desertfestival_01": "I heard their are scorpion carps in the pond... I wonder if they sting.",
+"Hakan.desertfestival_02": "Did you try some of the food from the chef over there? It was delicious.",
 
 // SVE COMMUNITY DAY
 
-"Hakan.cd_spring": "",
-"Hakan.cd_summer": "",
-"Hakan.cd_fall": "",
-"Hakan.cd_winter": "",
+"Hakan.cd_spring": "Caroline and I like to exchange our plant clippings here.",
+"Hakan.cd_summer": "Willy told me some fishing secrets...$bNow I'm unstoppable.",
+"Hakan.cd_fall": "I kind of feel like this building could be great for a guildhall...",
+"Hakan.cd_winter": "I taught Abigail some sword moves... She's got a sense of adventure, but lacks experience.",
 
-"Hakan.cd_married_spring": "",
-"Hakan.cd_married_summer": "",
-"Hakan.cd_married_fall": "",
-"Hakan.cd_married_winter": "",
+"Hakan.cd_married_spring": "*chuckles* do you think Pierre will stop hating me now that I'm taken?",
+"Hakan.cd_married_summer": "Honey, was it you who put the community center together? I have a feeling...",
+"Hakan.cd_married_fall": "Psst... Can you help me convince Clint to upgrade my weapons? I think he likes you better than me...",
+"Hakan.cd_married_winter": "Hello my love. Do you want some hot chocolate?",
 
 // Heart Events
 
 // Dating Dialogue
 
-"Hakan.dating": "$bUh, have you've seen any monsters lately?",
+"Hakan.dating": "$bUh, have you've seen any monsters lately? $bCause I think I see one right now.$bSorry, I'm bad at this.",
 "Hakan.dating_memory_oneday": "O-Oh hey honey... Sorry I'm trying to get used to this intimacy thing.",
+"Hakan.dating_memory_oneday": "It's been awhile... do you think we should take this relationship further?",
 "Hakan.divorced": "...Sorry I can't look at you right now.",
 "Hakan.breakup": "Really? Man that stings...I wish we could've worked out. I'm sorry I couldn't be a better boyfriend.",
 "Hakan.dumped_boys": "Man, you really sleep around huh? Wild.",
@@ -147,22 +176,96 @@
 "Hakan.fun_return.01": "I think I had a huge fish on the line today, but it broke my rod. I think I'm gonna need to fix my rod tonight. $bHeh...Can you help me out?",
 "Hakan.fun_leave.01": "Hey I'm gonna go out fishing today. I hope I get some good catches.",
 
-"Hakan.OneKid_1": "",
-"Hakan.OneKid_2": "",
-"Hakan.OneKid_3": "",
-"Hakan.OneKid_4": "",
-"Hakan.TwoKids_1": "",
-"Hakan.TwoKids_2": "",
-"Hakan.TwoKids_3": "",
-"Hakan.TwoKids_4": "",
+"Hakan.OneKid_1": "%kid1 is so cute... I just wanna spoil them.",
+"Hakan.OneKid_2": "I can't believe our family is expanding. I never thought I'd have my own child.",
+"Hakan.OneKid_3": "%kid1 sure is stubborn. I have to show a lot of restraint, but sometimes I question if that's even necessary. $bI wonder who they get it from.",
+"Hakan.OneKid_4": "Do you think I should start training %kid1 in the art of the sword? So they can defend themselves?",
+"Hakan.TwoKids_1": "I love our children, lets make sure they grow up to be great people. Just as great as you.",
+"Hakan.TwoKids_2": "I saw $kid1 and $kid2 wrestling earlier. It's adorable that $kid1 shows restraint with their little sibling. Melts my heart.",
+"Hakan.TwoKids_3": "Maybe I should take the kids out on a fishing trip sometime? Do you think they are old enough for the secret woods?",
+"Hakan.TwoKids_4": "I'm glad we grow much of the food that our children eat. They will grow up strong and healthy at this rate.",
 
 // Ginger Island
 
 "Hakan.resort_bar": "Ah, these tropical drinks are delicious, wanna try some?",
-"Hakan.resort_entering": "Hopefully the tiger slimes stay away... I'd like to just relaxy.",
+"Hakan.resort_entering": "Hopefully the tiger slimes stay away... I'd like to just relax.",
 "Hakan.resort_leaving": "Phew, those tiger slimes are strong! I had to swing my sword several times to subdue them.$eI don't think I'll be swinging my sword anymore tonight.",
 "Hakan.resort_shore": "...I wonder if there's any rare tropical fish here...",
 "Hakan.resort_wander": "No tiger slimes yet... I'm glad they are staying away from the beach.",
-"Hakan.resort_towel": "Ah, the sun feels so nice on my fur. You should sunbathe with me, dear.",
+"Hakan.resort_towel": "Ah, the sun feels so nice on my fur. Come here, you should sunbathe with me.",
+
+// Normal Schedule dialogue
+// Generic Dialogue for each day.
+
+//Spring
+
+"Hakan.Mon.Spring": "*sniffle* $b...Oh hi there! &bSorry, all the flowers blooming have made my allergies act up.",
+"Hakan.Tues.Spring": "Bah, all the monsters are starting to get active again...",
+"Hakan.Wed.Spring": "Have you've gone to the adventurers guild yet? I can smell the dust of the mines on you.",
+"Hakan.Thurs.Spring": "I've been slaying slimes since I was a teenager. Marlon taught me the way of the sword when I was younger.",
+"Hakan.Fri.Spring": "How have things been on the farm? No monsters have been spawning there I hope.",
+"Hakan.Sat.Spring": "I wonder how my friend Lance is doing. We used to go on a lot of quests together.$bBut at some point, we both got good enough to do jobs solo.",
+"Hakan.Sun.Spring": "I do admit, the trees are beautiful during the spring.",
+
+//Summer
+
+"Hakan.Mon.Summer": "Hey @, are you growing any blueberries on your farm?",
+"Hakan.Tues.Summer": "Caroline got me into plants. I was inspired when I saw her greenhouse.",
+"Hakan.Wed.Summer": "Have you've gone to the beach lately? Sometimes interesting things wash up.",
+"Hakan.Thurs.Summer": "The slimes get kind of sluggish during the summer, but the bugs man... the bugs!",
+"Hakan.Fri.Summer": "Man, this heat is almost unbearable. I'm all sweaty.",
+"Hakan.Sat.Summer": "I wonder if I can catch a pufferfish today. They are funny little guys. Or maybe a Tilapia, they are delicious.",
+"Hakan.Sun.Summer": "Marlon is covering for me today. I'm free to do whatever I want.",
+
+//Fall
+
+"Hakan.Mon.Fall": "Fall is probably my favorite season. The trees are so colorful. Will you be growing pumpkins?",
+"Hakan.Tues.Fall": "Monsters actually get pretty active during the fall. I wonder why?",
+"Hakan.Wed.Fall": "*Yawn* I'm so sleepy today...Maybe I'll sleep in the forest after clearing out all the slimes.",
+"Hakan.Thurs.Fall": "You know that shed south of the forest? I wonder who it belonged to.",
+"Hakan.Fri.Fall": "Did you forage any mushrooms lately? I love collecting them for my various dishes.",
+"Hakan.Sat.Fall": "Abigail sometimes gives me rocks in exchange for monster materials. $bI wonder what she would think about them being plonked into my fish tanks...",
+"Hakan.Sun.Fall": "Don't expect me to howl at the moon...I know I'm a wolf but I don't feel compelled to do that.",
+
+//Winter
+
+"Hakan.Mon.Winter": "Winter makes me appreciate my thick fur more. I never really get cold.",
+"Hakan.Tues.Winter": "Monsters tend to get sluggish during the winter...but I still patrol around just in case. They've been unpredictable lately.",
+"Hakan.Wed.Winter": "I used to make snowmen with my parents during the winter...",
+"Hakan.Thurs.Winter": "It's crazy to me how the train drops a bunch of supplies when it's passing through the valley. Why don't they put a freaking cover on the containers?",
+"Hakan.Fri.Winter": "I wonder if Willy will go ice fishing with me later...",
+"Hakan.Sat.Winter": "Hey @, cold day today huh? Do you want to borrow my jacket? $bI don't really need it.",
+"Hakan.Sun.Winter": "...$bHakan's mouth is frozen shut.$eWhat? It's cold outside...",
+
+// Specific Days
+
+"Hakan.Spring.12": "The egg festival is tomorrow... mmm eggs...",
+"Hakan.Spring.14": "I can't wait to go to the desert festival, the skull caverns are so interesting!",
+"Hakan.Spring.15": "Did you see the plants producing salmon berries? They make for a pretty good snack.",
+"Hakan.Spring.23": "Ah the flower dance is tomorrow... I don't care much for dancing but I love the seasonal food that Marnie and Gus cook up for it.",
+"Hakan.Summer.10": "So the Luau...what are you going to bring for it? $bMe? I'm gonna bring some fish I caught earlier!",
+"Hakan.Spring.19": "Heh, tomorrow is the trout derby. Are you going to be competing in it? Better not see you lackin'. $bIf you lose, dont feel too bad, them fish love to get hooked by me. Heh.",
+"Hakan.Fall.8": "Did you see the plants producing blackberries? I'm not too much of a fan of them but they are a good source of energy.",
+"Hakan.Fall.15": "Hehehe...I'm gonna make Gus go out of business tomorrow...",
+"Hakan.Fall.26": "Gotta go capture some monsters today...special request from Marlon.",
+"Hakan.Winter.07": "Hey @, are you participating in the fishing tourney tomorrow? &bHeh, I'll gladly give you second place.",
+"Hakan.Winter.11": "Tomorrow we will see a bunch of squid migrating in mass numbers... Gonna stock up",
+"Hakan.Winter.14": "Maybe the night market will have some useful items for me...",
+"Hakan.Winter.24": "I'm glad the town gets together for spirits eve. It prevents me from feeling lonely.",
+"Hakan.Spring.1YR2": "Happy new year, @! I wonder what this year will bring?",
+
+//Location Dialogues
+//For specific locations.
+
+"Hakan.Guild": "I wonder if there's any worthwhile quests...",
+"Hakan.Stardropsaloon": "*monch monch* &b%Hakan is busy eating food.",
+"Hakan.Stardropsaloon02": "Gus makes some of the best food. The spaghetti and salads here go crazy.",
+"Hakan.Ocean.01": "I feel at peace here.",
+"Hakan.Ocean.02": "Ah the sea... it is very calming.",
+"Hakan.Oceangazing": "Oh, hey @. I've been staring at the ocean. Sometimes I feel like I can get lost in it.",
+"Hakan.Dock": "I love the ocean. @, wanna sit and watch the waves with me?",
+"Hakan.WizardTower": "I wonder what magical things Marlon is up to?",
+"Hakan.Patrol_01": "Hey, @! Stay safe out there.",
+"Hakan.Patrol_02": "I heard rustling in the bushes...so I checked it out.&bIt was just Marnie and Lewis.&b...Freaks. "
 
 } 
