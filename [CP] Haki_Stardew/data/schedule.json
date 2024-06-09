@@ -3,19 +3,26 @@
 
 // Weekly Schedule
 
-"Mon": "600 AdventureGuild 7 16 0",
+"Mon": "610 Mountain 5 11 2/800 Mountain 5 11 2/1200 AdventureGuild 11 16 3/1500 Custom_AdventurerSummit 20 16 2/1800 Saloon 5 20 3/2400 Mountain 5 11 2",
 
-"Tue": "600 Backwoods 24 12 0",
+"Tue": "610 Mountain 5 11 2/610 Mountain 5 11 2",
 
-"Wed": "600 Backwoods 24 12 0",
+"Wed": "610 Mountain 5 11 2",
 
-"Thu": "600 Backwoods 24 12 0",
+"Thu": "610 Mountain 5 11 2",
 
-"Fri": "600 Backwoods 24 12 0",
+"Fri": "610 Mountain 5 11 2",
 
-"Sat": "600 Backwoods 24 12 0",
+"Sat": "610 Mountain 5 11 2",
 
-"Sun": "600 Backwoods 24 12 0"
+"Sun": "610 Mountain 5 11 2",
+
+"spring": "610 Mountain 5 11 2/610 Beach 40 24 2",
+"summer": "610 Mountain 5 11 2/610 Beach 40 24 2",
+"fall": "610 Mountain 5 11 2/610 Beach 40 24 2",
+"winter": "610 Mountain 5 11 2/610 Beach 40 24 2"
+
+
 
 // Holidays
 

@@ -6,27 +6,6 @@
 
             // Gifts
 
-
-
-
-
-            // Movie Theater Tastes
-
-            {
-                "Action": "EditData",
-                "Target": "Data/ConcessionTastes",
-                "Entries": {
-                "Hakan": {
-                    "Name": "Hakan",
-                    "LovedTags": [
-                    ],
-                    "LikedTags": [
-                    ],
-                    "DislikedTags": [
-                    ]
-                    }
-                }
-            }
         } 
     ]
 }

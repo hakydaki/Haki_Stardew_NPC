@@ -26,13 +26,33 @@
                     "ItemDeliveryQuests": "True",
                     "DumpsterDiveEmote": "8",
                     "WinterStarParticipant": "True",
+
+                    "BreathChestRect": {
+                        "X": 4,
+                        "Y": 17,
+                        "Width": 8,
+                        "Height": 5
+                    },
+
+                    "BreathChestPosition": {
+                        "X": 32,
+                        "Y": 0
+                    },
+
+                    //"BreathChestRect": {
+                    //    "X": 4,
+                    //    "Y": 17,
+                    //    "Width": 8,
+                    //    "Height": 4
+                    //},
+
                     "Home": [
                         {
                             "Id": "Default",
-                            "Location": "Backwoods",
+                            "Location": "Mountain",
                             "Tile": {
-                                "X": 24,
-                                "Y": 12
+                                "X": 5,
+                                "Y": 11
                             },
                             "Direction": "down"
                         }
