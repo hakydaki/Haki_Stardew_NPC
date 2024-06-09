@@ -5,10 +5,10 @@
   <property name="Warp" value="50 11 Mountain 0 13 50 12 Mountain 0 13 50 13 Mountain 0 13 50 14 Mountain 0 13 50 15 Mountain 0 13 50 16 Mountain 0 13 50 16 Mountain 0 13 13 40 Farm 40 0 14 40 Farm 40 0 15 40 Farm 40 0 50 28 BusStop 14 8 50 29 BusStop 14 8 50 30 BusStop 14 8 50 31 BusStop 14 8 50 32 BusStop 14 8 22 29 Tunnel 39 9 22 30 Tunnel 39 9 22 31 Tunnel 39 9 22 32 Tunnel 39 9"/>
  </properties>
  <tileset firstgid="1" name="monsterGraveTiles" tilewidth="16" tileheight="16" tilecount="15" columns="3">
-  <image source="E:/SteamLibrary/steamapps/common/Stardew Valley/Content (unpacked)/Maps/spring_monsterGraveTiles" width="48" height="80"/>
+  <image source="spring_monsterGraveTiles" width="48" height="80"/>
  </tileset>
  <tileset firstgid="16" name="outdoor" tilewidth="16" tileheight="16" tilecount="1975" columns="25">
-  <image source="E:/SteamLibrary/steamapps/common/Stardew Valley/Content (unpacked)/Maps/spring_outdoorsTileSheet" width="400" height="1264"/>
+  <image source="spring_outdoorsTileSheet" width="400" height="1264"/>
   <tile id="150">
    <properties>
     <property name="Spawnable" value="T"/>
@@ -1321,7 +1321,7 @@
   </tile>
  </tileset>
  <tileset firstgid="1991" name="Paths" tilewidth="16" tileheight="16" tilecount="64" columns="4">
-  <image source="E:/SteamLibrary/steamapps/common/Stardew Valley/Content (unpacked)/Maps/paths" width="64" height="256"/>
+  <image source="paths" width="64" height="256"/>
   <tile id="35">
    <properties>
     <property name="GreenRain" value="asdf"/>
@@ -1329,7 +1329,7 @@
   </tile>
  </tileset>
  <tileset firstgid="2055" name="v16_outdoorsTileSheet2" tilewidth="16" tileheight="16" tilecount="1120" columns="16">
-  <image source="E:/SteamLibrary/steamapps/common/Stardew Valley/Content (unpacked)/Maps/spring_outdoorsTileSheet2" width="256" height="1120"/>
+  <image source="spring_outdoorsTileSheet2" width="256" height="1120"/>
   <tile id="736">
    <properties>
     <property name="Type" value="Wood"/>
@@ -1362,7 +1362,7 @@
   </tile>
  </tileset>
  <tileset firstgid="3175" name="v16_Shadows" tilewidth="16" tileheight="16" tilecount="475" columns="19">
-  <image source="E:/SteamLibrary/steamapps/common/Stardew Valley/Content (unpacked)/Maps/spring_Shadows" width="304" height="400"/>
+  <image source="spring_Shadows" width="304" height="400"/>
  </tileset>
  <layer id="1" name="Back" width="50" height="25">
   <data encoding="csv">

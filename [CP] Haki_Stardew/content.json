@@ -3,19 +3,19 @@
     "Changes": [
         {
             "Action": "EditMap",
-            "Target": "Maps/Forest",
-            "FromFile": "assets/Maps/Forest.tmx",
+            "Target": "Maps/Railroad",
+            "FromFile": "assets/Maps/Railroad_patch.tmx",
             "FromArea": {
                 "X": 0,
                 "Y": 0,
-                "Width": 19,
-                "Height": 12
+                "Width": 8,
+                "Height": 9
             },
             "ToArea": {
-                "X": 69,
-                "Y": 22,
-                "Width": 19,
-                "Height": 12
+                "X": 0,
+                "Y": 53,
+                "Width": 8,
+                "Height": 9
             }
         },
     
@@ -108,10 +108,15 @@
     ],
     
     "CustomLocations": [
-       // add the in-game location
+       // add the in-game locations
        {
-          "Name": "Custom_Haki_Cabin",
-          "FromMapFile": "assets/maps/HakiCabin.tmx"
-       }
+            "Name": "Custom_Haki_Cabin",
+            "FromMapFile": "assets/maps/HakiCabin.tmx"
+       },
+       
+       {
+            "Name": "Custom_Foothills_pathway",
+            "FromMapFile": "assets/maps/foothills_pathway.tmx"
+        }
     ]
 }

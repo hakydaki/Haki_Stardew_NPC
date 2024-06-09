@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-down" width="8" height="9" tilewidth="16" tileheight="16" infinite="0" nextlayerid="21" nextobjectid="94">
  <editorsettings>
-  <export format="tbin"/>
+  <export target="C:/Users/Arkos/Documents/GitHub/Haki_Stardew/[CP] Haki_Stardew/assets/maps/Railroad_patch.tmx" format="tmx"/>
  </editorsettings>
  <properties>
   <property name="AllowGrassSurviveInWinter" value="T"/>
@@ -13,10 +13,10 @@
   <property name="Warp" value="27 62 Mountain 9 0 28 62 Mountain 9 0 29 62 Mountain 9 0 30 62 Mountain 9 0 54 33 WitchWarpCave 4 9 48 -1 Summit 11 28"/>
  </properties>
  <tileset firstgid="1" name="Paths" tilewidth="16" tileheight="16" tilecount="64" columns="4">
-  <image source="E:/SteamLibrary/steamapps/common/Stardew Valley/Content (unpacked)/Maps/paths.png" width="64" height="256"/>
+  <image source="paths" width="64" height="256"/>
  </tileset>
  <tileset firstgid="65" name="zspring_town" tilewidth="16" tileheight="16" tilecount="2304" columns="32">
-  <image source="E:/SteamLibrary/steamapps/common/Stardew Valley/Content (unpacked)/Maps/spring_town.png" width="512" height="1152"/>
+  <image source="spring_town" width="512" height="1152"/>
   <tile id="641">
    <properties>
     <property name="Type" value="Stone"/>
@@ -53,11 +53,8 @@
    </properties>
   </tile>
  </tileset>
- <tileset firstgid="2369" name="zspring_z_extras" tilewidth="16" tileheight="16" tilecount="0" columns="25">
-  <image source="E:/SteamLibrary/steamapps/common/Stardew Valley/Mods/[CP] Stardew Valley Expanded/assets/Maps/MapPatches/spring_z_extras.png" width="400" height="4096"/>
- </tileset>
- <tileset firstgid="7477" name="untitled tile sheet" tilewidth="16" tileheight="16" tilecount="1975" columns="25">
-  <image source="E:/SteamLibrary/steamapps/common/Stardew Valley/Content (unpacked)/Maps/spring_outdoorsTileSheet.png" width="400" height="1264"/>
+ <tileset firstgid="2369" name="untitled tile sheet" tilewidth="16" tileheight="16" tilecount="1975" columns="25">
+  <image source="spring_outdoorsTileSheet" width="400" height="1264"/>
   <tile id="150">
    <properties>
     <property name="Spawnable" value="t"/>
@@ -1201,34 +1198,11 @@
    </properties>
   </tile>
  </tileset>
- <tileset firstgid="9452" name="untitled tile sheet2" tilewidth="16" tileheight="16" tilecount="1975" columns="25">
-  <image source="E:/SteamLibrary/steamapps/common/Stardew Valley/Content (unpacked)/Maps/spring_outdoorsTileSheet.png" width="400" height="1264"/>
-  <tile id="736">
-   <properties>
-    <property name="Type" value="Wood"/>
-   </properties>
-  </tile>
-  <tile id="737">
-   <properties>
-    <property name="Type" value="Wood"/>
-   </properties>
-  </tile>
-  <tile id="752">
-   <properties>
-    <property name="Type" value="Wood"/>
-   </properties>
-  </tile>
-  <tile id="753">
-   <properties>
-    <property name="Type" value="Wood"/>
-   </properties>
-  </tile>
+ <tileset firstgid="4344" name="v16_Shadows" tilewidth="16" tileheight="16" tilecount="475" columns="19">
+  <image source="spring_Shadows" width="304" height="400"/>
  </tileset>
- <tileset firstgid="11427" name="v16_Shadows" tilewidth="16" tileheight="16" tilecount="475" columns="19">
-  <image source="E:/SteamLibrary/steamapps/common/Stardew Valley/Content (unpacked)/Maps/spring_Shadows.png" width="304" height="400"/>
- </tileset>
- <tileset firstgid="11902" name="zspring_island_tilesheet_1" tilewidth="16" tileheight="16" tilecount="1280" columns="32">
-  <image source="E:/SteamLibrary/steamapps/common/Stardew Valley/Content (unpacked)/Maps/spring_island_tilesheet_1.png" width="512" height="640"/>
+ <tileset firstgid="4819" name="zspring_island_tilesheet_1" tilewidth="16" tileheight="16" tilecount="1280" columns="32">
+  <image source="spring_island_tilesheet_1" width="512" height="640"/>
   <tile id="305">
    <properties>
     <property name="Type" value="Grass"/>
@@ -1242,7 +1216,7 @@
  </tileset>
  <layer id="1" name="Back" width="8" height="9">
   <data encoding="base64" compression="zlib">
-   eJybIsfA4AfEpkD8RJaBYb0+A8NBJgYGR2YGBicgngIUT4fKnQXio3IQeUWgnBJUvgGIq4C4Gohr5FD1rwXy1wHxZDmI2qlQ+UNQvAiIl6DRTMwI80FmOGKhYWxc8jD9SkhsZyQ+TC3IX+j4IdANj6AYABFcJNE=
+   eJxbwMXAEAXEjkD8gZOBgUWEgeEgE5DPzMDgBMQLgOLFULmbQHyRCyKvCJRTgsr3AHEbELcDcQcXqv6dQP4uIJ7PBVG7ECp/CIoXAfESNJqJGWE+yAxHLDSMjUsepl8Jie2MxIepBfkLHT8EuuERFAMAtJkjSw==
   </data>
  </layer>
  <objectgroup id="2" name="Back"/>
@@ -1251,7 +1225,7 @@
    <property name="Draw" value="Back"/>
   </properties>
   <data encoding="base64" compression="zlib">
-   eJxjYMAEp3QYGJh0IRgboLX8EqD8HSgeaAAADO4IMQ==
+   eJxjYMAE8oIMDOFQjA3QWv6nAAODoSAEDzQAADLiBY4=
   </data>
  </layer>
  <objectgroup id="4" name="Back2"/>
@@ -1260,13 +1234,13 @@
    <property name="Draw" value="Back"/>
   </properties>
   <data encoding="base64" compression="zlib">
-   eJxjYMAEfMpYBJGAOlDeGY8aRzmIGlxAFSinBsTMuvjtGQwAANiSAkw=
+   eJxjYMAEUvxYBJGAMVDeH48aXy6IGkIgQpCwmoEGAHn0Acw=
   </data>
  </layer>
  <objectgroup id="6" name="Back3"/>
  <layer id="7" name="Buildings" width="8" height="9">
   <data encoding="base64" compression="zlib">
-   eJxbocaAFWgpMzBoA/FBoHyrAgNDmwJCTkOOgYEPKOcCxLeA8vOAcvOR5HmA4rxAHAvEn3GYDwJlQHkedexyOiwMDBVAerYsbv0MUHkYJgeg61sP9FsNED+RhWAATloRZA==
+   eJz7y8WAFZjxMzCYA7EYNwPDRB4Ghkk8CDkToB4poFwAEOsD5VcB5VYjyUsAxSWBOBOIPbgxzTYEihsBcRMQJ0LlpYFmygCxL9Q9OiwMDBXYnUZVsIQLFe8G4g4g/sAJwQAPng8/
   </data>
  </layer>
  <objectgroup id="8" name="Buildings"/>
@@ -1275,16 +1249,16 @@
    <property name="Draw" value="Buildings"/>
   </properties>
   <data encoding="base64" compression="zlib">
-   eJxjYBg4EDGAdhMLADmAAFk=
+   eJxjYKAPYOJiYGAGYhMuhFgEneymBAAAdcYAsA==
   </data>
  </layer>
  <objectgroup id="10" name="Buildings2"/>
  <layer id="11" name="Front" width="8" height="9">
   <data encoding="base64" compression="zlib">
-   eJxjYMAOtJQZGLSVcUhSAfCw0M5sZHBZjoHhkhwmDWPPQMPr5VD1AwB3GgvV
+   eJxjYMAOzPgZGMz5cUhSAfCw0M5sZHCfi4HhHhcmDWMTAgAE2Afg
   </data>
  </layer>
- <objectgroup id="12" name="Front"/>
+ <objectgroup id="12" name="Front" locked="1"/>
  <layer id="13" name="Paths" width="8" height="9">
   <data encoding="base64" compression="zlib">
    eJxjYIAAHgbaAnE62EELAAAnOAAw
@@ -1293,7 +1267,7 @@
  <objectgroup id="14" name="Paths"/>
  <layer id="15" name="AlwaysFront" width="8" height="9">
   <data encoding="base64" compression="zlib">
-   eJxzlGXAC6JwyJ9lhtDFOOTfQOV7CJhPLLAHmuMAxI5o5jlA+RFAOlIW070wsUIgLpKFuHcbM0IeJtYFxN2yEPfC7AIBAGlfDcc=
+   eJzz5WTAC9JwyJ9lhtD1OOTfQOVnEDCfWOANNMcHiH3RzPOB8lOAdConpnthYrVAXMcJce82ZoQ8TGwaEE/nhLgXZhcIAAAqSw0P
   </data>
  </layer>
  <objectgroup id="16" name="AlwaysFront"/>
@@ -1311,7 +1285,7 @@
    <property name="Draw" value="AlwaysFront"/>
   </properties>
   <data encoding="base64" compression="zlib">
-   eJxjYKAP+CbLwPAdiDXksMvzA8UFgNgRhzw5wF4Wv3wEAflCoDwATekEhw==
+   eJxjYBi+wJsTv3wKAflaoDwAKMEBSA==
   </data>
  </layer>
  <objectgroup id="20" name="AlwaysFront3"/>
