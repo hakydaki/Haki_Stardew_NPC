@@ -1,10 +1,32 @@
 {
     "Format": "2.0.0",
+
+    "CustomLocations": [
+        // add the custom in-game locations
+        
+        {
+            "Name": "Custom_haki_cabin",
+        "FromMapFile": "assets/maps/taki_HakiCabin.tmx"
+        },
+
+        {
+            "Name": "Custom_foothills",
+            "FromMapFile": "assets/maps/taki_foothills.tmx"
+        },
+
+         {
+             "Name": "Custom_foothills_pathway",
+             "FromMapFile": "assets/maps/taki_foothills_pathway.tmx"
+         }
+     ],
+
     "Changes": [
+
+    // Railroad Map Patch
         {
             "Action": "EditMap",
             "Target": "Maps/Railroad",
-            "FromFile": "assets/Maps/Railroad_patch.tmx",
+            "FromFile": "assets/Maps/taki_Railroad_patch.tmx",
             "FromArea": {
                 "X": 0,
                 "Y": 0,
@@ -18,7 +40,134 @@
                 "Height": 9
             }
         },
-    
+
+
+    // Map warps to connect railroad to foothills pathway
+
+    //RAILROAD WARPS
+		{
+			"Action": "EditMap",
+			"Target": "Maps/Railroad",
+			"MapTiles": [
+				{
+					"Position": { "X": 0, "Y": 58},
+					"Layer": "Back",
+					"SetProperties": {
+						"TouchAction": "Warp Custom_foothills_pathway 49 13"
+					}
+				},
+				{
+					"Position": { "X": 0, "Y": 59},
+					"Layer": "Back",
+					"SetProperties": {
+						"TouchAction": "Warp Custom_foothills_pathway 49 14"
+					}
+				},
+				{
+					"Position": { "X": 0, "Y": 60},
+					"Layer": "Back",
+					"SetProperties": {
+						"TouchAction": "Warp Custom_foothills_pathway 49 15"
+					}
+				}
+            ]
+        },
+
+    //FOOTHILLS PATHWAY WARPS
+        {
+			"Action": "EditMap",
+			"Target": "Maps/Custom_foothills_pathway",
+			"MapTiles": [
+				{
+					"Position": { "X": 22, "Y": 0},
+					"Layer": "Back",
+					"SetProperties": {
+						"TouchAction": "Warp Custom_foothills 22 28"
+					}
+				},
+				{
+					"Position": { "X": 23, "Y": 0},
+					"Layer": "Back",
+					"SetProperties": {
+						"TouchAction": "Warp Custom_foothills 22 28"
+					}
+				},
+				{
+					"Position": { "X": 24, "Y": 0},
+					"Layer": "Back",
+					"SetProperties": {
+						"TouchAction": "Warp Custom_foothills 23 28"
+					}
+				},
+                {
+					"Position": { "X": 25, "Y": 0},
+					"Layer": "Back",
+					"SetProperties": {
+						"TouchAction": "Warp Custom_foothills 23 28"
+					}
+				},
+                {
+					"Position": { "X": 26, "Y": 0},
+					"Layer": "Back",
+					"SetProperties": {
+						"TouchAction": "Warp Custom_foothills 24 28"
+					}
+				},
+                {
+					"Position": { "X": 27, "Y": 0},
+					"Layer": "Back",
+					"SetProperties": {
+						"TouchAction": "Warp Custom_foothills 24 28"
+					}
+				},
+                {
+					"Position": { "X": 28, "Y": 0},
+					"Layer": "Back",
+					"SetProperties": {
+						"TouchAction": "Warp Custom_foothills 25 28"
+					}
+				}
+            ]
+        },
+
+    //FOOTHILLS WARPS
+
+        {
+			"Action": "EditMap",
+			"Target": "Maps/Custom_foothills",
+			"MapTiles": [
+				{
+					"Position": { "X": 22, "Y": 29},
+					"Layer": "Back",
+					"SetProperties": {
+						"TouchAction": "Warp Custom_foothills_pathway 23 1"
+					}
+				},
+                {
+					"Position": { "X": 23, "Y": 29},
+					"Layer": "Back",
+					"SetProperties": {
+						"TouchAction": "Warp Custom_foothills_pathway 25 1"
+					}
+				},
+                {
+					"Position": { "X": 24, "Y": 29},
+					"Layer": "Back",
+					"SetProperties": {
+						"TouchAction": "Warp Custom_foothills_pathway 26 1"
+					}
+				},
+                {
+					"Position": { "X": 25, "Y": 29},
+					"Layer": "Back",
+					"SetProperties": {
+						"TouchAction": "Warp Custom_foothills_pathway 28 1"
+					}
+				}
+            ]
+        },
+        
+
     // Haki NPC stuff
 
             //DATA LOADING
@@ -105,18 +254,5 @@
         //     "Target": "Characters/Hakan",
         //     "FromFile": "assets/characters/sprites/hakan_casual.png"
         // }
-    ],
-    
-    "CustomLocations": [
-       // add the in-game locations
-       {
-            "Name": "Custom_Haki_Cabin",
-            "FromMapFile": "assets/maps/HakiCabin.tmx"
-       },
-       
-       {
-            "Name": "Custom_Foothills_pathway",
-            "FromMapFile": "assets/maps/foothills_pathway.tmx"
-        }
     ]
 }
