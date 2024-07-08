@@ -1,26 +1,28 @@
 {
 // Special
 
-"Hakan.Intro": "Hello, @, I heard you were the new farmer that moved in. I'm Hakan. I actually work at the adventurers guild but Marlon called me back.",
-"Hakan.Intro2": "I heard you reached to bottom of the mines. Unfortunately, it's seems to have riled up the monsters.", 
-"Hakan.Intro3": "But don't worry, I'm here to help keep them under control. Hope to see you around on my patrols!",
+"Hakan.Intro": "Hello, @, I heard you were the new farmer that moved in. Name's Hakan. I actually work at the adventurers guild but Marlon called me back. #$b#See, the monsters in the mines have been riled up for some reason. #$b#But don't worry, I'm here to help keep them under control. See you around, farmer.",
 "Hakan.GreenRain": "Green rain... I heard it was good for the environment but its awful for my nose.",
-"Hakan.GreenRainFinished": "*sniff* My allergies are still awful today.",
+"Hakan.GreenRainFinished": "*sniff* My allergies are still awful. It will take days for them to clear out.",
 "Hakan.Dumpsterdive": "...I hope you aren't eating that.",
 "Hakan.cc_Complete": "I feel a great natural magic surrounding the valley. Your offerings have made the forest spirits happy, perhaps it will keep the monsters at bay.",
 "Hakan.movietheatercreated": "The new movie theater looks amazing. It appeared overnight. I wonder what powers are capable of doing that?",
 "Hakan.summit": "Look at you, look at us! You put Stardew Valley on the map!$bI'm so glad we got to go on this ride together. I will protect you with all my heart.",
-"Hakan.married.abigail": "",
+"Hakan.pamHouseUpgrade": "I heard you got Pam a new house. It looks so much better than that old trailer...Maybe I should ask Robin to fix up the cabin?",
+"Hakan.pamHouseUpgradeAnonymous": "Hmph, I wonder who got Pam a new house. #$b^Hakan stares at you suspiciously. #$bWas it you?",
 
-// SVE Special Dialogues
+// Married other npcs dialogues
 
 "Hakan.married.wizard": "I didn't expect you and the wizard to hitch up. Congrats!",
 "Hakan.married.lance": "Heh, I'd say my old adventuring buddy scored with you.",
 "Hakan.roommates.krobus": "I never thought you'd make a friend with a shadow person. I always thought that they just wanted to hurt us. Maybe there's more to them than I thought.",
+"Hakan.married.abigail": "",
+"Hakan.married.sam": "",
+"Hakan.married.sophia": "",
 
 // Gift Tastes
 
-"Gifts.Hakan.Loved": "Damn, you know exactly the way to a man's heart.",
+"Gifts.Hakan.Loved": "Damn, you really know the way to a man's heart.",
 "Gifts.Hakan.Liked": "Oh! For me? How thoughtful of you.",
 "Gifts.Hakan.Disliked": "Um, no thanks.",
 "Gifts.Hakan.Hated": "You can...get this thing out of my sight.",
@@ -28,10 +30,11 @@
 
 // Specific Gift Dialogues
 
-"Gifts.Hakan.StardropTea": "Wow, this should  my stamina.$b Thanks, now I can keep you safer!",
+"Gifts.Hakan.StardropTea": "Wow, this should increase my stamina greatly.$b Thanks, now I can keep you safer!",
 "Gifts.Hakan.Fish": "*gasp* A fish for my collection? I love this, thank you!",
 "Gifts.Hakan.Driftwood": "Woah, this would look amazing in my next aquascape. I'll be sure to show you sometime.",
 "Gifts.Hakan.Woodskip": "*gasp* Woodskip! My favorite fish. He will go with the others in my pond.",
+"Gifts.Hakan.AgedBlueMoonWine": "Ah, Sophia's specialty. I've always loved the taste. Thank you!",
 
 // Birthday
 
@@ -71,20 +74,30 @@
 "Hakan.luau": "When I was a kid I threw a sea cucumber into the soup... $eIt took a while for everyone to forgive me after that.",
 "Hakan.moonjellies": "...Isn't it super weird that Pierre is selling merchandise at a jellyfish viewing? $e...and at many other town events. He's sacrificing these rare moments just to make a quick buck.",
 "Hakan.fair": "*Homf nomf* $b%Hakan is too busy eating burgers.",
-"Hakan.spirit_01": "It's kind of messed up that the guild captures monsters for the town's entertainment.",
-"Hakan.spirit_02": "I should've dressed up as a vampire.",
+"Hakan.spirit": "It's kind of messed up that the guild captures monsters for the town's entertainment.#$b#I should've just dressed up as a vampire.",
 "Hakan.ice": "Puh, you won't beat me at the fishing competition. I have the touch.$bFish can't resist my rod.",
-"Hakan.winterstar": "I hope my recipient like the gift I got them. ",
+"Hakan.winterstar": "I hope my recipient likes the gift I got them...",
 "Hakan.nightmarket_1": "Yo, you should try the deep fishing on the submarine. I've caught some really unusual fish there!",
 "Hakan.nightmarket_02": "Do you think they ",
 "Hakan.flowerdance": "I'm not really that interested in dancing. I'm just here for the food.",
 "Hakan.flowerdance_accept": "O-Oh um... sure! Guess I can put down the food for a bit...Sorry in advanced for my clumsiness.",
 "Hakan.flowerdance_accept_spouse": "...You are more important than the food. Of course.",
 "Hakan.flowerdance_decline": "No, I'm hungry.",
-"Hakan.desertfestival_01": "I heard their are scorpion carps in the pond... I wonder if they sting.",
+"Hakan.desertfestival_01": "I heard there are scorpion carps in the pond... I wonder if they sting.",
 "Hakan.desertfestival_02": "Did you try some of the food from the chef over there? It was delicious.",
 
-// SVE COMMUNITY DAY
+// Married Festival Variants
+
+"Hakan.eggfestival_spouse": "Hey you! *blushes* $bDon't worry, I smuggled some eggs for us to share at home. Heheheh.$eWe should cook something delicious up.",
+"Hakan.flowerdance_spouse": "*Homf nomf* Hey handsome. You're lookin' almost as good as this meal right here. Almost.^*Homf nomf* Hey beautiful. You're lookin' almost as good as this meal right here. Almost.",
+"Hakan.luau_spouse": "Hey sexy, why don't you lose the shirt and cuddle with me. I know you like it.$bOh wait, maybe we should eat first...",
+"Hakan.moonjellies_spouse": "H-h...wow you look quite dashing under the moonlight. You stand out like the green jellyfish.",
+"Hakan.fair_spouse": "*Homf nomf chomp chomp*&bOh! Hey handsome, wanna share some with me? Gus's burgers are fire.^*Homf nomf chomp chomp*&bOh! Hey beautiful, wanna share some with me? Gus's burgers are fire.",
+"Hakan.spirit_spouse": "Heh, are you a skeleton? Cause I have a bone to pick with you.$b...What? We all have bones inside of us.",
+"Hakan.ice_spouse": "Just because we are married doesn't I'm gonna go easy on you. They always want my rod.",
+"Hakan.winterstar_spouse": "I may not be your secret gifter this year, but I have a *BIG* gift for you when we get home. Prepare yourself.",
+
+// SVE COMMUNITY DAY:
 
 "Hakan.cd_spring": "Caroline and I like to exchange our plant clippings here.",
 "Hakan.cd_summer": "Willy told me some fishing secrets...$bNow I'm unstoppable.",
@@ -100,18 +113,19 @@
 
 // Dating Dialogue
 
-"Hakan.dating": "$bUh, have you've seen any monsters lately? $bCause I think I see one right now.$bSorry, I'm bad at this.",
+"Hakan.dating": "$bUh, have you've seen any monsters lately? $bCause I think I see one right now.$bEr....Sorry, I'm bad at this.",
 "Hakan.dating_memory_oneday": "O-Oh hey honey... Sorry I'm trying to get used to this intimacy thing.",
-"Hakan.dating_memory_oneday": "It's been awhile... do you think we should take this relationship further?",
+"Hakan.dating_memory_oneyear": "It's been awhile... do you think we should take this relationship further?",
 "Hakan.divorced": "...Sorry I can't look at you right now.",
 "Hakan.breakup": "Really? Man that stings...I wish we could've worked out. I'm sorry I couldn't be a better boyfriend.",
 "Hakan.dumped_boys": "Man, you really sleep around huh? Wild.",
+"Hakan.second_chance": "...*sigh* I suppose we can try and make this work. I still have feelings for you after all.",
 
 // Marriage Dialogue
 
 "Hakan.patio": "Good Morning, @. Don't mind me, just watering some of the plants.",
 "Hakan.spouse_room": "Ah, it is so relaxing in here. Come, lets cuddle and watch a movie, dear.",
-"Hakan.stardrop": "Hey handsome. I made something special for you.^Hey beautiful. I made something special for you.",
+"Hakan.stardrop": "Hey handsome. I've got something special for you.^Hey beautiful. I've got something special for you.",
 
 "Hakan.rainyday.01": "I love the smell of rain. Stay safe out there, I've been hearing something mysterious occasionally.",
 "Hakan.rainyday.02": "The rain should wash all the pollen away. My nose will be feeling clear tomorrow.",
@@ -176,7 +190,7 @@
 "Hakan.fun_return.01": "I think I had a huge fish on the line today, but it broke my rod. I think I'm gonna need to fix my rod tonight. $bHeh...Can you help me out?",
 "Hakan.fun_leave.01": "Hey I'm gonna go out fishing today. I hope I get some good catches.",
 
-"Hakan.OneKid_1": "%kid1 is so cute... I just wanna spoil them.",
+"Hakan.OneKid_1": "%kid1 is so cute... I wanna spoil them.",
 "Hakan.OneKid_2": "I can't believe our family is expanding. I never thought I'd have my own child.",
 "Hakan.OneKid_3": "%kid1 sure is stubborn. I have to show a lot of restraint, but sometimes I question if that's even necessary. $bI wonder who they get it from.",
 "Hakan.OneKid_4": "Do you think I should start training %kid1 in the art of the sword? So they can defend themselves?",
@@ -193,6 +207,7 @@
 "Hakan.resort_shore": "...I wonder if there's any rare tropical fish here...",
 "Hakan.resort_wander": "No tiger slimes yet... I'm glad they are staying away from the beach.",
 "Hakan.resort_towel": "Ah, the sun feels so nice on my fur. Come here, you should sunbathe with me.",
+"Hakan.resort_dance": "Ha-haw...Oh hey @! Just tryna get my squats in.",
 
 // Normal Schedule dialogue
 // Generic Dialogue for each day.
@@ -259,13 +274,32 @@
 
 "Hakan.Guild": "I wonder if there's any worthwhile quests...",
 "Hakan.Stardropsaloon": "*monch monch* &b%Hakan is busy eating food.",
-"Hakan.Stardropsaloon02": "Gus makes some of the best food. The spaghetti and salads here go crazy.",
+"Hakan.Stardropsaloon02": "Gus makes some of the best food. The spaghetti and salads go especially crazy.",
 "Hakan.Ocean.01": "I feel at peace here.",
 "Hakan.Ocean.02": "Ah the sea... it is very calming.",
 "Hakan.Oceangazing": "Oh, hey @. I've been staring at the ocean. Sometimes I feel like I can get lost in it.",
 "Hakan.Dock": "I love the ocean. @, wanna sit and watch the waves with me?",
 "Hakan.WizardTower": "I wonder what magical things Marlon is up to?",
 "Hakan.Patrol_01": "Hey, @! Stay safe out there.",
-"Hakan.Patrol_02": "I heard rustling in the bushes...so I checked it out.&bIt was just Marnie and Lewis.&b...Freaks. "
+"Hakan.Patrol_02": "I heard rustling in the bushes...so I checked it out.&bIt was just Marnie and Lewis.&b...Freaks. ",
+
+//Map Strings
+
+"Strings.HakiCabin.1": "debug1",
+"Strings.HakiCabin.2": "debug2",
+"Strings.HakiCabin.3": "debug3",
+"Strings.HakiCabin.4": "debug4",
+"Strings.HakiCabin.5": "debug5",
+"Strings.HakiCabin.6": "debug6",
+"Strings.HakiCabin.7": "debug7",
+"Strings.HakiCabin.8": "debug8",
+"Strings.HakiCabin.9": "debug9",
+"Strings.HakiCabin.10": "debug10",
+"Strings.HakiCabin.11": "debug11",
+"Strings.HakiCabin.12": "debug12",
+
+"Strings.Foothills": "debug",
+"Strings.FunnySilo.": "debug",
+"Strings.FoothillsPathway": "debug"
 
 } 

@@ -4,6 +4,7 @@
 {
     "Changes": [
         {
+            "LogName": "Hakan NPC Setup",
             "Action": "EditData",
             "Target": "Data/Characters",
             "Entries": {
@@ -22,8 +23,9 @@
                     "CanReceiveGifts": "True",
                     "SocialTab": "UnknownUntilMet",
                     "Calendar": "HiddenUntilMet",
-                    "IntroductionsQuest": "True",
+                    "IntroductionsQuest": "False",
                     "ItemDeliveryQuests": "True",
+                    "CanGreetNearbyCharacters": true,
                     "DumpsterDiveEmote": "8",
                     "WinterStarParticipant": "True",
 
@@ -39,22 +41,15 @@
                         "Y": 0
                     },
 
-                    //"BreathChestRect": {
-                    //    "X": 4,
-                    //    "Y": 17,
-                    //    "Width": 8,
-                    //    "Height": 4
-                    //},
-
                     "Home": [
                         {
                             "Id": "Default",
-                            "Location": "Mountain",
+                            "Location": "Custom_haki_cabin",
                             "Tile": {
-                                "X": 5,
-                                "Y": 11
+                                "X": 18,
+                                "Y": 5
                             },
-                            "Direction": "down"
+                            "Direction": "left"
                         }
                     ]
                 }

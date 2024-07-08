@@ -1,0 +1,26 @@
+{
+	"Changes": [
+		{
+			"Action": "EditData",
+			"Target": "Strings/StringsFromMaps",
+			"Entries": {
+				"HakiCabin.1": "{{i18n:Strings.HakiCabin.1}}",
+				"HakiCabin.2": "{{i18n:Strings.HakiCabin.2}}",
+                "HakiCabin.3": "{{i18n:Strings.HakiCabin.3}}",
+                "HakiCabin.4": "{{i18n:Strings.HakiCabin.4}}",
+                "HakiCabin.5": "{{i18n:Strings.HakiCabin.5}}",
+                "HakiCabin.6": "{{i18n:Strings.HakiCabin.6}}",
+                "HakiCabin.7": "{{i18n:Strings.HakiCabin.7}}",
+                "HakiCabin.8": "{{i18n:Strings.HakiCabin.8}}",
+                "HakiCabin.9": "{{i18n:Strings.HakiCabin.9}}",
+                "HakiCabin.10": "{{i18n:Strings.HakiCabin.10}}",
+                "HakiCabin.11": "{{i18n:Strings.HakiCabin.11}}",
+                "HakiCabin.12": "{{i18n:Strings.HakiCabin.12}}",
+
+                "Foothills": "{{i18n:Strings.Foothills}}",
+                "FunnySilo": "{{i18n:Strings.Foothills}}",
+                "FoothillsPathway": "{{i18n:Strings.FoothillsPathway}}"
+			}
+		}
+	]
+}

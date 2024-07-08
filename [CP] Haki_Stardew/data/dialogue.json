@@ -1,8 +1,47 @@
+//Haki Basic Dialogues
 {
-// Haki Dialogues
+    "Changes": [
+      {
+        "Action": "EditData",
+        "Target": "Characters/Dialogue/Hakan",
+        "Entries": 
+        {
+        //Special Dialogue
 
-"Introduction": "hello gay people"
-
-//Marriage
+            "Introduction":"{{i18n:Hakan.Intro}}",
+            "GreenRain":"{{i18n:Hakan.GreenRain}}",
+            "GreenRainFinished":"{{i18n:Hakan.GreenRainFinished}}",
+            "DumpsterDiveComment":"{{i18n:Hakan.Dumpsterdive}}",
+            "breakUp": "{{i18n:Hakan.breakup}}",
+            "divorced": "{{i18n:Hakan.divorced}}",
+            "secondChance_Guys": "{{i18n:Hakan.second_chance}}",
         
+        //Ginger Island
+
+            "Resort_Entering":"{{i18n:Hakan.resort_entering}}",
+            "Resort_Leaving":"{{i18n:Hakan.resort_leaving}}",
+            "Resort_Shore":"{{i18n:Hakan.resort_shore}}",
+            "Resort_Wander":"{{i18n:Hakan.resort_wander}}",
+            "Resort_Towel":"{{i18n:Hakan.resort_towel}}",
+            "Resort_Dance":"{{i18n:Hakan.resort_dance}}",
+            "Resort_Bar":"{{i18n:Hakan.resort_bar}}",
+        
+        //Conversation Topics
+
+            "pamHouseUpgrade":"{{i18n:Hakan.pamHouseUpgrade}}",
+            "pamHouseUpgradeAnonymous":"{{i18n:Hakan.pamHouseUpgradeAnonymous}}",
+            "cc_Complete": "{{i18n:Hakan.cc_Complete}}",
+            "dumped_Guys": "{{i18n:Hakan.cc_dumped_boys}}",
+
+        //Specific Gift Dialogues
+
+        //Usual Schedule Dialogues
+            
+        //Specific Tiles
+
+            
+
+        }
+    }
+    ]
 }

@@ -2,11 +2,13 @@
 // MOVIE THEATRE DATA
 
 // TASTES
-{   
+{
+	"Changes": [
+		{
 			"Action": "EditData",
 			"Target": "Data/ConcessionTastes",
 			"Entries": { 
-				"Nanami": {
+				"Hakan": {
 					"Name": "Hakan",
 					"LovedTags": [
 						"Nachos",
@@ -25,238 +27,242 @@
 					]
 				} 
 			}
-		}
+		},
 
 // CUSTOM REACTIONS
 
-{
-	"Action": "EditData",
-	"Target": "Data/MoviesReactions",
-	"Entries": {
-	  "Hakan": {
-		"NPCName": "Hakan",
-		"Reactions": [
+		{
+			"Action": "EditData",
+			"Target": "Data/MoviesReactions",
+			"Entries": {
+				"Hakan": {
+					"NPCName": "Hakan",
+					"Reactions": [
 
-		  {
-			
-			//The Brave Little Sapling
-			"Tag": "spring_movie_0",
-			"Response": "like",
-			"Whitelist": [],
-			"SpecialResponses": {
-			  "BeforeMovie": {
-				"ResponsePoint": null,
-				"Script": "",
-				"Text": "{{Hakan.movie.bravelilsapling_1}}",
-			  },
-			  "DuringMovie": {
-				"ResponsePoint": null,
-				"Script": "",
-				"Text": "{{Hakan.movie.bravelilsapling_2}}",
-			  },
-			  "AfterMovie": {
-				"ResponsePoint": null,
-				"Script": "",
-				"Text": "{{Hakan.movie.bravelilsapling_3}}",
-			  }
-			},
-			"ID": "reaction_0"
+						{
+							
+							//The Brave Little Sapling
+							"Tag": "spring_movie_0",
+							"Response": "like",
+							"Whitelist": [],
+							"SpecialResponses": {
+							"BeforeMovie": {
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "{{Hakan.movie.bravelilsapling_1}}",
+							},
+							"DuringMovie": {
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "{{Hakan.movie.bravelilsapling_2}}",
+							},
+							"AfterMovie": {
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "{{Hakan.movie.bravelilsapling_3}}",
+							}
+							},
+							"ID": "reaction_0"
 
-		  },
+						},
 
-		  {
-			
-			//Natural Wonders
-			"Tag": "spring_movie_1",
-			"Response": "love",
-			"Whitelist": [],
-			"SpecialResponses": {
-			  "BeforeMovie": {
-				"ResponsePoint": null,
-				"Script": "",
-				"Text": "{{Hakan.movie.naturalwonders_1}}",
-			  },
-			  "DuringMovie": {
-				"ResponsePoint": null,
-				"Script": "",
-				"Text": "{{Hakan.movie.naturalwonders_2}}",
-			  },
-			  "AfterMovie": {
-				"ResponsePoint": null,
-				"Script": "",
-				"Text": "{{Hakan.movie.naturalwonders_3}}",
-			  }
-			},
-			"ID": "reaction_1"
+						{
+							
+							//Natural Wonders
+							"Tag": "spring_movie_1",
+							"Response": "love",
+							"Whitelist": [],
+							"SpecialResponses": {
+							"BeforeMovie": {
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "{{Hakan.movie.naturalwonders_1}}",
+							},
+							"DuringMovie": {
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "{{Hakan.movie.naturalwonders_2}}",
+							},
+							"AfterMovie": {
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "{{Hakan.movie.naturalwonders_3}}",
+							}
+							},
+							"ID": "reaction_1"
 
-		  },
+						},
 
-		  {
-			
-			//Journey of the Prairie King
-			"Tag": "summer_movie_0",
-			"Response": "like",
-			"Whitelist": [],
-			"SpecialResponses": {
-			  "BeforeMovie": {
-				"ResponsePoint": null,
-				"Script": "",
-				"Text": "{{Hakan.movie.journeyofprairie_1}}",
-			  },
-			  "DuringMovie": {
-				"ResponsePoint": null,
-				"Script": "",
-				"Text": "{{Hakan.movie.journeyofprairie_2}}",
-			  },
-			  "AfterMovie": {
-				"ResponsePoint": null,
-				"Script": "",
-				"Text": "{{Hakan.movie.journeyofprairie_3}}",
-			  }
-			},
-			"ID": "reaction_2"
+						{
+							
+							//Journey of the Prairie King
+							"Tag": "summer_movie_0",
+							"Response": "like",
+							"Whitelist": [],
+							"SpecialResponses": {
+							"BeforeMovie": {
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "{{Hakan.movie.journeyofprairie_1}}",
+							},
+							"DuringMovie": {
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "{{Hakan.movie.journeyofprairie_2}}",
+							},
+							"AfterMovie": {
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "{{Hakan.movie.journeyofprairie_3}}",
+							}
+							},
+							"ID": "reaction_2"
 
-		  },
+						},
 
-		  {
-			
-			//Wumbus
-			"Tag": "summer_movie_1",
-			"Response": "hate",
-			"Whitelist": [],
-			"SpecialResponses": {
-			  "BeforeMovie": {
-				"ResponsePoint": null,
-				"Script": "",
-				"Text": "{{Hakan.movie.wumbus_1}}",
-			  },
-			  "DuringMovie": {
-				"ResponsePoint": null,
-				"Script": "",
-				"Text": "{{Hakan.movie.wumbus_2}}",
-			  },
-			  "AfterMovie": {
-				"ResponsePoint": null,
-				"Script": "",
-				"Text": "{{Hakan.movie.wumbus_3}}",
-			  }
-			},
-			"ID": "reaction_3"
-
-
-		  },
-
-		  {
-			
-			//Mysterium
-			"Tag": "fall_movie_0",
-			"Response": "hate",
-			"Whitelist": [],
-			"SpecialResponses": {
-			  "BeforeMovie": {
-				"ResponsePoint": null,
-				"Script": "",
-				"Text": "{{Hakan.movie.mysterium_1}}",
-			  },
-			  "DuringMovie": {
-				"ResponsePoint": null,
-				"Script": "",
-				"Text": "{{Hakan.movie.mysterium_2}}",
-			  },
-			  "AfterMovie": {
-				"ResponsePoint": null,
-				"Script": "",
-				"Text": "{{Hakan.movie.mysterium_3}}",
-			  }
-			},
-			"ID": "reaction_4"
+						{
+							
+							//Wumbus
+							"Tag": "summer_movie_1",
+							"Response": "hate",
+							"Whitelist": [],
+							"SpecialResponses": {
+							"BeforeMovie": {
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "{{Hakan.movie.wumbus_1}}",
+							},
+							"DuringMovie": {
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "{{Hakan.movie.wumbus_2}}",
+							},
+							"AfterMovie": {
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "{{Hakan.movie.wumbus_3}}",
+							}
+							},
+							"ID": "reaction_3"
 
 
-		  },
+						},
 
-		  {
-			
-			//It howls in the rain
-			"Tag": "fall_movie_0",
-			"Response": "dislike",
-			"Whitelist": [],
-			"SpecialResponses": {
-			  "BeforeMovie": {
-				"ResponsePoint": null,
-				"Script": "",
-				"Text": "{{Hakan.movie.ithowlsintherain_1}}",
-			  },
-			  "DuringMovie": {
-				"ResponsePoint": null,
-				"Script": "",
-				"Text": "{{Hakan.movie.ithowlsintherain_2}}",
-			  },
-			  "AfterMovie": {
-				"ResponsePoint": null,
-				"Script": "",
-				"Text": "{{Hakan.movie.ithowlsintherain_3}}",
-			  }
-			},
-			"ID": "reaction_5"
-
-
-		  },
-
-		  {
-			
-			//Coldstar Ranch
-			"Tag": "winter_movie_0",
-			"Response": "like",
-			"Whitelist": [],
-			"SpecialResponses": {
-			  "BeforeMovie": {
-				"ResponsePoint": null,
-				"Script": "",
-				"Text": "{{Hakan.movie.coldstarranch_1}}",
-			  },
-			  "DuringMovie": {
-				"ResponsePoint": null,
-				"Script": "",
-				"Text": "{{Hakan.movie.coldstarranch_2}}",
-			  },
-			  "AfterMovie": {
-				"ResponsePoint": null,
-				"Script": "",
-				"Text": "{{Hakan.movie.coldstarranch_3}}",
-			  }
-			},
-			"ID": "reaction_6"
+						{
+							
+							//Mysterium
+							"Tag": "fall_movie_0",
+							"Response": "hate",
+							"Whitelist": [],
+							"SpecialResponses": {
+							"BeforeMovie": {
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "{{Hakan.movie.mysterium_1}}",
+							},
+							"DuringMovie": {
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "{{Hakan.movie.mysterium_2}}",
+							},
+							"AfterMovie": {
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "{{Hakan.movie.mysterium_3}}",
+							}
+							},
+							"ID": "reaction_4"
 
 
-		  },
+						},
 
-		  {
-			
-			//Zuzu
-			"Tag": "winter_movie_1",
-			"Response": "dislike",
-			"Whitelist": [],
-			"SpecialResponses": {
-			  "BeforeMovie": {
-				"ResponsePoint": null,
-				"Script": "",
-				"Text": "{{Hakan.movie.zuzucity_1}}",
-			  },
-			  "DuringMovie": {
-				"ResponsePoint": null,
-				"Script": "",
-				"Text": "{{Hakan.movie.zuzucity_2}}",
-			  },
-			  "AfterMovie": {
-				"ResponsePoint": null,
-				"Script": "",
-				"Text": "{{Hakan.movie.zuzucity_3}}",
-			  }
-			},
-			"ID": "reaction_7"
+						{
+							
+							//It howls in the rain
+							"Tag": "fall_movie_0",
+							"Response": "dislike",
+							"Whitelist": [],
+							"SpecialResponses": {
+							"BeforeMovie": {
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "{{Hakan.movie.ithowlsintherain_1}}",
+							},
+							"DuringMovie": {
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "{{Hakan.movie.ithowlsintherain_2}}",
+							},
+							"AfterMovie": {
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "{{Hakan.movie.ithowlsintherain_3}}",
+							}
+							},
+							"ID": "reaction_5"
 
 
-		  },
+						},
 
-		]
+						{
+							
+							//Coldstar Ranch
+							"Tag": "winter_movie_0",
+							"Response": "like",
+							"Whitelist": [],
+							"SpecialResponses": {
+							"BeforeMovie": {
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "{{Hakan.movie.coldstarranch_1}}",
+							},
+							"DuringMovie": {
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "{{Hakan.movie.coldstarranch_2}}",
+							},
+							"AfterMovie": {
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "{{Hakan.movie.coldstarranch_3}}",
+							}
+							},
+							"ID": "reaction_6"
+
+
+						},
+
+						{
+							
+							//Zuzu
+							"Tag": "winter_movie_1",
+							"Response": "dislike",
+							"Whitelist": [],
+							"SpecialResponses": {
+							"BeforeMovie": {
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "{{Hakan.movie.zuzucity_1}}",
+							},
+							"DuringMovie": {
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "{{Hakan.movie.zuzucity_2}}",
+							},
+							"AfterMovie": {
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "{{Hakan.movie.zuzucity_3}}",
+							}
+							},
+							"ID": "reaction_7"
+
+
+						}
+
+					]
+				}
+			}
+		}
+	]
 }

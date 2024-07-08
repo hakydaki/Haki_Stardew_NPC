@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-down" width="8" height="9" tilewidth="16" tileheight="16" infinite="0" nextlayerid="21" nextobjectid="94">
+<map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-down" width="8" height="9" tilewidth="16" tileheight="16" infinite="0" nextlayerid="21" nextobjectid="95">
  <editorsettings>
   <export target="Railroad_patch.tmx" format="tmx"/>
  </editorsettings>
@@ -7,10 +7,11 @@
   <property name="AllowGrassSurviveInWinter" value="T"/>
   <property name="DayTiles" value="AlwaysFront 6 54 907 AlwaysFront 21 54 907"/>
   <property name="Light" value="38 49 4 36 40 4 41 40 4 42 40 4 47 40 4 10 55 4 21 56 4 6 56 4"/>
+  <property name="NPCWarp" value=""/>
   <property name="NightTiles" value="AlwaysFront 6 54 908 AlwaysFront 21 54 908"/>
   <property name="Outdoors" value="T"/>
   <property name="Trees_asdf" value="47 51 2 45 50 2 61 49 2 54 39 2 13 29 2 30 27 2 59 20 2 62 21 2"/>
-  <property name="Warp" value="-1 59 Custom_foothills_pathway 49 11 -1 59 Custom_foothills_pathway 49 12 -1 58 Custom_foothills_pathway 49 130 -1 58 Custom_foothills_pathway 49 14 -1 58 Custom_foothills_pathway 49 15 -1 57 Custom_foothills_pathway 49 16 -1 57 Custom_foothills_pathway 49 16"/>
+  <property name="Warp" value=""/>
  </properties>
  <tileset firstgid="1" name="Paths" tilewidth="16" tileheight="16" tilecount="64" columns="4">
   <image source="paths" width="64" height="256"/>

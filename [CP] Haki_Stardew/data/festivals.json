@@ -1,0 +1,319 @@
+{
+    "Changes": [
+
+        //Egg Festival
+        {
+            "LogName": "Haki Egg Festival Placements", 
+            "Action": "EditData",
+            "Target": "Data/Festivals/spring13",
+            "TextOperations": [
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters"],
+                    "Value": "Hakan 37 61 3",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters_y2"],
+                    "Value": "Hakan 37 61 3",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters"],
+                    "Value": "Hakan 21 61 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters_y2"],
+                    "Value": "Hakan 21 61 2",
+                    "Delimiter": "/"
+                }
+            ]
+        },
+        
+        {
+            "LogName": "Haki Egg Festival Dialogues",
+            "Action": "EditData",
+            "Target": "Data/Festivals/spring13",
+            "Entries": {
+                "Hakan": "{{i18n:Hakan.eggfestival}}",
+                "Hakan_Spouse": "{{i18n:Hakan.eggfestival_spouse}}"
+            }
+        },
+
+        //Flower Dance
+
+        {
+            "LogName": "Haki Flower Dance Placements", 
+            "Action": "EditData",
+            "Target": "Data/Festivals/spring24",
+            "TextOperations": [
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters"],
+                    "Value": "Hakan 15 34 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters_y2"],
+                    "Value": "Hakan 15 34 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters"],
+                    "Value": "Hakan 15 34 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters_y2"],
+                    "Value": "Hakan 15 34 2",
+                    "Delimiter": "/"
+                }
+            ]
+        },
+        
+        {
+            "LogName": "Haki Flower Dance Dialogues",
+            "Action": "EditData",
+            "Target": "Data/Festivals/spring24",
+            "Entries": {
+                "Hakan": "{{i18n:Hakan.flowerdance}}",
+                "Hakan_Spouse": "{{i18n:Hakan.flowerdance_spouse}}"
+            }
+        },
+        // LUAU
+        {
+            "LogName": "Haki Luau Placements", 
+            "Action": "EditData",
+            "Target": "Data/Festivals/summer11",
+            "TextOperations": [
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters"],
+                    "Value": "Hakan 37 22 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters_y2"],
+                    "Value": "Hakan 37 22 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters"],
+                    "Value": "Hakan 25 5 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters_y2"],
+                    "Value": "Hakan 25 5 2",
+                    "Delimiter": "/"
+                }
+            ]
+        },
+        
+        {
+            "LogName": "Haki Luau Dialogues",
+            "Action": "EditData",
+            "Target": "Data/Festivals/summer11",
+            "Entries": {
+                "Hakan": "{{i18n:Hakan.luau}}",
+                "Hakan_Spouse": "{{i18n:Hakan.luau_spouse}}"
+            }
+        },
+        // Moonlight Jellies
+        {
+            "LogName": "Haki MoonlightJellies Placements", 
+            "Action": "EditData",
+            "Target": "Data/Festivals/summer28",
+            "TextOperations": [
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters"],
+                    "Value": "Hakan 68 5 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters_y2"],
+                    "Value": "Hakan 68 5 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters"],
+                    "Value": "Hakan 11 30 3",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters_y2"],
+                    "Value": "Hakan 11 30 3",
+                    "Delimiter": "/"
+                }
+            ]
+        },
+        
+        {
+            "LogName": "Haki MoonlightJellies Dialogues",
+            "Action": "EditData",
+            "Target": "Data/Festivals/summer28",
+            "Entries": {
+                "Hakan": "{{i18n:Hakan.moonjellies}}",
+                "Hakan_Spouse": "{{i18n:Hakan.moonjellies_spouse}}"
+            }
+        },
+        //Stardew Valley Fair
+        {
+            "LogName": "Haki Stardew Valley Fair Placements", 
+            "Action": "EditData",
+            "Target": "Data/Festivals/fall16",
+            "TextOperations": [
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters"],
+                    "Value": "Hakan 65 68 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters_y2"],
+                    "Value": "Hakan 65 68 2",
+                    "Delimiter": "/"
+                }
+            ]
+        },
+        
+        {
+            "LogName": "Haki Stardew Valley Fair Dialogues",
+            "Action": "EditData",
+            "Target": "Data/Festivals/fall16",
+            "Entries": {
+                "Hakan": "{{i18n:Hakan.fair}}",
+                "Hakan_Spouse": "{{i18n:Hakan.fair_spouse}}"
+            }
+        },
+        //Spirits Eve
+        {
+            "LogName": "Haki Spirits Eve Placements", 
+            "Action": "EditData",
+            "Target": "Data/Festivals/fall27",
+            "TextOperations": [
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters"],
+                    "Value": "Hakan 22 64 3",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters_y2"],
+                    "Value": "Hakan 22 64 3",
+                    "Delimiter": "/"
+                }
+            ]
+        },
+        
+        {
+            "LogName": "Haki Spirits Eve Dialogues",
+            "Action": "EditData",
+            "Target": "Data/Festivals/fall27",
+            "Entries": {
+                "Hakan": "{{i18n:Hakan.spirit}}",
+                "Hakan_Spouse": "{{i18n:Hakan.spirit_spouse}}"
+            }
+        },
+        // Ice Festival
+        {
+            "LogName": "Haki Ice Festival Placements", 
+            "Action": "EditData",
+            "Target": "Data/Festivals/winter8",
+            "TextOperations": [
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters"],
+                    "Value": "Hakan 80 47 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters_y2"],
+                    "Value": "Hakan 80 47 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Main-Event_additionalCharacters"],
+                    "Value": "Hakan 75 31 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Main-Event_additionalCharacters_y2"],
+                    "Value": "Hakan 75 31 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "afterIceFishing_additionalCharacters"],
+                    "Value": "Hakan 75 31 3",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "afterIceFishing_additionalCharacters_y2"],
+                    "Value": "Hakan 75 31 3",
+                    "Delimiter": "/"
+                }
+            ]
+        },
+        
+        {
+            "LogName": "Haki Ice Festival Dialogues",
+            "Action": "EditData",
+            "Target": "Data/Festivals/winter8",
+            "Entries": {
+                "Hakan": "{{i18n:Hakan.ice}}",
+                "Hakan_Spouse": "{{i18n:Hakan.ice_spouse}}"
+            }
+        },
+        //Feast of the winter star
+        {
+            "LogName": "Haki Winter Star Placements", 
+            "Action": "EditData",
+            "Target": "Data/Festivals/winter25",
+            "TextOperations": [
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters"],
+                    "Value": "Hakan 29 58 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters_y2"],
+                    "Value": "Hakan 29 58 2",
+                    "Delimiter": "/"
+                }
+            ]
+        },
+        
+        {
+            "LogName": "Haki Winter Star Dialogues",
+            "Action": "EditData",
+            "Target": "Data/Festivals/winter25",
+            "Entries": {
+                "Hakan": "{{i18n:Hakan.winterstar}}",
+                "Hakan_Spouse": "{{i18n:Hakan.winterstar_spouse}}"
+            }
+        }
+    ]
+}

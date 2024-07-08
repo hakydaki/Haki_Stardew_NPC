@@ -1,6 +1,7 @@
 {
     "Format": "2.0.0",
 
+    //MAP CHANGES
     "CustomLocations": [
         // add the custom in-game locations
         
@@ -45,33 +46,35 @@
     // Map warps to connect railroad to foothills pathway
 
     //RAILROAD WARPS
-		{
-			"Action": "EditMap",
-			"Target": "Maps/Railroad",
-			"MapTiles": [
-				{
-					"Position": { "X": 0, "Y": 58},
-					"Layer": "Back",
-					"SetProperties": {
-						"TouchAction": "Warp Custom_foothills_pathway 49 13"
-					}
-				},
-				{
-					"Position": { "X": 0, "Y": 59},
-					"Layer": "Back",
-					"SetProperties": {
-						"TouchAction": "Warp Custom_foothills_pathway 49 14"
-					}
-				},
-				{
-					"Position": { "X": 0, "Y": 60},
-					"Layer": "Back",
-					"SetProperties": {
-						"TouchAction": "Warp Custom_foothills_pathway 49 15"
-					}
-				}
+    {
+        "Action": "EditMap",
+        "Target": "Maps/Railroad",
+        "MapTiles": [
+            {
+                "Position": { "X": 0, "Y": 58},
+                "Layer": "Back",
+                "SetProperties": {
+                    "TouchAction": "Warp Custom_foothills_pathway 49 13"
+                }
+            },
+            {
+                "Position": { "X": 0, "Y": 60},
+                "Layer": "Back",
+                "SetProperties": {
+                    "TouchAction": "Warp Custom_foothills_pathway 49 15"
+                }
+            }
+        ]
+    },
+
+    {
+        "Action": "EditMap",
+        "Target": "Maps/Railroad",
+        "MapProperties": { },
+            "AddWarps": [
+                "0 59 Custom_foothills_pathway 49 14"
             ]
-        },
+    },
 
     //FOOTHILLS PATHWAY WARPS
         {
@@ -166,7 +169,16 @@
 				}
             ]
         },
-        
+
+        {
+            "LogName": "Make woods pathable for NPC schedules.",
+            "Action": "EditData",
+            "Target": "Data/Locations",
+            "TargetField": ["Woods"],
+            "Entries": {
+                "ExcludeFromNpcPathfinding": false
+            }
+        },
 
     // Haki NPC stuff
 
@@ -176,51 +188,68 @@
             "Action": "Include",
             "FromFile": "data/dispo.json"
         },
-
+        //Overworld details
+        {
+            "Logname": "Haki_Mapstrings",
+            "Action": "Include",
+            "FromFile": "data/mapstrings.json"
+        },
+        //Schedule data
         {
             "Logname":"Haki_Schedule",
             "Action": "Load",
             "Target": "Characters/schedules/Hakan",
             "FromFile": "data/schedule.json"
         },
-
+        //Blank JSON loads
         {
-            "Logname":"Haki_Dialogue",
+            "Logname":"Haki_Dialogue_BLANK",
             "Action": "Load",
             "Target": "Characters/Dialogue/Hakan",
-            "FromFile": "data/dialogue.json"
+            "FromFile": "data/blank.json"
         },
-            //SPRITE LOADING - PORTRAITS
+        //Actual Dialogues
+        {
+            "Logname":"Haki_Dialogue",
+            "Action": "Include",
+            "FromFile":"data/dialogue.json"
+        },
+        //Festival Data
+        {
+            "Logname":"Haki_FestivalData",
+            "Action": "Include",
+            "FromFile":"data/festivals.json"
+        },
+        //Gift Taste Data
+        {  
+            "Action": "Include",
+            "FromFile": "data/gifttastes.json"
+        }, 
+        //SPRITE LOADING - PORTRAITS
         {
             "Logname": "Haki_Portraits",
             "Action": "Load",
             "Target": "Portraits/Hakan",
-            "FromFile": "assets/characters/sprites/hakan_portraits.png"
+            "FromFile": "assets/characters/sprites/hakanPortraits.png"
         },
 
-        // {
-        //     "Logname": "Haki_Winter_Portraits",
-        //     "Action": "Load",
-        //     "Target": "Portraits/Hakan",
-        //     "FromFile": "assets/characters/sprites/hakan_winter_portraits.png",
-        //     "When": {
-        //         "Season": "winter"
-        //     }
-        // },
+        {
+             "Logname": "Haki_Winter_Portraits",
+             "Action": "Load",
+             "Target": "Portraits/Hakan_Winter",
+             "FromFile": "assets/characters/sprites/hakanPortraitsWinter.png",
+             "When": {
+                 "Season": "winter"
+             }
+        },
         
-        // {
-        //     "Logname": "Haki_Portraits_Beach",
-        //     "Action": "Load",
-        //     "Target": "Portraits/Hakan",
-        //     "FromFile": "assets/characters/sprites/hakan_beach_portraits.png"
-        // },
+        {
+             "Logname": "Haki_Portraits_Beach",
+             "Action": "Load",
+             "Target": "Portraits/Hakan_Beach",
+             "FromFile": "assets/characters/sprites/hakanBeachPortraits.png"
+        },
 
-        // {
-        //     "Logname": "Haki_Portraits_Casual",
-        //     "Action": "Load",
-        //     "Target": "Portraits/Hakan",
-        //     "FromFile": "assets/characters/sprites/hakan_casual_portraits.png"
-        // },
 
             //SPRITE LOADING - SPRITES
 
@@ -228,31 +257,24 @@
             "Logname": "Haki_Sprites",
             "Action": "Load",
             "Target": "Characters/Hakan",
-            "FromFile": "assets/characters/sprites/hakan.png"
+            "FromFile": "assets/characters/sprites/Hakansprites.png"
+        },
+
+        {
+            "Logname": "Haki_Winter_Sprites",
+            "Action": "Load",
+            "Target": "Characters/Hakan_Winter",
+            "FromFile": "assets/characters/sprites/HakanSpritesWinter.png",
+            "When": {
+                 "Season": "winter"
+             }
+        },
+
+        {
+            "Logname": "Haki_Beach_Sprites",
+            "Action": "Load",
+            "Target": "Characters/Hakan_Beach",
+            "FromFile": "assets/characters/sprites/HakanSpritesBeach.png"
         }
-
-        // {
-        //     "Logname": "Haki_Winter_Sprites",
-        //     "Action": "Load",
-        //     "Target": "Characters/Hakan",
-        //     "FromFile": "assets/characters/sprites/hakan_winter.png",
-        //     "When": {
-        //         "Season": "winter"
-        //     }
-        // },
-
-        // {
-        //     "Logname":  "Haki_Beach_Sprites",
-        //     "Action": "Load",
-        //     "Target": "Characters/Hakan",
-        //     "FromFile": "assets/characters/sprites/hakan_beach.png"
-        // },
-
-        // {
-        //     "Logname": "Haki_Casual_Sprites",
-        //     "Action": "Load",
-        //     "Target": "Characters/Hakan",
-        //     "FromFile": "assets/characters/sprites/hakan_casual.png"
-        // }
     ]
 }
