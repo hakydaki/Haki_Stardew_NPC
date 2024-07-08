@@ -12,12 +12,17 @@
             "GreenRain":"{{i18n:Hakan.GreenRain}}",
             "GreenRainFinished":"{{i18n:Hakan.GreenRainFinished}}",
             "DumpsterDiveComment":"{{i18n:Hakan.Dumpsterdive}}",
+            "dating_Hakan":"{{i18n:Hakan.dating}}",
+            "dating_Hakan_memory_oneday":"{{i18n:Hakan.dating_memory_oneday}}",
+            "dating_Hakan_memory_oneyear":"{{i18n:Hakan.dating_memory_oneyear}}",
             "breakUp": "{{i18n:Hakan.breakup}}",
             "divorced": "{{i18n:Hakan.divorced}}",
             "secondChance_Guys": "{{i18n:Hakan.second_chance}}",
-        
+            "spring_1_2": "{{i18n:Hakan.Spring.1YR2}}",
+
         //Ginger Island
 
+            "Resort":"{{i18n:Hakan.resort_wander}}",
             "Resort_Entering":"{{i18n:Hakan.resort_entering}}",
             "Resort_Leaving":"{{i18n:Hakan.resort_leaving}}",
             "Resort_Shore":"{{i18n:Hakan.resort_shore}}",
@@ -25,7 +30,7 @@
             "Resort_Towel":"{{i18n:Hakan.resort_towel}}",
             "Resort_Dance":"{{i18n:Hakan.resort_dance}}",
             "Resort_Bar":"{{i18n:Hakan.resort_bar}}",
-        
+
         //Conversation Topics
 
             "pamHouseUpgrade":"{{i18n:Hakan.pamHouseUpgrade}}",
@@ -35,11 +40,65 @@
 
         //Specific Gift Dialogues
 
+            "AcceptGift_(O)StardropTea":"{{i18n:Gifts.Hakan.StardropTea}}",  
+            "AcceptGift_(O)169":"{{i18n:Gifts.Hakan.Driftwood}}",
+            "AcceptGift_(O)169":"{{i18n:Gifts.Hakan.Driftwood}}",  
+            "AcceptGift_(O)169":"{{i18n:Gifts.Hakan.Driftwood}}",  
+            "AcceptGift_(O)169":"{{i18n:Gifts.Hakan.Driftwood}}",  
+            "AcceptGift_(O)169":"{{i18n:Gifts.Hakan.Driftwood}}",  
+            "AcceptGift_(O)169":"{{i18n:Gifts.Hakan.Driftwood}}",  
+            "AcceptGift_(O)169":"{{i18n:Gifts.Hakan.Driftwood}}",  
+            "AcceptGift_(O)169":"{{i18n:Gifts.Hakan.Driftwood}}",  
+            "AcceptGift_(O)169":"{{i18n:Gifts.Hakan.Driftwood}}",  
+            "AcceptGift_(O)169":"{{i18n:Gifts.Hakan.Driftwood}}",  
+            "AcceptGift_(O)169":"{{i18n:Gifts.Hakan.Driftwood}}",
+
+
+
+
         //Usual Schedule Dialogues
-            
+
+        // Generics 0 Hearts
+
+
+            "spring_Mon":"{{i18n:Hakan.Mon.Spring}}",
+            "spring_Tue":"{{i18n:Hakan.Tues.Spring}}",
+            "spring_Wed":"{{i18n:Hakan.Wed.Spring}}",
+            "spring_Thu":"{{i18n:Hakan.Thurs.Spring}}",
+            "spring_Fri":"{{i18n:Hakan.Fri.Spring}}",
+            "spring_Sat":"{{i18n:Hakan.Sat.Spring}}",
+            "spring_Sun":"{{i18n:Hakan.Sun.Spring}}",
+
+            "summer_Mon":"{{i18n:Hakan.Mon.Summer}}",
+            "summer_Tue":"{{i18n:Hakan.Tues.Summer}}",
+            "summer_Wed":"{{i18n:Hakan.Wed.Summer}}",
+            "summer_Thu":"{{i18n:Hakan.Thurs.Summer}}",
+            "summer_Fri":"{{i18n:Hakan.Fri.Summer}}",
+            "summer_Sat":"{{i18n:Hakan.Sat.Summer}}",
+            "summer_Sun":"{{i18n:Hakan.Sun.Summer}}",
+
+            "fall_Mon":"{{i18n:Hakan.Mon.Fall}}",
+            "fall_Tue":"{{i18n:Hakan.Tues.Fall}}",
+            "fall_Wed":"{{i18n:Hakan.Wed.Fall}}",
+            "fall_Thu":"{{i18n:Hakan.Thurs.Fall}}",
+            "fall_Fri":"{{i18n:Hakan.Fri.Fall}}",
+            "fall_Sat":"{{i18n:Hakan.Sat.Fall}}",
+            "fall_Sun":"{{i18n:Hakan.Sun.Fall}}",
+
+            "winter_Mon":"{{i18n:Hakan.Mon.Winter}}",
+            "winter_Tue":"{{i18n:Hakan.Tues.Winter}}",
+            "winter_Wed":"{{i18n:Hakan.Wed.Winter}}",
+            "winter_Thu":"{{i18n:Hakan.Thurs.Winter}}",
+            "winter_Fri":"{{i18n:Hakan.Fri.Winter}}",
+            "winter_Sat":"{{i18n:Hakan.Sat.Winter}}",
+            "winter_Sun":"{{i18n:Hakan.Sun.Winter}}",
+
         //Specific Tiles
 
-            
+            "AdventureGuild_8_11":"{{i18n:Hakan.Guild_Board}}",
+            "AdventureGuild_11_16":"{{i18n:Hakan.Guild_Sword}}",
+            "Desert_4_14":"{{i18n:Hakan.desertfestival_01}}", 
+            "Desert_15_7":"{{i18n:Hakan.desertfestival_02}}",
 
         }
     }

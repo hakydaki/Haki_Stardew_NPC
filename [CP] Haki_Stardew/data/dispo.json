@@ -51,6 +51,19 @@
                             },
                             "Direction": "left"
                         }
+                    ],
+                    "Appearance": [
+                        {
+                            "Id":"Winter",
+                            "Season": "Winter",
+                            "Indoors": true,
+                            "Outdoors": true,
+                            "Portrait": "Portraits/Hakan_Winter",
+                            "Sprite": "Characters/Hakan_Winter",
+                            "IsIslandAttire": false,
+                            "Precedence": -100,
+                            "Weight": 0
+                        }
                     ]
                 }
             }

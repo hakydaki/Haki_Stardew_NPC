@@ -1,0 +1,84 @@
+//Haki Married Dialogues
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "Entries": 
+            
+            {
+                "patio_Hakan":"{{i18n:Hakan.patio}}",
+                "spouseRoom_Hakan":"{{i18n:Hakan.spouse_room}}",
+                "stardrop_gift":"{{i18n:Hakan.stardrop}}",
+                "SummitEvent_Dialogue3_Hakan":"{{i18n:Hakan.summit}}",
+
+                "Rainy_Day_0":"{{i18n:Hakan.rainyday.01}}",
+                "Rainy_Day_1":"{{i18n:Hakan.rainyday.02}}",
+                "Rainy_Day_2":"{{i18n:Hakan.rainyday.05}}",
+                "Rainy_Day_3":"{{i18n:Hakan.rainyday.06}}",
+                "Rainy_Day_4":"{{i18n:Hakan.rainyday.07}}",
+
+                "Rainy_Night_0":"{{i18n:Hakan.rainynight.01}}",
+                "Rainy_Night_1":"{{i18n:Hakan.rainynight.02}}",
+                "Rainy_Night_2":"{{i18n:Hakan.rainynight.03}}",
+                "Rainy_Night_3":"{{i18n:Hakan.rainynight.04}}",
+                "Rainy_Night_4":"{{i18n:Hakan.rainynight.05}}",
+
+                "Good_0":"{{i18n:Hakan.good.01}}",
+                "Good_1":"{{i18n:Hakan.good.02}}",
+                "Good_2":"{{i18n:Hakan.good.03}}",
+                "Good_3":"{{i18n:Hakan.good.04}}",
+                "Good_4":"{{i18n:Hakan.good.05}}",
+                "Good_5":"{{i18n:Hakan.good.06}}",
+                "Good_6":"{{i18n:Hakan.good.07}}",
+
+                "Neutral_0":"{{i18n:Hakan.neutral.01}}",
+                "Neutral_1":"{{i18n:Hakan.neutral.02}}",
+                "Neutral_2":"{{i18n:Hakan.neutral.03}}",
+                "Neutral_3":"{{i18n:Hakan.neutral.04}}",
+                "Neutral_4":"{{i18n:Hakan.neutral.05}}",
+                "Neutral_5":"{{i18n:Hakan.neutral.06}}",
+                "Neutral_6":"{{i18n:Hakan.neutral.07}}",
+
+                "Bad_0":"{{i18n:Hakan.bad.01}}",
+                "Bad_1":"{{i18n:Hakan.bad.02}}",
+                "Bad_2":"{{i18n:Hakan.bad.03}}",
+                "Bad_3":"{{i18n:Hakan.bad.04}}",
+                "Bad_4":"{{i18n:Hakan.bad.05}}",
+                "Bad_5":"{{i18n:Hakan.bad.06}}",
+                "Bad_6":"{{i18n:Hakan.bad.07}}",
+
+                "Indoor_Day_Hakan":"{{i18n:Hakan.indoorday.01}}",
+                "Indoor_Day_0":"{{i18n:Hakan.indoorday.02}}",
+                "Indoor_Day_1":"{{i18n:Hakan.indoorday.03}}",
+                "Indoor_Day_2":"{{i18n:Hakan.indoorday.04}}",
+                "Indoor_Day_3":"{{i18n:Hakan.indoorday.05}}",
+
+                "Outdoor_Day_Hakan":"{{i18n:Hakan.outdoor.01}}",
+                "Outdoor_Day_0":"{{i18n:Hakan.outdoor.02}}",
+                "Outdoor_Day_1":"{{i18n:Hakan.outdoor.03}}",
+                "Outdoor_Day_2":"{{i18n:Hakan.outdoor.04}}",
+                "Outdoor_Day_3":"{{i18n:Hakan.outdoor.05}}",
+                
+                "Indoor_Night_Hakan":"{{i18n:Hakan.indoornight.01}}",
+                "Indoor_Night_0":"{{i18n:Hakan.indoornight.02}}",
+                "Indoor_Night_1":"{{i18n:Hakan.indoornight.03}}",
+                "Indoor_Night_2":"{{i18n:Hakan.indoornight.04}}",
+                "Indoor_Night_3":"{{i18n:Hakan.indoornight.05}}",
+
+                //kids have room for ONE more dialogue key
+                
+                "OneKid_0":"{{i18n:Hakan.OneKid_1}}",
+                "OneKid_1":"{{i18n:Hakan.OneKid_2}}",
+                "OneKid_2":"{{i18n:Hakan.OneKid_3}}",
+                "OneKid_3":"{{i18n:Hakan.OneKid_4}}",
+
+                "TwoKids_0":"{{i18n:Hakan.TwoKid_1}}",
+                "TwoKids_1":"{{i18n:Hakan.TwoKid_2}}",
+                "TwoKids_2":"{{i18n:Hakan.TwoKid_3}}",
+                "TwoKids_3":"{{i18n:Hakan.TwoKid_4}}",
+
+            }
+        }
+    ]
+}

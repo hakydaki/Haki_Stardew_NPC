@@ -1,0 +1,4 @@
+Version 1.0 -
+
+- Set up the initial NPC
+- Added portraits & sprites
