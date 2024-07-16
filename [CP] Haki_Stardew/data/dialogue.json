@@ -10,6 +10,7 @@
 
             "Introduction":"{{i18n:Hakan.Intro}}",
             "GreenRain":"{{i18n:Hakan.GreenRain}}",
+            "GreenRain_2": "",
             "GreenRainFinished":"{{i18n:Hakan.GreenRainFinished}}",
             "DumpsterDiveComment":"{{i18n:Hakan.Dumpsterdive}}",
             "dating_Hakan":"{{i18n:Hakan.dating}}",
@@ -19,7 +20,30 @@
             "divorced": "{{i18n:Hakan.divorced}}",
             "secondChance_Guys": "{{i18n:Hakan.second_chance}}",
             "spring_1_2": "{{i18n:Hakan.Spring.1YR2}}",
+            "HitBySlingshot":"{{i18n:Hakan.slingshot}}",
+            "WipedMemory": "{{i18n:Hakan.slingshot}}",
+            "give_pendant": "{{i18n:Hakan.give_pendant}}",
+            
+        //Flower Dance
 
+            "FlowerDance_Decline": "",
+            "FlowerDance_Accept": "",
+
+        //Valley Fair
+        
+            "Fair_Judged_PlayerLost_PurpleShorts": "{{i18n:Hakan.JudgedPlayerLostPurpleShorts}}",
+            "Fair_Judged_PlayerLost": "{{i18n:Hakan.JudgedPlayerWon}}",
+            "Fair_Judged_PlayerWon": "{{i18n:Hakan.JudgedPlayerLost}}",
+        
+        // Bouquet
+
+            "AcceptBouquet": "",
+            "RejectBouquet_Divorced": "",
+            "RejectBouquet_NpcAlreadyMarried": "",
+            "RejectBouquet_VeryLowHearts": "",
+            "RejectBouquet_LowHearts": "",
+            "RejectBouquet": "",
+            
         //Ginger Island
 
             "Resort":"{{i18n:Hakan.resort_wander}}",
@@ -40,21 +64,53 @@
 
         //Specific Gift Dialogues
 
+            //Loved Gifts Dorado, Tigertrout, Salmon, Blus Discus, Stingray, Salmon Dinner, Cheese, Tea Sapling, DishOSea, Butterfish, AgedBlueMoonWine
+            
+            "AcceptGift_(O)FlashShifter.StardewValleyExpandedCP_Butterfish":"{{i18n:Gifts.Hakan.Butterfish}}",
+            "AcceptGift_(O)FlashShifter.StardewValleyExpandedCP_Blue_Moon_Wine":"{{i18n:Gifts.Hakan.AgedBlueMoonWine}}",
             "AcceptGift_(O)StardropTea":"{{i18n:Gifts.Hakan.StardropTea}}",  
-            "AcceptGift_(O)169":"{{i18n:Gifts.Hakan.Driftwood}}",
-            "AcceptGift_(O)169":"{{i18n:Gifts.Hakan.Driftwood}}",  
-            "AcceptGift_(O)169":"{{i18n:Gifts.Hakan.Driftwood}}",  
-            "AcceptGift_(O)169":"{{i18n:Gifts.Hakan.Driftwood}}",  
-            "AcceptGift_(O)169":"{{i18n:Gifts.Hakan.Driftwood}}",  
-            "AcceptGift_(O)169":"{{i18n:Gifts.Hakan.Driftwood}}",  
-            "AcceptGift_(O)169":"{{i18n:Gifts.Hakan.Driftwood}}",  
-            "AcceptGift_(O)169":"{{i18n:Gifts.Hakan.Driftwood}}",  
-            "AcceptGift_(O)169":"{{i18n:Gifts.Hakan.Driftwood}}",  
-            "AcceptGift_(O)169":"{{i18n:Gifts.Hakan.Driftwood}}",  
-            "AcceptGift_(O)169":"{{i18n:Gifts.Hakan.Driftwood}}",
+            "AcceptGift_(O)704":"{{i18n:Gifts.Hakan.Fish}}",
+            "AcceptGift_(O)669":"{{i18n:Gifts.Hakan.Fish}}",  
+            "AcceptGift_(O)139":"{{i18n:Gifts.Hakan.Fish}}",  
+            "AcceptGift_(O)838":"{{i18n:Gifts.Hakan.Fish}}",  
+            "AcceptGift_(O)836":"{{i18n:Gifts.Hakan.Stingray}}",
+            "AcceptGift_(O)242":"{{i18n:Gifts.Hakan.DishOSea}}",  
 
+            //Liked Driftwood, Pufferfish, RainbowShell, Coral, NautShell, Rainbow Trout, Spring Onion, Artifact Trove, Fiddlehead Fern
 
+            "AcceptGift_(O)169":"{{i18n:Gifts.Hakan.Tankdecor}}",
+            "AcceptGift_(O)394":"{{i18n:Gifts.Hakan.Tankdecor}}",
+            "AcceptGift_(O)393":"{{i18n:Gifts.Hakan.Tankdecor}}",
+            "AcceptGift_(O)392":"{{i18n:Gifts.Hakan.Tankdecor}}",
+            "AcceptGift_(O)128":"{{i18n:Gifts.Hakan.Pufferfish}}",
+            "AcceptGift_(O)138":"{{i18n:Gifts.Hakan.FishLiked}}",
+            "AcceptGift_(O)254": "{{i18n:Gifts.Hakan.Melon}}",
 
+            //Neutral Topaz
+
+            "AcceptGift_category_fish":"{{i18n:Gifts.Hakan.Fish}}",
+
+            // Disliked Parsnip, Mayo, Pancakes
+
+            "AcceptGift_(O)306": "{{i18n:Gifts.Hakan.Mayo}}",
+            "AcceptGift_(O)211": "{{i18n:Gifts.Hakan.Pancakes}}",
+
+            // Hated Eggplant, Squid, Beer, Mead, Red Mushroom, Green Algae, White Algae, Fried Calamari 
+
+            "AcceptGift_(O)272": "{{i18n:Gifts.Hakan.Eggplant}}",
+            "RejectItem_(O)151": "{{i18n:Gifts.Hakan.Squid}}",
+            "RejectItem_(O)420": "{{i18n:Gifts.Hakan.RedMushroom}}",
+            "RejectItem_(O)202": "{{i18n:Gifts.Hakan.Squid}}",
+
+            //Birthday
+
+            "AcceptBirthdayGift_Negative": "{{i18n:Bday.Hakan.Negative}}",
+            "AcceptBirthdayGift_Positive": "{{i18n:Bday.Hakan.Positive}}",
+            "AcceptBirthdayGift": "{{i18n:Bday.Hakan.Generic}}",
+
+            // Other Gifting Dialogue
+
+            "RejectGift_Divorced":"",
 
         //Usual Schedule Dialogues
 
@@ -99,6 +155,15 @@
             "AdventureGuild_11_16":"{{i18n:Hakan.Guild_Sword}}",
             "Desert_4_14":"{{i18n:Hakan.desertfestival_01}}", 
             "Desert_15_7":"{{i18n:Hakan.desertfestival_02}}",
+
+        //Locations
+
+            "Saloon":"",
+            "Saloon2":"",
+            "Saloon4":"",
+            "Saloon6":"",
+            "Saloon8":"",
+            "Saloon10":"",
 
         }
     }

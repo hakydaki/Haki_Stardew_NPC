@@ -6,7 +6,7 @@
             "Action": "EditData",
             "Target": "Data/NPCGiftTastes",
             "Entries": {
-                "Hakan":"{{i18n:Gifts.Hakan.Loved}}/704 139 242 251 424 838 212 836 FlashShifter.StardewValleyExpandedCP_Butterfish FlashShifter.StardewValleyExpandedCP_Blue_Moon_Wine/{{i18n:Gifts.Hakan.Liked}}/128 394 393 392 138 399 254 275 259 Moss/{{i18n:Gifts.Hakan.Neutral}}/68/{{i18n:Gifts.Hakan.Disliked}}/24 306 211/{{i18n:Gifts.Hakan.Hated}}/272 151 346 454 151 420 153 157 202/"
+                "Hakan":"{{i18n:Gifts.Hakan.Loved}}/704 669 139 242 251 424 838 212 836 FlashShifter.StardewValleyExpandedCP_Butterfish FlashShifter.StardewValleyExpandedCP_Blue_Moon_Wine/{{i18n:Gifts.Hakan.Liked}}/128 169 394 393 392 138 399 254 275 259 Moss/{{i18n:Gifts.Hakan.Neutral}}/68 -4/{{i18n:Gifts.Hakan.Disliked}}/24 306 211/{{i18n:Gifts.Hakan.Hated}}/272 346 459 151 420 153 157 202/"
             }
         }
     ]

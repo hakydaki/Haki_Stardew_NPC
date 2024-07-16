@@ -3,12 +3,15 @@
 
 "Hakan.Intro": "Hello, @, I heard you were the new farmer that moved in. Name's Hakan. I actually work at the adventurers guild but Marlon called me back. #$b#See, the monsters in the mines have been riled up for some reason. #$b#But don't worry, I'm here to help keep them under control. See you around, farmer.",
 "Hakan.GreenRain": "Green rain... I heard it was good for the environment but its awful for my nose.",
+"Hakan.GreenRain_2": "",
 "Hakan.GreenRainFinished": "*sniff* My allergies are still awful. It will take days for them to clear out.",
 "Hakan.Dumpsterdive": "...I hope you aren't eating that.",
 "Hakan.cc_Complete": "I feel a great natural magic surrounding the valley. Your offerings have made the forest spirits happy, perhaps it will keep the monsters at bay.",
 "Hakan.movietheatercreated": "The new movie theater looks amazing. It appeared overnight. I wonder what powers are capable of doing that?",
 "Hakan.pamHouseUpgrade": "I heard you got Pam a new house. It looks so much better than that old trailer...Maybe I should ask Robin to fix up the cabin?",
 "Hakan.pamHouseUpgradeAnonymous": "Hmph, I wonder who got Pam a new house. #$b^Hakan stares at you suspiciously. #$bWas it you?",
+"Hakan.slingshot": "Hey! You really think it's good idea to try me?",
+"Hakan.wipedmemory": "",
 
 // Married other npcs dialogues
 
@@ -18,6 +21,32 @@
 "Hakan.married.abigail": "",
 "Hakan.married.sam": "",
 "Hakan.married.sophia": "",
+
+// Dating other npcs dialogues
+
+"Hakan.dating.sam": "",
+
+// Bouquet Dialogues
+
+"Hakan.AcceptBouquet": "",
+"Hakan.RejectBouquetDivorced": "",
+"Hakan.RejectBouquet_NpcAlreadyMarried": "",
+"Hakan.RejectBouquet_VeryLowHearts": "",
+"Hakan.RejectBouquet_LowHearts": "",
+"Hakan.RejectBouquet": "",
+
+// Mermaid Pendant
+
+"Hakan.give_pendant":"",
+"Hakan.RejectMermaidPendantDivorced": "",
+"Hakan.RejectMermaidPendantNeedHouseUpgrade": "",
+"Hakan.RejectMermaidPendantNotDatable": "",
+"Hakan.RejectMermaidPendantNpcWithSomeoneElse": "",
+"Hakan.RejectMermaidPendantPlayerWithSomeoneElse": "",
+"Hakan.RejectMermaidPendantUnder8Hearts": "",
+"Hakan.RejectMermaidPendantUnder10Hearts": "",
+"Hakan.RejectMermaidPendantUnder10HeartsAskedAgain": "",
+"Hakan.RejectMermaidPendant": "",
 
 // Gift Tastes
 
@@ -29,16 +58,50 @@
 
 // Specific Gift Dialogues
 
-"Gifts.Hakan.StardropTea": "Wow, this should increase my stamina greatly.$b Thanks, now I can keep you safer!",
-//"Gifts.Hakan.Fish": "*gasp* A fish for my collection? I love this, thank you!",
-"Gifts.Hakan.Driftwood": "Woah, this would look amazing in my next aquascape. I'll be sure to show you sometime.",
+//Loved
+"Gifts.Hakan.StardropTea": "Wow, this should increase my stamina greatly. #$b#Thanks, now I can keep you safer!",
 "Gifts.Hakan.Woodskip": "*gasp* Woodskip! My favorite fish. He will go with the others in my pond.",
 "Gifts.Hakan.AgedBlueMoonWine": "Ah, Sophia's specialty. I've always loved the taste. Thank you!",
+"Gifts.Hakan.Butterfish": "Oh a Butterfish! It's almost too cute to fry up. #$b#Almost...",
+"Gifts.Hakan.FishLoved": "Oh look at the scales on this one...thank you!",
+"Gifts.Hakan.Stingray": "Hey, is that a Stingray? As beautiful as they are, make sure you watch out for their barbed tail.",
+"Gifts.Hakan.DishOSea": "Oh hey! My favorite food before a day of fishing. How did you know?",
+
+//Liked
+
+"Gifts.Hakan.Tankdecor": "Woah, this would look amazing in my next aquascape. I'll be sure to show you sometime.",
+"Gifts.Hakan.Pufferfish": "Oh wow a pufferfish? You know that highly trained chefs can make these toxic fish edible? #$b#I've heard they are to die for."in,
+"Gifts.Hakan.FishLiked": "Heh. You know me. I won't say no to a nice fish.",
+"Gifts.Hakan.Melon": "Plump and juicy...Just how I like em. Can't wait to sink my teeth into this!",
+
+// Disliked
+
+"Gifts.Hakan.Mayo": "Urgh...It's even worse up close. How does anyone find an egg based cream appetizing at all?",
+"Gifts.Hakan.Pancakes": "Pancakes?... Urgh I know it's a favorite, but they are so unappealing. So bland and basic. ",
+
+// Hated
+
+"Gifts.Hakan.Eggplant": "Ugh. I never understood why it's so liked. Just look at its shape and name! It's disgusting.",
+"Gifts.Hakan.Squid": "Oh...I'm sorry, but I'm allergic. Please keep it away from me next time.",
+"Gifts.Hakan.RedMushroom": "Whoa you trying to poison me? Just looking at its shape makes me cringe. Don't get me started on imagining it in my mouth. ",
 
 // Birthday
 
-"Bday.Hakan.Positive": "Aw, a birthday gift for me? I'm glad you remembered.",
+"Bday.Hakan.Positive": "Aw, a birthday gift for me? I'm glad you remembered.#$b#...Wait...Woah! I love this! #$b#How'd you know...",
 "Bday.Hakan.Negative": "If this is some sort of joke, its not funny.",
+"Bday.Hakan.Generic": "Aw, a birthday gift for me? I'm glad you remembered.",
+
+// Other Gifting Dialogue
+
+"Gifts.Hakan.RejectGiftDivorced":"",
+
+// Movie Tickets
+
+"Hakan.movie.RejectMovieTicketAlreadyInvitedBySomeoneElse":"",
+"Hakan.movie.RejectMovieTicketAlreadyWatchedThisWeek":"",
+"Hakan.movie.RejectMovieTicketDivorced":"",
+"Hakan.movie.RejectMovieTicketDontWantToSeeThatMovie":"",
+"Hakan.movie.RejectMovieTicket":"",
 
 // Movie Reactions
 
@@ -67,6 +130,13 @@
 "Hakan.movie.zuzucity_2": "*Snore* &b%Hakan fell asleep...",
 "Hakan.movie.zuzucity_3": "*yawn* Is the movie over now?",
 
+// Flower Dance
+
+"Hakan.flowerdance": "I'm not really that interested in dancing. I'm just here for the food.",
+"Hakan.flowerdance_accept": "O-Oh um... sure! Guess I can put down the food for a bit...Sorry in advanced for my clumsiness.",
+"Hakan.flowerdance_accept_spouse": "...You are more important than the food. Of course.",
+"Hakan.flowerdance_decline": "No, I'm hungry.",
+
 // Festivals
 
 "Hakan.eggfestival": "Why did Marnie make me hide all the eggs this year? She knows that I get hungry...",
@@ -77,13 +147,17 @@
 "Hakan.ice": "Puh, you won't beat me at the fishing competition. I have the touch.$bFish can't resist my rod.",
 "Hakan.winterstar": "I hope my recipient likes the gift I got them...",
 "Hakan.nightmarket_1": "Yo, you should try the deep fishing on the submarine. I've caught some really unusual fish there!",
-"Hakan.nightmarket_02": "Do you think they ",
-"Hakan.flowerdance": "I'm not really that interested in dancing. I'm just here for the food.",
-"Hakan.flowerdance_accept": "O-Oh um... sure! Guess I can put down the food for a bit...Sorry in advanced for my clumsiness.",
-"Hakan.flowerdance_accept_spouse": "...You are more important than the food. Of course.",
-"Hakan.flowerdance_decline": "No, I'm hungry.",
+"Hakan.nightmarket_02": "I'm keeping an eye out on that Shrouded Figure. Can never be too careful.",
 "Hakan.desertfestival_01": "I heard there are scorpion carps in the pond... I wonder if they sting.",
 "Hakan.desertfestival_02": "Did you try some of the food from the chef over there? It was delicious.",
+
+// Stardew Valley Fair Contest
+
+"Hakan.JudgedPlayerLostPurpleShorts": "",
+"Hakan.JudgedPlayerWon": "",
+"Hakan.JudgedPlayerLost": "",
+
+// Winter Star Gift Givin
 
 // Married Festival Variants
 
@@ -106,7 +180,7 @@
 "Hakan.cd_married_spring": "*chuckles* do you think Pierre will stop hating me now that I'm taken?",
 "Hakan.cd_married_summer": "Honey, was it you who put the community center together? I have a feeling...",
 "Hakan.cd_married_fall": "Psst... Can you help me convince Clint to upgrade my weapons? I think he likes you better than me...",
-"Hakan.cd_married_winter": "Hello my love. Do you want some hot chocolate?",
+"Hakan.cd_married_winter": "Hello my love. Do you want some hot chocolate? #$b#I made it extra special for you.",
 
 // Heart Events
 
@@ -120,7 +194,16 @@
 "Hakan.dumped_boys": "Man, you really sleep around huh? Wild.",
 "Hakan.second_chance": "...*sigh* I suppose we can try and make this work. I still have feelings for you after all.",
 
+//Engagement Dialogues
+
 // Marriage Dialogue
+
+"Hakan.SpouseFarmhouseClutter": "",
+
+//Use {0} for the other npc's name, and {1} for the item given.
+
+"Hakan.SpouseGiftJealous": "",
+"Hakan.MonstersInHouse": "Get behind me,",
 
 "Hakan.patio": "Good Morning, @. Don't mind me, just gettin' these legs movin'.",
 "Hakan.spouse_room": "Ah, it is so relaxing in here. Come, lets cuddle and watch a movie, dear.",
@@ -265,6 +348,9 @@
 
 // Specific Days
 
+"Hakan.doctorvisit":"",
+
+//Days before holidays
 "Hakan.Spring.12": "The egg festival is tomorrow... mmm eggs...",
 "Hakan.Spring.14": "I can't wait to go to the desert festival, the skull caverns are so interesting!",
 "Hakan.Spring.15": "Did you see the plants producing salmon berries? They make for a pretty good snack.",
@@ -281,7 +367,8 @@
 "Hakan.Spring.1YR2": "Happy new year, @! I wonder what this year will bring?",
 
 //Location Dialogues
-//For specific locations.
+
+//For specific locations. Tiles x y
 
 "Hakan.Guild_Board": "I wonder if there's any worthwhile quests...",
 "Hakan.Guild_Sword": "%Hakan is staring intently at the swords on display",
@@ -294,6 +381,34 @@
 "Hakan.WizardTower": "I wonder what magical things Marlon is up to?",
 "Hakan.Patrol_01": "Hey, @! Stay safe out there.",
 "Hakan.Patrol_02": "I heard rustling in the bushes...so I checked it out.#&b#It was just Marnie and Lewis...#&b#*shudders*...Freaks.",
+"Hakan.AerobicsClass": "",
+
+//For maps such as "Saloon" or "Seedshop"
+
+"Hakan.Saloon": "",
+"Hakan.Saloon2": "",
+"Hakan.Saloon4": "",
+"Hakan.Saloon6": "",
+"Hakan.Saloon8": "",
+"Hakan.Saloon10": "",
+
+"Hakan.Woods": "",
+"Hakan.Woods2": "",
+"Hakan.Woods4": "",
+"Hakan.Woods6": "",
+"Hakan.Woods8": "",
+"Hakan.Woods10": "",
+
+"Hakan.SeedShop4": "",
+"Hakan.SeedShop8": "",
+"Hakan.SeedShop10": "",
+
+"Hakan.Bathhouse": "",
+"Hakan.Bathhouse2": "",
+"Hakan.Bathhouse4": "",
+"Hakan.Bathhouse6": "",
+"Hakan.Bathhouse8": "",
+"Hakan.Bathhouse10": "",
 
 //Map Strings
 
