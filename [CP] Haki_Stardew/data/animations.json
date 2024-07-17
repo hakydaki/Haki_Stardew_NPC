@@ -1,6 +1,22 @@
-"hakan_beach_towel": "",
-"hakan_sleep": "",
-"hakan_read": "",
-"hakan_laze": "",
-"hakan_fish": "",
-"hakan_sit": ""
+{
+	"Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/animationDescriptions",
+            "Entries": {
+            
+            "hakan_beach_towel": "",
+            "hakan_sleep": "",
+            "hakan_read": "",
+            "hakan_laze": "",
+            "hakan_fish_side": "",
+            "hakan_fish_front": "",
+            "hakan_sit": "",
+            "hakan_workout": "",
+            "hakan_look":"21 22 23 23 23 24 24 24 22 21 21 21",
+
+            }
+        }
+    ]
+}
+

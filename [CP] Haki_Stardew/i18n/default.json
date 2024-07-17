@@ -352,6 +352,7 @@
 // Specific Days
 
 "Hakan.doctorvisit":"I'm seeing doctor Harvey today...he's doing a full physical. gah...",
+"Hakan.clinic":"Do you really have to check up there, doc...can I just go...",
 
 //Days before holidays
 "Hakan.Spring.12": "The egg festival is tomorrow... mmm eggs...",
@@ -384,7 +385,7 @@
 "Hakan.WizardTower": "I wonder what magical things Marlon is up to?",
 "Hakan.Patrol_01": "Hey, @! Stay safe out there.",
 "Hakan.Patrol_02": "I heard rustling in the bushes...so I checked it out.#&b#It was just Marnie and Lewis...#&b#*shudders*...Freaks.",
-"Hakan.AerobicsClass": "",
+"Hakan.AerobicsClass": "Come on girls, get those legs movin!'#$b#Oh, hello @...are you here to exercise too?",
 
 //For maps such as "Saloon" or "Seedshop"
 
