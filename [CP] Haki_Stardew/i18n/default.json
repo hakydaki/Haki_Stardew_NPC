@@ -1,5 +1,5 @@
 {
-// Special
+//Special
 
 "Hakan.Intro": "Hello, @, I heard you were the new farmer that moved in. Name's Hakan. I actually work at the adventurers guild but Marlon called me back. #$b#See, the monsters in the mines have been riled up for some reason. #$b#But don't worry, I'm here to help keep them under control. See you around, farmer.",
 "Hakan.GreenRain": "Green rain... I heard it was good for the environment but its awful for my nose.",
@@ -70,7 +70,7 @@
 //Liked
 
 "Gifts.Hakan.Tankdecor": "Woah, this would look amazing in my next aquascape. I'll be sure to show you sometime.",
-"Gifts.Hakan.Pufferfish": "Oh wow a pufferfish? You know that highly trained chefs can make these toxic fish edible? #$b#I've heard they are to die for."in,
+"Gifts.Hakan.Pufferfish": "Oh wow a pufferfish? Did you know that highly trained chefs can make these toxic fish edible? #$b#I've heard they are to die for.",
 "Gifts.Hakan.FishLiked": "Heh. You know me. I won't say no to a nice fish.",
 "Gifts.Hakan.Melon": "Plump and juicy...Just how I like em. Can't wait to sink my teeth into this!",
 
@@ -306,6 +306,9 @@
 // Normal Schedule dialogue
 // Generic Dialogue for each day.
 
+//## 0 HEARTS ##
+
+//## 6 HEARTS ##
 //Spring
 
 "Hakan.Mon.Spring": "*sniffle* $b...Oh hi there! &bSorry, all the flowers blooming have made my allergies act up.",
@@ -348,7 +351,7 @@
 
 // Specific Days
 
-"Hakan.doctorvisit":"",
+"Hakan.doctorvisit":"I'm seeing doctor Harvey today...he's doing a full physical. gah...",
 
 //Days before holidays
 "Hakan.Spring.12": "The egg festival is tomorrow... mmm eggs...",
@@ -409,6 +412,13 @@
 "Hakan.Bathhouse6": "",
 "Hakan.Bathhouse8": "",
 "Hakan.Bathhouse10": "",
+
+"Hakan.HakiHouse": "",
+"Hakan.HakiHouse2": "",
+"Hakan.HakiHouse4": "",
+"Hakan.HakiHouse6": "",
+"Hakan.HakiHouse8": "",
+"Hakan.HakiHouse10": "",
 
 //Map Strings
 
