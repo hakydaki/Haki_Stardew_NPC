@@ -27,13 +27,25 @@
 
 "Spring_Sun": "800 Custom_foothills 17 10 0/1000 Railroad 15 57 0/1030 Beach 44 35 1/1400 ArchaeologyHouse 15 5 0/1800 Saloon 36 17 2/2000 Custom_haki_cabin 3 11 0/2400 Custom_haki_cabin 18 5 3",
 
-"Summer_Sat": "",
+"Summer_Sat": "900 Custom_haki_cabin 14 5 2/1100 Beach 46 22 2/1500 Beach 44 35 1/ 2000 Custom_haki_cabin 18 5 3",
+
+"Summer_Sun": "900 Custom_haki_cabin 14 5 2/1100 Beach 46 22 2/1500 Beach 44 35 1/ 2000 Custom_haki_cabin 18 5 3",
+
+"Fall_Fri": "900 Custom_haki_cabin 14 5 2/1100 Forest 32 11 2/1800 Saloon 5 20 3/2400 Custom_haki_cabin 18 5 3",
+
+"Fall_Sat": "800 Railroad 53 52 2/1000 Woods 46 55 2/1400 Woods 37 49 1/1800 Saloon 5 20 3/2400 Custom_haki_cabin 18 5 3",
+
+"Fall_Sun": "900 Custom_haki_cabin 6 11 0/1030 Custom_foothills 32 10 2/1200 Custom_BlueMoonVineyard 50 43 2/1800 Town 42 56 0/2200 Custom_haki_cabin 18 5 3",
+
+"Winter_Thu": "800 Railroad 53 52 2/1000 Woods 46 55 2/1400 Woods 37 49 1/1800 Saloon 5 20 3/2400 Custom_haki_cabin 18 5 3",
 
 "Winter_Fri": "800 Custom_foothills_pathway 29 9 2/1000 Bathhouse_MensLocker 6 5 2/1400 Bathhouse_Pool 15 9 2/1800 Saloon 5 20 3/2400 Custom_haki_cabin 18 5 3",
 
 "Winter_Sat": "900 Custom_haki_cabin 14 5 2/1100 Railroad 15 57 0/1130 Mountain 68 24 2/1330 Custom_AdventurerSummit 51 30 2/1800 Custom_haki_cabin 20 17 0/2000 Custom_haki_cabin 14 5 2/2400 Custom_haki_cabin 18 5 3",
 
 "Winter_Sun": "800 Custom_foothills 17 10 0/1000 Railroad 15 57 0/1100 Town 27 23 2/1800 Saloon 5 20 3/2400 Custom_haki_cabin 18 5 3",
+
+
 
 //Events
 
