@@ -3,7 +3,7 @@
 
         { //Hakan Community Day Schedule
 			"Action": "EditData",
-			"Target": "characters/schedules/Sam",
+			"Target": "characters/schedules/Hakan",
 			"When": {
 				"HasSeenEvent": "191393"
 			},
@@ -13,102 +13,102 @@
 		},
 		{ //Spring Dialogue
 			"Action": "EditData",
-			"Target": "strings/schedules/Sam",
+			"Target": "strings/schedules/Hakan",
 			"When": {
 				"Season": "Spring",
 				"Season |contains=Summer, Fall, Winter": false
 			},
 			"Entries": {
-				"CommunityDay_Sam": "{{i18n:CommunityDay.Dialogue.158}}"
+				"CommunityDay_Sam": "{{i18n:Hakan.cd_spring}}"
 			}
 		},
 		{ //Summer Dialogue
 			"Action": "EditData",
-			"Target": "strings/schedules/Sam",
+			"Target": "strings/schedules/Hakan",
 			"When": {
 				"Season": "Summer",
 				"Season |contains=Spring, Fall, Winter": false
 			},
 			"Entries": {
-				"CommunityDay_Sam": "{{i18n:CommunityDay.Dialogue.159}}"
+				"CommunityDay_Sam": "{{i18n:Hakan.cd_summer}}"
 			}
 		},
 		{ //Fall Dialogue
 			"Action": "EditData",
-			"Target": "strings/schedules/Sam",
+			"Target": "strings/schedules/Hakan",
 			"When": {
 				"Season": "Fall",
 				"Season |contains=Spring, Summer, Winter": false
 			},
 			"Entries": {
-				"CommunityDay_Sam": "{{i18n:CommunityDay.Dialogue.160}}"
+				"CommunityDay_Sam": "{{i18n:Hakan.cd_fall}}"
 			}
 		},
 		{ //Winter Dialogue
 			"Action": "EditData",
-			"Target": "strings/schedules/Sam",
+			"Target": "strings/schedules/Hakan",
 			"When": {
 				"Season": "Winter",
 				"Season |contains=Spring, Summer, Fall": false
 			},
 			"Entries": {
-				"CommunityDay_Sam": "{{i18n:CommunityDay.Dialogue.161}}"
+				"CommunityDay_Sam": "{{i18n:Hakan.cd_winter}}"
 			}
 		},
-		{ //SAM Community Day Schedule - MARRIED
+		{ //Haki Community Day Schedule - MARRIED
 			"Action": "EditData",
-			"Target": "characters/schedules/Sam",
+			"Target": "characters/schedules/Hakan",
 			"When": {
 				"HasSeenEvent": "191393",
-				"Spouse": "Sam",
+				"Spouse": "Hakan",
 				"Day": "22"
 			},
 			"Entries": {
-				"marriage_FlashShifter.StardewValleyExpandedCP_CommunityDay": "1030 CommunityCenter 35 13 1 \"Strings\\schedules\\Sam:CommunityDay_Sam_Married\"/1730 bed",
+				"marriage_FlashShifter.StardewValleyExpandedCP_CommunityDay": "1030 CommunityCenter 35 13 1 \"Strings\\schedules\\Hakan:CommunityDay_Hakan_Married\"/1730 bed",
 			},
 		},
 		{ //Spring Dialogue - MARRIED
 			"Action": "EditData",
-			"Target": "strings/schedules/Sam",
+			"Target": "strings/schedules/Hakan",
 			"When": {
 				"Season": "Spring",
 				"Season |contains=Summer, Fall, Winter": false
 			},
 			"Entries": {
-				"CommunityDay_Sam_Married": "{{i18n:CommunityDay.Dialogue.163}}"
+				"CommunityDay_Sam_Married": "{{i18n:Hakan.cd_married_spring}}"
 			}
 		},
 		{ //Summer Dialogue - MARRIED
 			"Action": "EditData",
-			"Target": "strings/schedules/Sam",
+			"Target": "strings/schedules/Hakan",
 			"When": {
 				"Season": "Summer",
 				"Season |contains=Spring, Fall, Winter": false
 			},
 			"Entries": {
-				"CommunityDay_Sam_Married": "{{i18n:CommunityDay.Dialogue.164}}"
+				"CommunityDay_Sam_Married": "{{i18n:Hakan.cd_married_summer}}"
 			}
 		},
 		{ //Fall Dialogue - MARRIED
 			"Action": "EditData",
-			"Target": "strings/schedules/Sam",
+			"Target": "strings/schedules/Hakan",
 			"When": {
 				"Season": "Fall",
 				"Season |contains=Spring, Summer, Winter": false
 			},
 			"Entries": {
-				"CommunityDay_Sam_Married": "{{i18n:CommunityDay.Dialogue.165}}"
+				"CommunityDay_Sam_Married": "{{i18n:Hakan.cd_married_fall}}"
 			}
 		},
 		{ //Winter Dialogue - MARRIED
 			"Action": "EditData",
-			"Target": "strings/schedules/Sam",
+			"Target": "strings/schedules/Hakan",
 			"When": {
 				"Season": "Winter",
 				"Season |contains=Spring, Summer, Fall": false
 			},
 			"Entries": {
-				"CommunityDay_Sam_Married": "{{i18n:CommunityDay.Dialogue.166}}"
+				"CommunityDay_Sam_Married": "{{i18n:Hakan.cd_married_winter}}"
 			}
 		}
     ]

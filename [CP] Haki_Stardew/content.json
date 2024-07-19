@@ -275,6 +275,14 @@
             "Action": "Load",
             "Target": "Characters/Hakan_Beach",
             "FromFile": "assets/characters/sprites/HakanSpritesBeach.png"
-        }
+        },
+
+            //ANIMATION LOADS
+
+        {
+            "Logname":"Haki_Animations",
+            "Action": "Include",
+            "FromFile":"data/animations.json"
+        },
     ]
 }

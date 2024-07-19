@@ -9,55 +9,55 @@
 //##These are the same every season
 
 //guards the mines mostly, and takes quests from the outpost.
-"Mon": "610 Railroad 15 57 0/800 Mountain 5 11 2/1200 AdventureGuild 11 16 3/1400 AdventureGuild 8 11 0/1500 Custom_AdventurerSummit 20 16 2/1800 Mine 16 4 2/2400 Custom_haki_cabin 18 5 3",
+"Mon": "610 Railroad 15 57 0/800 Mountain 5 11 2/1200 AdventureGuild 11 16 3/1400 AdventureGuild 8 11 0/1500 Custom_AdventurerSummit 20 16 2 hakan_look/1800 Mine 16 4 2 hakan_look/2400 Custom_haki_cabin 18 5 3 hakan_sleep",
 
 //goes to the aerobics class with the girlies because they asked him to...then goes the the forest to patrol and studies at the wizard's house
-"Tue": "610 Railroad 10 27 3/900 Mountain 5 11 2/1100 SeedShop 24 15 2/1300 SeedShop 24 15 2/1600 Forest 104 23 2/1800 Forest 32 96 2/2000 Custom_WizardBasement 13 5 2/2400 Custom_haki_cabin 18 5 3",
+"Tue": "610 Railroad 15 57 3/800 Mountain 5 11 2/1100 SeedShop 24 15 2/1300 SeedShop 24 15 2 hakan_workout/1600 Forest 104 23 2 hakan_look/1800 Forest 32 96 2 hakan_look/2000 Custom_WizardBasement 13 5 2 hakan_read/2400 Custom_haki_cabin 18 5 3 hakan_sleep",
 
 //patrols the town today.
-"Wed": "610 Railroad 15 57 0/800 Mountain 5 11 2/1200 Town 35 97 0/1500 Town 48 33 2/1700 Town 78 95 2/1800 Town 101 60 2/1900 Town 109 31 2/2000 Town 47 87 0/2300 Custom_haki_cabin 18 5 3",
+"Wed": "610 Railroad 15 57 0/800 Mountain 5 11 2/1200 Town 35 97 0/1500 Town 48 33 2/1700 Town 78 95 2 hakan_look/1800 Town 101 60 2 hakan_look/1900 Town 109 31 2 hakan_look/2000 Town 47 87 0/2300 Custom_haki_cabin 18 5 3 hakan_sleep",
 
 //Off days. Seasonal changes sometimes.
 
-"Spring_Thu": "900 Custom_haki_cabin 6 11 0/930 Custom_haki_cabin 13 19 2/940 Custom_haki_cabin 16 17 0/950 Custom_haki_cabin 20 6 0/1000 Custom_haki_cabin 3 17 2/1030 Custom_foothills 32 10 2/1200 Custom_BlueMoonVineyard 22 56 2/1700 Custom_ShearwaterBridge 34 22 2/2000 Railroad 44 40 2/2300 Custom_haki_cabin 18 5 3",
+"Spring_Thu": "900 Custom_haki_cabin 6 11 0/930 Custom_haki_cabin 13 19 2/940 Custom_haki_cabin 16 17 0/950 Custom_haki_cabin 20 6 0/1000 Custom_haki_cabin 3 17 2/1030 Custom_foothills 32 10 2/1200 Custom_BlueMoonVineyard 22 56 2/1700 Custom_ShearwaterBridge 34 22 2/2000 Railroad 44 40 2/2300 Custom_haki_cabin 18 5 3 hakan_sleep",
 
-"Spring_Fri": "800 Railroad 53 52 2/1000 Woods 46 55 2/1400 Woods 37 49 1/1800 Saloon 5 20 3/2400 Custom_haki_cabin 18 5 3",
+"Spring_Fri": "800 Railroad 53 52 2/1000 Woods 46 55 2 hakan_laze/1400 Woods 37 49 1 birdie_fish/1800 Saloon 5 20 3/2400 Custom_haki_cabin 18 5 3 hakan_sleep",
 
-"Spring_Sat": "900 Custom_haki_cabin 14 5 2/1100 Railroad 15 57 0/1130 SeedShop 11 23 0/1230 SeedShop 12 28 3/1330 Custom_AdventurerSummit 51 30 2/1800 Custom_haki_cabin 20 17 0/2000 Custom_haki_cabin 14 5 2/2400 Custom_haki_cabin 18 5 3",
+"Spring_Sat": "900 Custom_haki_cabin 14 5 2 hakan_read/1100 Railroad 15 57 0/1130 SeedShop 11 23 0/1230 SeedShop 12 28 3/1330 Custom_AdventurerSummit 51 30 2/1800 Custom_haki_cabin 20 17 0/2000 Custom_haki_cabin 14 5 2 hakan_read/2400 Custom_haki_cabin 18 5 3 hakan_sleep",
 
-"Spring_Sun": "800 Custom_foothills 17 10 0/1000 Railroad 15 57 0/1030 Beach 44 35 1/1400 ArchaeologyHouse 15 5 0/1800 Saloon 36 17 2/2000 Custom_haki_cabin 3 11 0/2400 Custom_haki_cabin 18 5 3",
+"Spring_Sun": "800 Custom_foothills 17 10 0/1000 Railroad 15 57 0/1030 Beach 44 35 1/1400 ArchaeologyHouse 15 5 0 hakan_read/1800 Saloon 36 17 2/2000 Custom_haki_cabin 3 11 0/2400 Custom_haki_cabin 18 5 3 hakan_sleep",
 
-"Summer_Sat": "900 Custom_haki_cabin 14 5 2/1100 Beach 46 22 2/1500 Beach 44 35 1/ 2000 Custom_haki_cabin 18 5 3",
+"Summer_Sat": "900 Custom_haki_cabin 14 5 2/1100 Beach 46 22 2 hakan_laze_shirtless/1500 Beach 44 35 1 birdie_fish/2000 Custom_haki_cabin 18 5 3 hakan_sleep",
 
-"Summer_Sun": "900 Custom_haki_cabin 14 5 2/1100 Beach 46 22 2/1500 Beach 44 35 1/ 2000 Custom_haki_cabin 18 5 3",
+"Summer_Sun": "900 Custom_haki_cabin 14 5 2/1100 Beach 46 22 2 hakan_laze_shirtless/1500 Beach 44 35 1 birdie_fish/ 2000 Custom_haki_cabin 18 5 3 hakan_sleep",
 
-"Fall_Fri": "900 Custom_haki_cabin 14 5 2/1100 Forest 32 11 2/1800 Saloon 5 20 3/2400 Custom_haki_cabin 18 5 3",
+"Fall_Fri": "900 Custom_haki_cabin 14 5 2/1100 Forest 32 11 2/1800 Saloon 5 20 3/2400 Custom_haki_cabin 18 5 3 hakan_sleep",
 
-"Fall_Sat": "800 Railroad 53 52 2/1000 Woods 46 55 2/1400 Woods 37 49 1/1800 Saloon 5 20 3/2400 Custom_haki_cabin 18 5 3",
+"Fall_Sat": "800 Railroad 53 52 2/1000 Woods 46 55 2 hakan_laze/1400 Woods 37 49 1 birdie_fish/1800 Saloon 5 20 3/2400 Custom_haki_cabin 18 5 3 hakan_sleep",
 
-"Fall_Sun": "900 Custom_haki_cabin 6 11 0/1030 Custom_foothills 32 10 2/1200 Custom_BlueMoonVineyard 50 43 2/1800 Town 42 56 0/2200 Custom_haki_cabin 18 5 3",
+"Fall_Sun": "900 Custom_haki_cabin 6 11 0/1030 Custom_foothills 32 10 2/1200 Custom_BlueMoonVineyard 50 43 2/1800 Town 42 56 0/2200 Custom_haki_cabin 18 5 3 hakan_sleep",
 
-"Winter_Thu": "800 Railroad 53 52 2/1000 Woods 46 55 2/1400 Woods 37 49 1/1800 Saloon 5 20 3/2400 Custom_haki_cabin 18 5 3",
+"Winter_Thu": "800 Railroad 53 52 2/1000 Woods 37 49 1 birdie_fish/1800 Saloon 5 20 3/2400 Custom_haki_cabin 18 5 3 hakan_sleep",
 
-"Winter_Fri": "800 Custom_foothills_pathway 29 9 2/1000 Bathhouse_MensLocker 6 5 2/1400 Bathhouse_Pool 15 9 2/1800 Saloon 5 20 3/2400 Custom_haki_cabin 18 5 3",
+"Winter_Fri": "800 Custom_foothills_pathway 29 9 2/1000 Bathhouse_MensLocker 6 5 2 hakan_workout/1400 Bathhouse_Pool 15 9 2 hakan_laze_shirtless/1800 Saloon 5 20 3/2400 Custom_haki_cabin 18 5 3 hakan_sleep",
 
-"Winter_Sat": "900 Custom_haki_cabin 14 5 2/1100 Railroad 15 57 0/1130 Mountain 68 24 2/1330 Custom_AdventurerSummit 51 30 2/1800 Custom_haki_cabin 20 17 0/2000 Custom_haki_cabin 14 5 2/2400 Custom_haki_cabin 18 5 3",
+"Winter_Sat": "900 Custom_haki_cabin 14 5 2/1100 Railroad 15 57 0/1130 Mountain 68 24 2/1330 Custom_AdventurerSummit 51 30 2/1800 Custom_haki_cabin 20 17 0/2000 Custom_haki_cabin 14 5 2/2400 Custom_haki_cabin 18 5 3 hakan_sleep",
 
-"Winter_Sun": "800 Custom_foothills 17 10 0/1000 Railroad 15 57 0/1100 Town 27 23 2/1800 Saloon 5 20 3/2400 Custom_haki_cabin 18 5 3",
+"Winter_Sun": "800 Custom_foothills 17 10 0/1000 Railroad 15 57 0/1100 Town 27 23 2/1800 Saloon 5 20 3/2400 Custom_haki_cabin 18 5 3 hakan_sleep",
 
 
 
 //Events
 
-"rain":"900 Custom_haki_cabin 6 11 0/1000 Railroad 15 57 0/1030 Custom_foothills 32 10 2/1500 Custom_foothills_pathway 7 7 2/1900 Mountain 5 11 2/2300 Custom_haki_cabin 18 5 3",
+"rain":"900 Custom_haki_cabin 6 11 0/1000 Railroad 15 57 0/1030 Custom_foothills 32 10 2 hakan_look/1500 Custom_foothills_pathway 7 7 2 hakan_look/1900 Mountain 5 11 2 hakan_look/2400 Custom_haki_cabin 18 5 3 hakan_sleep",
 
-"rain2":"900 Custom_haki_cabin 6 11 0/1000 Railroad 15 57 0/1100 Forest 40 11 2",
+"rain2":"900 Custom_haki_cabin 6 11 0/1000 Railroad 15 57 0/1100 Forest 40 11 2 hakan_look 2400/Custom_haki_cabin 18 5 3 hakan_sleep",
 
 "GreenRain":"900 Custom_haki_cabin 6 11 0/930 Custom_haki_cabin 13 19 2/940 Custom_haki_cabin 16 17 0/950 Custom_haki_cabin 20 6 0/1000 Custom_haki_cabin/1100 Railroad 15 57 0/1300 AdventureGuild 6 13 2/2400 Custom_haki_cabin 18 5 3",
 
-"TroutDerby":"630 Forest 96 39 2/2200 Custom_haki_cabin 18 5 3",
+"TroutDerby":"630 Forest 41 82 1 birdie_fish/2200 Custom_haki_cabin 18 5 3 hakan_sleep",
 
-"SquidFest":"630 Beach 83 40 2/2200 Custom_haki_cabin 18 5 3",
+"SquidFest":"630 Beach 44 35 1 birdie_fish/2200 Custom_haki_cabin 18 5 3 hakan_sleep",
 
 //Chills around Marlon's stall.
 
@@ -65,15 +65,19 @@
 
 //Haki does some sandfishing.
 
-"DesertFestival_2":"610 Railroad 15 57 0/630 Desert 4 14 1",
+"DesertFestival_2":"610 Railroad 15 57 0/630 Desert 4 14 1 birdie_fish",
 
 //Nightmarket
 
-"Winter_17":"900 Custom_haki_cabin 6 11/1200 Mountain 5 11 2/1700 Beach 11 31 3/2300 Custom_haki_cabin 18 5 3",
+"Winter_17":"900 Custom_haki_cabin 6 11/1200 Mountain 5 11 2/1700 Beach 11 31 3/2300 Custom_haki_cabin 18 5 3 hakan_sleep",
 
-//SVE Community Day - Will later be moved to a dynamic event trigger...
+//Testing purposes only
 
-"22":"700 Custom_foothills 32 10 2/1100 CommunityCenter 7 7 2/1400 CommunityCenter 42 10 0/1600 CommunityCenter 37 13 3/1730 CommunityCenter 55 13 2/1830 Custom_haki_cabin 6 11/2300 Custom_haki_cabin 18 5 3",
+//"Winter_27":"830 Custom_haki_cabin 6 11 hakan_read/910 Custom_haki_cabin 6 11 hakan_read/920 Custom_haki_cabin 6 11 hakan_laze/930 Custom_haki_cabin 6 11 hakan_laze_shirtless/940 Custom_haki_cabin 6 11 hakan_standing_sleep_sideways/950 Custom_haki_cabin 6 11 hakan_standing_sleep/1000 Custom_haki_cabin 6 11 hakan_sunglasses/1010 Custom_haki_cabin 6 11 hakan_sit/1 Custom_haki_cabin 6 11 hakan_sit/1020 Custom_haki_cabin 6 11 hakan_workout/1030 Custom_haki_cabin 6 11 hakan_look/1040 Custom_haki_cabin 6 11 birdie_fish/",
+
+//SVE Community Day - Will later be moved to a dynamic event trigger...DEPRECIATED
+
+//"22":"700 Custom_foothills 32 10 2/1100 CommunityCenter 7 7 2/1400 CommunityCenter 42 10 0/1600 CommunityCenter 37 13 3/1730 CommunityCenter 55 13 2/1830 Custom_haki_cabin 6 11/2300 Custom_haki_cabin 18 5 3",
 
 //"spring": "610 Mountain 5 11 2/610 Beach 40 24 2",
 //"summer": "610 Mountain 5 11 2/610 Beach 40 24 2",
