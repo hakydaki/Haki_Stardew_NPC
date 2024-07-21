@@ -21,13 +21,13 @@
             "secondChance_Guys": "{{i18n:Hakan.second_chance}}",
             "spring_1_2": "{{i18n:Hakan.Spring.1YR2}}",
             "HitBySlingshot":"{{i18n:Hakan.slingshot}}",
-            "WipedMemory": "{{i18n:Hakan.slingshot}}",
+            "WipedMemory": "{{i18n:Hakan.wipedmemory}}",
             "give_pendant": "{{i18n:Hakan.give_pendant}}",
             
         //Flower Dance
 
-            "FlowerDance_Decline": "",
-            "FlowerDance_Accept": "",
+            "FlowerDance_Decline": "{{i18n:Hakan.flowerdance_accept}}",
+            "FlowerDance_Accept": "{{i18n:Hakan.flowerdance_decline}}",
 
         //Valley Fair
         
@@ -37,13 +37,23 @@
         
         // Bouquet
 
-            "AcceptBouquet": "",
-            "RejectBouquet_Divorced": "",
-            "RejectBouquet_NpcAlreadyMarried": "",
-            "RejectBouquet_VeryLowHearts": "",
-            "RejectBouquet_LowHearts": "",
-            "RejectBouquet": "",
-            
+            "AcceptBouquet": "{{i18n:Hakan.AcceptBouquet}}",
+            "RejectBouquet_Divorced": "{{i18n:Hakan.RejectBouquetDivorced}}",
+            "RejectBouquet_NpcAlreadyMarried": "{{i18n:Hakan.RejectBouquet_NpcAlreadyMarried}}",
+            "RejectBouquet_VeryLowHearts": "{{i18n:Hakan.RejectBouquet_VeryLowHearts}}",
+            "RejectBouquet_LowHearts": "{{i18n:Hakan.RejectBouquet_LowHearts}}",
+            "RejectBouquet": "{{i18n:Hakan.RejectBouquet}}",
+        
+        // Pendant
+
+            "RejectMermaidPendant": "{{i18n:Hakan.RejectMermaidPendant}}",
+            "RejectMermaidPendant_Divorced": "{{i18n:Hakan.RejectMermaidPendantDivorced}}",
+            "RejectMermaidPendant_NeedHouseUpgrade": "{{i18n:Hakan.RejectMermaidPendantNeedHouseUpgrade}}",
+            "RejectMermaidPendant_PlayerWithSomeoneElse": "{{i18n:Hakan.RejectMermaidPendantPlayerWithSomeoneElse}}",
+            "RejectMermaidPendant_Under8Hearts": "{{i18n:Hakan.RejectMermaidPendantUnder8Hearts}}",
+            "RejectMermaidPendant_Under10Hearts": "{{i18n:Hakan.RejectMermaidPendantUnder10Hearts}}",
+            "RejectMermaidPendant_Under10Hearts_AskedAgain": "{{i18n:Hakan.RejectMermaidPendantUnder10HeartsAskedAgain}}",
+
         //Ginger Island
 
             "Resort":"{{i18n:Hakan.resort_wander}}",
@@ -110,12 +120,11 @@
 
             // Other Gifting Dialogue
 
-            "RejectGift_Divorced":"",
+            "RejectGift_Divorced":"{{i18n:Gifts.Hakan.RejectGiftDivorced}}",
 
         //Usual Schedule Dialogues
 
         // Generics 0 Hearts
-
 
             "spring_Mon":"{{i18n:Hakan.Mon.Spring}}",
             "spring_Tue":"{{i18n:Hakan.Tues.Spring}}",
@@ -156,14 +165,34 @@
             "Desert_4_14":"{{i18n:Hakan.desertfestival_01}}", 
             "Desert_15_7":"{{i18n:Hakan.desertfestival_02}}",
 
+        //Specific Days
+
+            "spring_12": "{{i18n:Hakan.Spring.12}}",
+            "spring_14": "{{i18n:Hakan.Spring.14}}",
+            "spring_15": "{{i18n:Hakan.Spring.15}}",
+            "spring_23": "{{i18n:Hakan.Spring.23}}",
+            "summer_10": "{{i18n:Hakan.Summer.10}}",
+            "summer_27": "{{i18n:Hakan.Summer.27}}",
+            "spring_19": "{{i18n:Hakan.Spring.19}}",
+            "fall_8": "{{i18n:Hakan.Fall.8}}",
+            "fall_15": "{{i18n:Hakan.Fall.15}}",
+            "fall_26": "{{i18n:Hakan.Fall.26}}",
+            "winter_7": "{{i18n:Hakan.Winter.07}}",
+            "winter_11": "{{i18n:Hakan.Winter.11}}",
+            "winter_14": "{{i18n:Hakan.Winter.14}}",
+            "winter_24": "{{i18n:Hakan.Winter.24}}",
+            "spring_14_2": "{{i18n:Hakan.Spring.14YR2}}"
+
         //Locations
 
-            "Saloon":"",
-            "Saloon2":"",
-            "Saloon4":"",
-            "Saloon6":"",
-            "Saloon8":"",
-            "Saloon10":"",
+            "Saloon":"{{i18n:Hakan.Saloon}}",
+            "Woods": "{{i18n:Hakan.Woods}}",
+            "Woods10": "{{i18n:Hakan.Woods10}}",
+            "SeedShop4": "{{i18n:Hakan.SeedShop4}}",
+            "Bathhouse": "{{i18n:Hakan.Bathhouse}}",
+            "Custom_haki_cabin": "{{i18n:Hakan.HakiHouse}}",
+            "Custom_haki_cabin6": "{{i18n:Hakan.HakiHouse6}}",
+            "Custom_haki_cabin10": "{{i18n:Hakan.HakiHouse10}}"
 
         }
     }

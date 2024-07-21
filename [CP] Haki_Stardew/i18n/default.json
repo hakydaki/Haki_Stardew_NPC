@@ -13,7 +13,7 @@
 "Hakan.slingshot": "Hey! You really think it's good idea to piss me off?$4",
 "Hakan.wipedmemory": "Guh, why am I getting a sense of deja'vu?$15",
 
-// Married other npcs dialogues
+// Married other npcs dialogues. Probably adding these in a later update?
 
 "Hakan.married.wizard": "I didn't expect you and the wizard to hitch up. Congrats!$18",
 "Hakan.married.lance": "Heh, I'd say my old adventuring buddy scored with you.$7",
@@ -37,16 +37,16 @@
 
 // Mermaid Pendant
 
-"Hakan.give_pendant":"",
-"Hakan.RejectMermaidPendantDivorced": "",
-"Hakan.RejectMermaidPendantNeedHouseUpgrade": "",
+"Hakan.give_pendant":"!!!$9#$b# I accept. I'll get things ready, don't you worry, my love. $4",
+"Hakan.RejectMermaidPendantDivorced": "You would have to lobotomize me first. Get out of my sight. $3",
+"Hakan.RejectMermaidPendantNeedHouseUpgrade": "!!!$9#$b#Of course, but you will need to upgrade your house first.$4",
 //"Hakan.RejectMermaidPendantNotDatable": "",
 //"Hakan.RejectMermaidPendantNpcWithSomeoneElse": "",
-"Hakan.RejectMermaidPendantPlayerWithSomeoneElse": "",
-"Hakan.RejectMermaidPendantUnder8Hearts": "",
-"Hakan.RejectMermaidPendantUnder10Hearts": "",
-"Hakan.RejectMermaidPendantUnder10HeartsAskedAgain": "",
-"Hakan.RejectMermaidPendant": "",
+"Hakan.RejectMermaidPendantPlayerWithSomeoneElse": "!!!$9#b#Uh, aren't you already married though??$8",
+"Hakan.RejectMermaidPendantUnder8Hearts": "!!!$9#$b#Very bold of you...but we aren't even together.$4",
+"Hakan.RejectMermaidPendantUnder10Hearts": "!!!$9#$b#G-Guh!!! Isn't this a bit sudden!!$9",
+"Hakan.RejectMermaidPendantUnder10HeartsAskedAgain": "I said no.$3",
+"Hakan.RejectMermaidPendant": "no.",
 
 // Gift Tastes
 
@@ -360,6 +360,7 @@
 "Hakan.Spring.15": "Did you see the plants producing salmon berries? They make for a pretty good snack.$6",
 "Hakan.Spring.23": "Ah the flower dance is tomorrow... I don't care much for dancing but I love the seasonal food that Marnie and Gus cook up for it.$1",
 "Hakan.Summer.10": "So the Luau...what are you going to bring for it? #$b#Me? I'm gonna bring some fish I caught earlier!$1",
+"Hakan.Summer.27": "Hey @! Are you gonna see the Jellyfish tomorrow?$1",
 "Hakan.Spring.19": "Heh, tomorrow is the trout derby. Are you going to be competing in it? Better not see you lackin'. #$1#$b#If you lose, dont feel too bad, them fish love to get hooked by me. Heh.$7",
 "Hakan.Fall.8": "Did you see the plants producing blackberries? I'm not too much of a fan of them but they are a good source of energy.$0",
 "Hakan.Fall.15": "Hehehe...I'm gonna make Gus go out of business tomorrow...$14",
@@ -368,6 +369,7 @@
 "Hakan.Winter.11": "Tomorrow we will see a bunch of squid migrating in mass numbers... Gonna stock up.#$1#$b#...and sell them cause I'm allergic.$5",
 "Hakan.Winter.14": "Maybe the night market will have some useful items for me...$1",
 "Hakan.Winter.24": "I'm glad the town gets together for spirits eve. It prevents me from feeling lonely.$4",
+"Hakan.Spring.14YR2": "Ooo I can't wait to go to the desert tomorrow. I love collecting the free cacti.$1",
 "Hakan.Spring.1YR2": "Happy new year, @! I wonder what this year will bring?$1",
 
 //Location Dialogues
@@ -402,12 +404,12 @@
 "Hakan.Saloon8": "",
 "Hakan.Saloon10": "",
 
-"Hakan.Woods": "I like it here...it's quiet.$0",
+"Hakan.Woods": "I like it here...it's quiet.#$e# Oh the slimes? Don't worry I have a slime charmer ring.$0",
 "Hakan.Woods2": "",
 "Hakan.Woods4": "",
 "Hakan.Woods6": "",
 "Hakan.Woods8": "",
-"Hakan.Woods10": "",
+"Hakan.Woods10": "@! What a delight seeing you here.",
 
 "Hakan.SeedShop4": "Hmm...Does Pierre have any good deals today...$0",
 "Hakan.SeedShop8": "",
