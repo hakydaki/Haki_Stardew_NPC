@@ -15,10 +15,10 @@
             "FromMapFile": "assets/maps/taki_foothills.tmx"
         },
 
-         {
+        {
              "Name": "Custom_foothills_pathway",
              "FromMapFile": "assets/maps/taki_foothills_pathway.tmx"
-         }
+        }
      ],
 
     "Changes": [
@@ -283,6 +283,19 @@
             "Logname":"Haki_Animations",
             "Action": "Include",
             "FromFile":"data/animations.json"
+        },
+
+        //Spouse Room
+        {
+            "Action": "Load", "Priority": "Low",
+            "Target": "Maps/Custom_HakanRoom",
+            "FromFile": "assets/maps/taki_HakiSpouseRoom.tmx",
+        },
+          //Spouse Patio
+        {
+            "Action": "Load", "Priority": "Low",
+            "Target": "Maps/Hakan_Spouse_Area",
+            "FromFile": "assets/maps/taki_Haki_Spouse_Patio.tmx"
         },
     ]
 }

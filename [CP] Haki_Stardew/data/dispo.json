@@ -26,9 +26,30 @@
                     "IntroductionsQuest": "False",
                     "ItemDeliveryQuests": "True",
                     "CanGreetNearbyCharacters": true,
+                    "ExcludeFromIntroductionsQuest": true,
+                    "CanVisitIsland": "PLAYER_NPC_RELATIONSHIP ANY Hakan MARRIED",
                     "DumpsterDiveEmote": "8",
                     "WinterStarParticipant": "True",
-
+                    "PerfectionScore": true,
+                    "EndSlideShow": "MainGroup",
+                    "SpouseRoom": {
+                        "MapAsset": "Custom_HakanRoom",
+                        "MapSourceRect": {
+                            "X": 0,
+                            "Y": 0,
+                            "Width": 6,
+                            "Height": 9
+                        }
+                    },
+                    "SpousePatio": {
+                        "MapAsset": "Hakan_Spouse_Area",
+                        "MapSourceRect": {
+                            "X": 0,
+                            "Y": 0,
+                            "Width": 4,
+                            "Height": 4
+                        }
+                    },
                     "BreathChestRect": {
                         "X": 4,
                         "Y": 17,

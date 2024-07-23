@@ -266,11 +266,14 @@
 "Hakan.outdoor.04": "I love watching the progress you've made on this farm. Every day, there just seems to be something new.$1",
 "Hakan.outdoor.05": "Hey honey, stay safe out there, I'll be holding down the fort here. Just leave it to me.$7",
 
-"Hakan.job_return.01": "Controlling the monsters was a bit exhausting. The slimes were crawling out of the mine today. I'll need lots of kisses tonight.$4",
-"Hakan.job_leave.01": "I've got to do my rounds around town today. I'll see you later tonight love.$1",
+//These keys will be moved to dynamic spouse dialogues.
+//"Hakan.job_return.01": "Controlling the monsters was a bit exhausting. The slimes were crawling out of the mine today. I'll need lots of kisses tonight.$4",
+//"Hakan.job_leave.01": "I've got to do my rounds around town today. I'll see you later tonight love.$1",
 
-"Hakan.fun_return.01": "I think I had a huge fish on the line today, but it broke my rod. I think I'm gonna need to fix my rod tonight.#$0#$b#Heh...Can you help me out?$14",
-"Hakan.fun_leave.01": "Hey I'm gonna go out fishing today. I hope I get some good catches.$1",
+//These two entries below are defaults for when Hakan leaves the farmhouse.
+
+"Hakan.fun_return": "I think I had a huge fish on the line today, but it broke my rod. I think I'm gonna need to fix my rod tonight.#$0#$b#Heh...Can you help me out?$14",
+"Hakan.fun_leave": "Hey I'm gonna go out fishing today. I hope I get some good catches.$1",
 
 "Hakan.OneKid_1": "%kid1 is so cute... I wanna spoil them.$4",
 "Hakan.OneKid_2": "I can't believe our family is expanding. I never thought I'd have my own child.$4",
@@ -282,16 +285,115 @@
 "Hakan.TwoKids_3": "Maybe I should take the kids out on a fishing trip sometime? Do you think they are old enough for the secret woods?$1",
 "Hakan.TwoKids_4": "I'm glad we grow much of the food that our children eat. They will grow up strong and healthy at this rate.$1",
 
-"Hakan.married_spring": "",
-"Hakan.married_summer": "",
-"Hakan.married_fall": "",
-"Hakan.married_winter": "",
+"Hakan.married_spring": "I think my favorite part of spring are the beautiful cherry blossoms flying everywhere.$1",
+"Hakan.married_summer": "*sweats*$5#$e#Sorry, I think the heat is getting to me.$4",
+"Hakan.married_fall": "I love pumpkins. They are so fun to carve!$18",
+"Hakan.married_winter": "Hey @, don't catch a cold out there.$1#$e#You know what happens if you do.$14",
+
+"Hakan.married_spring1": "Ah, the bite of winter is starting to subside. What crops are you going to plant?$1",
+"Hakan.married_summer1": "It's nice and warm outside. Maybe the ocean is warm enough for a swim? Would you like to go on a beach date?$1",
+"Hakan.married_fall1": "Look, @! The leaves are changing color now. Aren't they beautiful?$1",
+"Hakan.married_winter1": "Ah winter... My fur keeps me warm so I don't mind it too much.$1#$e#If you are feeling cold...I could warm you up.$4",
 
 "Hakan.summit": "Go get it, your reward.$1",
 
-//Marriage specific days
+//Marriage specific days - Mostly used for Holidays
 
-//Dynamic Spouse Dialogues
+//Days before events
+"Hakan.married_spring.12": "@, the egg festival is tomorrow... mmm eggs...$14#$e#Can I have an early taste...$14",
+"Hakan.married.spring.14": "I can't wait to go to the desert festival, the skull caverns are so interesting!$1#$e#...We should explore them together.$4",
+"Hakan.married.spring.23": "Ah the flower dance is tomorrow... I don't care much for dancing but I'd like to see you dance...$4",
+"Hakan.married.summer.10": "So the Luau...what are you going to bring for it? #$b#Me? I'm gonna bring some fish I caught earlier!$1",
+"Hakan.married.summer.19": "Heh, tomorrow is the trout derby. Are you going to be competing in it? Better not see you lackin'. #$1#$b#If you lose, dont feel too bad, them fish love to get hooked by me. Heh.$7#$e#*looks at you suggestively*$14#$b#You are my biggest catch.$18",
+"Hakan.married.summer.27": "Hey @! Are you gonna see the Jellyfish tomorrow?$1#$b#I'd like to watch them with you...$4",
+"Hakan.married.fall.15": "Hehehe...I'm gonna make Gus go out of business tomorrow...$14",
+"Hakan.married.fall.26": "Gotta go capture some monsters today...special request from Marlon.$0",
+"Hakan.married.winter.07": "Hey @, are you participating in the fishing tourney tomorrow? $1&b#Heh, I'll gladly give you second place.$7",
+"Hakan.married.winter.11": "Tomorrow we will see a bunch of squid migrating in mass numbers... Gonna stock up.#$1#$b#...and sell them cause I'm allergic.$5",
+"Hakan.married.winter.14": "Maybe the night market will have some useful items for me...$1#$b#Or for us...heheheh...$14",
+"Hakan.married.winter.24": "I'm glad the town gets together for spirits eve. It feels great being part of such a loving community.$4",
+"Hakan.married.winter.28": "A new year starts tomorrow. Are you ready @?$1#$e#I'm ready to tackle this new year together.$18",
+
+//Day of event (might be omitted if dynamic dialogue covers it)
+
+"Hakan.married_spring.13": "Eggy time eggy time...I love eggs...$1",
+"Hakan.married_summer.11": "Are you hungry, @? Lets get down to the beach and eat!$1",
+"Hakan.married_summer.28": "See you at the beach tonight, @.$1",
+"Hakan.married_fall.27": "I captured a skeleton last night...I stole one of his bones.$18",
+"Hakan.married_winter.08": "Eheheh, guess we will see whose rod is better. Lets get down there, woodskip.$7",
+"Hakan.married_winter.25": "Happy Winter Star, my love...You are my greatest gift...I love ya...$4",
+
+//Dynamic Spouse Dialogues. These should mostly be used for when Haki is leaving the cabin!!!
+
+//Spring Tue
+"Hakan.Dyn.01":"Good Morning @, gonna be leading aerobics class at Caroline's place. Let me know if you want me to pick up anything at the store?$1",
+"Hakan.Dyn.02":"Phew...I still feel the burn in my legs. I'm gonna sleep like a log.",
+//Spring Wed
+"Hakan.Dyn.03": "Hey my little minnow, I'm gonna be at the adventurer's guild today.$1#$e#Say hi if you are going in the mines?$4",
+"Hakan.Dyn.04": "I'm exhausted from doing quests. Want to cuddle tonight?$0#$e#*yawn*...please...$4",
+//Spring Fri
+"Hakan.Dyn.05": "Hey I'm gonna go out fishing today in the woods. I hope I get some good catches.$1",
+"Hakan.Dyn.06": "I think I had a huge fish on the line today, but it broke my rod. I think I'm gonna need to fix my rod tonight.#$0#$b#Heh...Can you help me out?$14",
+//Desert Festival 1
+"Hakan.Dyn.07": "Hey, @, ready for the desert festival?$1",
+"Hakan.Dyn.08": "I had to fight a mummy today...It crawled out of the skull cavern.$6#$e#It took forever though...I had to wait for Marlon to bomb it.$8#$e#My arm is a bit tired...help me out...$4",
+//Desert Festival 2
+"Hakan.Dyn.09": "Hey, @, ready for the desert festival?$1",
+"Hakan.Dyn.10": "Sandfish are really interesting! To think fish even live in such warm desert ponds?$1",
+//Spring 12th
+"Hakan.Dyn.11": "@, the egg festival is tomorrow... mmm eggs...$14#$e#Can I have an early taste...$14",
+"Hakan.Dyn.12": "Eggs...I'm coming for you...I've waited a whole year for this...$14",
+//Spring 23rd
+"Hakan.Dyn.13": "Ah the flower dance is tomorrow... I don't care much for dancing but I'd like to see you dance...$4",
+"Hakan.Dyn.14": "Do you think the suit I got would work??$0#$e#...Just incase...$4",
+//Spring 24th
+"Hakan.Dyn.15": "I've got some things to wrap up here at the house...I'll see you at the flower dance, love.$1",
+"Hakan.Dyn.16": "That was fun...I love you...$4",
+//Summer Sat
+"Hakan.Dyn.17": "Hello woodskip, I'm going to be hanging out at the beach today.$1#$e#...You should come by...we could sunbathe together...$4",
+"Hakan.Dyn.18": "I got some sand in my fur, but it was so worth it...$7#$e#Can you help me wash it out?$4",
+//Summer 10
+"Hakan.Dyn.19": "So the Luau...what are you going to bring for it? #$b#Me? I'm gonna bring some fish I caught earlier!$1",
+"Hakan.Dyn.20": "Man...I'm gonna be so full of fish tomorrow...mmmm yes.$14",
+//Summer 27
+"Hakan.Dyn.21": "Hey @! Are you gonna see the Jellyfish tomorrow?$1#$b#I'd like to watch them with you...$4",
+"Hakan.Dyn.22": "Heheh...Do you think we will see a green jellyfish?$1",
+//Trout Derby Day 1
+"Hakan.Dyn.23": "Trout Derby is today! Gonna make those rainbow trouts adore me. You have no chance. $7",
+"Hakan.Dyn.24": "You know, you remind me of a rainbow trout, maybe I should start calling you my little trout?$7#$b#You know... because rainbows...$4",
+//Trout Derby Day before...
+"Hakan.Dyn.25": "Heh, tomorrow is the trout derby. Are you going to be competing in it? Better not see you lackin'. #$1#$b#If you lose, dont feel too bad, them fish love to get hooked by me. Heh.$7#$e#*looks at you suggestively*$14#$b#You are my biggest catch.$18#$e#Anyways...I'll be going to the beach as usual today. Love ya.$7",
+"Hakan.Dyn.26": "Fishy fish fish...$7#e$#W-wah! I uh...sorry I'm just excited for tomorrow.$9",
+//Trout Derby Day 2
+"Hakan.Dyn.27": "I may be a little behind, but those rainbow trouts, I just know I'll be catching a ton of them on my rod today.$7",
+"Hakan.Dyn.28": "G-gah...The rainbow trouts broke my rod today!$5#$e#Guess my rod was just too enticing, huh?$16",
+//Fall Sun
+"Hakan.Dyn.29": "Hey @, I'm gonna go clear my head today. See you later tonight?$1",
+"Hakan.Dyn.30": "Man...gazing at the ocean feels really nice. It's not as nice as staring into your eyes though.$4",
+//Fall 16 Fair
+"Hakan.Dyn.31": "Today is the fair! Burgers here I come...mmmm Burgers.$14",
+"Hakan.Dyn.32": "Man, Gus's cooking always hits the spot. Maybe I should have him teach me how to cook better?$1#$e#I'd love to see you eat some more of my food.$4",
+//Winter Fri
+"Hakan.Dyn.33": "Hey @, I'm gonna get some cardio in at the Bathhouse today.$1#$e#You should come and make it extra steamy....heh...$4",
+"Hakan.Dyn.34": "Ahhh...the burn feels good. I'm gonna sleep well tonight.$7",
+//Night Market
+"Hakan.Dyn.35": "Hello woodskip, today is the nightmarket! I'm gonna try and get some rare items there. Or maybe go blobfishing...ohoho...$1",
+"Hakan.Dyn.36": "I still don't trust that hooded figure...$11",
+//SQUIDDIES DAY 1
+"Hakan.Dyn.37": "Ready to squid fish? Shall we make a wager on who wins?$1#$e#Whoever loses does what the winner wants for the rest of the night...$4#$e#Heheheh$14",
+"Hakan.Dyn.38": "Hey @, are you a kid...or a squid...$11",
+//SQUIDDIES DAY 2
+"Hakan.Dyn.39": "I touched one of those creatures and got hives on my skin...Eyuck...$8#$e#Welp time to go out and fish more. I can't lose.$18",
+"Hakan.Dyn.40": "Heh, I think I won. I found this prismatic shard...here you should take it my love.$18#$b#Now you are mine tonight.[74]$14",
+//Winter Star prep
+"Hakan.Dyn.41": "Tomorrow is the Winter star. Did you get your gifts yet?$1",
+"Hakan.Dyn.42": "Hey @...I have an early gift for you...if you catch my drift heheheh...$4",
+"Hakan.Dyn.43": "",
+"Hakan.Dyn.44": "",
+"Hakan.Dyn.45": "",
+"Hakan.Dyn.46": "",
+"Hakan.Dyn.47": "",
+"Hakan.Dyn.48": "",
 
 // Ginger Island
 
@@ -361,7 +463,7 @@
 "Hakan.Spring.23": "Ah the flower dance is tomorrow... I don't care much for dancing but I love the seasonal food that Marnie and Gus cook up for it.$1",
 "Hakan.Summer.10": "So the Luau...what are you going to bring for it? #$b#Me? I'm gonna bring some fish I caught earlier!$1",
 "Hakan.Summer.27": "Hey @! Are you gonna see the Jellyfish tomorrow?$1",
-"Hakan.Spring.19": "Heh, tomorrow is the trout derby. Are you going to be competing in it? Better not see you lackin'. #$1#$b#If you lose, dont feel too bad, them fish love to get hooked by me. Heh.$7",
+"Hakan.Summer.19": "Heh, tomorrow is the trout derby. Are you going to be competing in it? Better not see you lackin'. #$1#$b#If you lose, dont feel too bad, them fish love to get hooked by me. Heh.$7",
 "Hakan.Fall.8": "Did you see the plants producing blackberries? I'm not too much of a fan of them but they are a good source of energy.$0",
 "Hakan.Fall.15": "Hehehe...I'm gonna make Gus go out of business tomorrow...$14",
 "Hakan.Fall.26": "Gotta go capture some monsters today...special request from Marlon.$0",
@@ -384,16 +486,20 @@
 "Hakan.Ocean.2": "Ah the sea... it is very calming.$7",
 "Hakan.Oceangazing": "Oh, hey @. I've been staring at the ocean. Sometimes I feel like I can get lost in it.$6",
 "Hakan.Dock": "I love the ocean. @, wanna sit and watch the waves with me?$1",
-"Hakan.WizardTower": "I wonder what magical things Marlon is up to?$0",
+"Hakan.WizardTower": "Sorry...can't talk...studying arcane magics...$0",
 "Hakan.Patrol_01": "Hey, @! Stay safe out there.$1",
 "Hakan.Patrol_02": "I heard rustling in the bushes...so I checked it out.#$13#&b#It was just Marnie and Lewis...#&b#*shudders*...Freaks.$5",
 "Hakan.AerobicsClass": "Come on girls, get those legs movin!'#$19#$b#Oh, hello @...are you here to exercise too?$21",
 "Hakan.ForestFishing": "Hey @...Let me focus I'm trying to catch so woodskips.$0",
 "Hakan.ForestLaze": "Ahhh...$22",
-"Hakan.BeachLaze": "Mmmm #$b#%Hakan is relaxing in the sand",
+"Hakan.BeachLaze": "%Hakan is relaxing in the sand",
 "Hakan.BathWorkout": "@! Unf... I wish I could talk but I'm in the zone right now.$19",
-"Hakan.BathLaze": "Ahhh...$22",
+"Hakan.BathLaze": "Ahhh...That hits the spot...*grunts*$22",
 "Hakan.SleepingJob": "*snore*#$12#$b#G-Guh?! Oh hey, its you.$4",
+"Hakan.Cart": "Did'ja get anything cool from Suki today? She always seems to bring in interesting stuff.$1",
+"Hakan.TroutDerby": "Come on lil' rainbow trout... bite bite bite...$10#$b#Oh...why am I soaking wet? Well uh...I got pulled in...$10",
+"Hakan.SquidDerby":"Gah, I keep getting treasure chests instead of squids... I need squids dammit!$3",
+
 
 //For maps such as "Saloon" or "Seedshop"
 

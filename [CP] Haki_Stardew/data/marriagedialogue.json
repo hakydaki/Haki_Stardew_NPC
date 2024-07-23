@@ -9,9 +9,14 @@
             {
                 "patio_Hakan":"{{i18n:Hakan.patio}}",
                 "spouseRoom_Hakan":"{{i18n:Hakan.spouse_room}}",
-                "stardrop_gift":"{{i18n:Hakan.stardrop}}",
+                "SpouseStardrop":"{{i18n:Hakan.stardrop}}",
                 "SummitEvent_Dialogue3_Hakan":"{{i18n:Hakan.summit}}",
+                "SpouseFarmhouseClutter":"{{i18n:Hakan.SpouseFarmhouseClutter}}",
+                "Spouse_MontstersInHouse":"{{i18n:Hakan.MonstersInHouse}}",
+                "funReturn_Hakan":"{{i18n:Hakan.fun_return}}",
+                "funLeave_Hakan":"{{i18n:Hakan.fun_leave}}",
 
+                "Rainy_Day_Hakan":"{{i18n:Hakan.rainyday.01}}",
                 "Rainy_Day_0":"{{i18n:Hakan.rainyday.01}}",
                 "Rainy_Day_1":"{{i18n:Hakan.rainyday.02}}",
                 "Rainy_Day_2":"{{i18n:Hakan.rainyday.05}}",
@@ -78,7 +83,742 @@
                 "TwoKids_2":"{{i18n:Hakan.TwoKid_3}}",
                 "TwoKids_3":"{{i18n:Hakan.TwoKid_4}}",
 
+                //Seasonal dialogues
+
+                "spring_Hakan":"{{i18n:Hakan.married_spring}}",
+                "summer_Hakan":"{{i18n:Hakan.married_summer}}",
+                "fall_Hakan":"{{i18n:Hakan.married_fall}}",
+                "winter_Hakan":"{{i18n:Hakan.married_winter}}",
+
+                //Special days!!!
+
+                "spring_12": "{{i18n:Hakan.married_spring.12}}",
+                "spring_14": "{{i18n:Hakan.married.spring.14}}",
+                "spring_23": "{{i18n:Hakan.married.spring.23}}",
+                "summer_10": "{{i18n:Hakan.married.summer.10}}",
+                "summer_19": "{{i18n:Hakan.married.summer.19}}",
+                "summer_27": "{{i18n:Hakan.married.summer.27}}",
+                "fall_15": "{{i18n:Hakan.married.fall.15}}",
+                "fall_26": "{{i18n:Hakan.married.fall.26}}",
+                "winter_7": "{{i18n:Hakan.married.winter.07}}",
+                "winter_11": "{{i18n:Hakan.married.winter.11}}",
+                "winter_14": "{{i18n:Hakan.married.winter.14}}",
+                "winter_24": "{{i18n:Hakan.married.winter.24}}",
+                "winter_28": "{{i18n:Hakan.married.winter.28}}",
+
+                "spring_13": "{{i18n:Hakan.married_spring.13}}",
+                "summer_11": "{{i18n:Hakan.married_summer.11}}",
+                "summer_28": "{{i18n:Hakan.married_summer.28}}",
+                "fall_27": "{{i18n:Hakan.married_fall.27}}",
+                "winter_8": "{{i18n:Hakan.married_winter.08}}",
+                "winter_25": "{{i18n:Hakan.married_winter.25}}",
+                //First Day o Season
+
+                "spring_1": "{{i18n:Hakan.married_spring1}}",
+                "summer_1": "{{i18n:Hakan.married_summer1}}",
+                "fall_1": "{{i18n:Hakan.married_fall1}}",
+                "winter_1": "{{i18n:Hakan.married_winter1}}"
+                
             }
-        }
+        },
+        
+        //Dynamic Dialogues!!
+
+        //SPRING
+        {
+            //Tues Spring 2
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Spring 2"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.01}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.02}}",
+            }
+        },
+        {
+            //Wed Spring 3
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Spring 3"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.03}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.04}}",
+            }
+        },
+        {
+            //Fri Spring 5
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Spring 5"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.05}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.06}}",
+            }
+        },
+        {
+            //Tues Spring 9
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Spring 9"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.01}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.02}}",
+            }
+        },
+        {
+            //Wed Spring 10
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Spring 10"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.03}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.04}}",
+            }
+        },
+        {
+            //Fri Spring 12
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Spring 12"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.11}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.12}}",
+            }
+        },
+        {
+            //Sun Spring 15 DESERT FESTIVAL DAY 1
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Spring 15"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.07}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.08}}",
+            }
+        },
+        {
+            //Sun Spring 15 DESERT FESTIVAL DAY 2
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Spring 16"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.09}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.010}}",
+            }
+        },
+        {
+            //Sun Spring 15 DESERT FESTIVAL DAY 3
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Spring 17"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.07}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.08}}",
+            }
+        },
+        {
+            //Fri Spring 19
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Spring 19"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.05}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.06}}",
+            }
+        },
+        {
+            //Fri Spring 26
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Spring 19"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.05}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.06}}",
+            }
+        },
+        {
+            //Tues Spring 23
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Spring 23"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.13}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.14}}",
+            }
+        },
+        {
+            //Wed Spring 24
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Spring 24"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.15}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.16}}",
+            }
+        },
+
+        //SUMMER
+
+        {
+            //Tues Summer 2
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Summer 2"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.01}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.02}}",
+            }
+        },
+        {
+            //Wed Summer 3
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Summer 3"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.03}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.04}}",
+            }
+        },
+        {
+            //Fri Summer 6
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Summer 6"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.17}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.18}}",
+            }
+        },
+        {
+            //Tues Summer 9
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Summer 9"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.01}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.02}}",
+            }
+        },
+        {
+            //Wed Summer 10
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Summer 10"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.19}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.20}}",
+            }
+        },
+        {
+            //Fri Summer 13
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Summer 13"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.17}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.18}}",
+            }
+        },
+        {
+            //Tues Summer 16
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Summer 16"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.01}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.02}}",
+            }
+        },
+        {
+            //Wed Summer 17
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Summer 17"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.03}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.04}}",
+            }
+        },
+        {
+            //Fri Summer 20 TROUT DERBY DAY BEFORE
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Summer 19"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.25}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.26}}",
+            }
+        },
+        {
+            //Sat Summer 21 TROUT DERBY DAY 1
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Summer 20"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.23}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.24}}",
+            }
+        },
+        {
+            //Sat Summer 21 TROUT DERBY DAY 2
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Summer 21"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.27}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.28}}",
+            }
+        },
+        {
+            //Tues Summer 23
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Summer 16"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.01}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.02}}",
+            }
+        },
+        {
+            //Wed Summer 24
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Summer 17"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.03}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.04}}",
+            }
+        },
+        {
+            //Fri Summer 27
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Summer 20"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.21}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.22}}",
+            }
+        },
+        //FALL
+        {
+            //Tues Fall 2
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Fall 2"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.01}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.02}}",
+            }
+        },
+        {
+            //Wed Fall 3
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Fall 3"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.03}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.04}}",
+            }
+        },
+        {
+            //Fri Fall 7
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Fall 7"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.29}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.30}}",
+            }
+        },
+        {
+            //Tues Fall 9
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Fall 9"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.01}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.02}}",
+            }
+        },
+        {
+            //Wed Fall 10
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Fall 10"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.03}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.04}}",
+            }
+        },
+        {
+            //Fri Fall 14
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Fall 14"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.29}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.30}}",
+            }
+        },
+        {
+            //Tues Fall 16 FAIR
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Fall 16"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.31}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.32}}",
+            }
+        },
+        {
+            //Wed Fall 17
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Fall 17"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.03}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.04}}",
+            }
+        },
+        {
+            //Fri Fall 21
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Fall 21"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.29}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.30}}",
+            }
+        },
+        {
+            //Tues Fall 23
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Fall 23"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.01}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.02}}",
+            }
+        },
+        {
+            //Wed Fall 24
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Fall 24"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.03}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.04}}",
+            }
+        },
+        {
+            //Fri Fall 28
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Fall 28"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.29}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.30}}",
+            }
+        },
+        //WINTER
+        {
+            //Tues Winter 2
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Winter 2"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.01}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.02}}",
+            }
+        },
+        {
+            //Wed Winter 3
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Winter 3"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.03}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.04}}",
+            }
+        },
+        {
+            //Fri Winter 6
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Winter 28"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.33}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.34}}",
+            }
+        },
+        {
+            //Tues Winter 9
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Winter 9"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.01}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.02}}",
+            }
+        },
+        {
+            //Wed Winter 10
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Winter 10"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.03}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.04}}",
+            }
+        },
+        {
+            //Fri Winter SQUIDDIES DAY 1
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Winter 12"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.37}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.38}}",
+            }
+        },
+        {
+            //Fri Winter SQUIDDIES DAY 2
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Winter 13"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.39}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.40}}",
+            }
+        },
+        {
+            //NIGHT MARKET DAY 1
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Winter 15"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.35}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.36}}",
+            }
+        },
+        {
+            //NIGHT MARKET DAY 2
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Winter 16"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.35}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.36}}",
+            }
+        },
+        {
+            //NIGHT MARKET DAY 3
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Winter 17"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.35}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.36}}",
+            }
+        },
+        {
+            //Fri Winter 19
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Winter 19"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.33}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.34}}",
+            }
+        },
+        {
+            //Tues Winter 23
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Winter 23"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.01}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.02}}",
+            }
+        },
+        {
+            //Wed Winter 24 WINTER STAR PREP
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Winter 24"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.41}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.42}}",
+            }
+        },
+        {
+            //Fri Winter 26
+
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHakan",
+            "When": {
+              "Date": "Winter 26"
+            },
+            "Entries": {
+              "funLeave_Hakan": "{{i18n:Hakan.Dyn.33}}",
+              "funReturn_Hakan": "{{i18n:Hakan.Dyn.34}}",
+            }
+        },
+
     ]
 }

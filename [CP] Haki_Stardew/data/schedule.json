@@ -74,7 +74,7 @@
 //MARRIAGE VARIANTS
 //WORKING
 
-"marriage_Mon": "800 Mountain 5 11 2/1200 AdventureGuild 11 16 3/1400 AdventureGuild 8 11 0/1500 Custom_AdventurerSummit 20 16 2 hakan_look/1800 Mine 16 4 2 hakan_look/2200 bed",
+"marriage_Wed": "800 Mountain 5 11 2/1200 AdventureGuild 11 16 3/1400 AdventureGuild 8 11 0/1500 Custom_AdventurerSummit 20 16 2 hakan_look/1800 Mine 16 4 2 hakan_look/2200 bed",
 
 "marriage_Tue": "800 Mountain 5 11 2/1100 SeedShop 24 15 2/1300 SeedShop 24 15 2 hakan_workout/1600 Forest 104 23 2 hakan_look/1800 Forest 32 96 2 hakan_look/2100 bed",
 
@@ -84,15 +84,15 @@
 
 "marriage_Summer_Sat": "1100 Beach 46 22 2 hakan_laze_shirtless/1500 Beach 44 35 1 birdie_fish/2000 bed",
 
-"marriage_Fall_Sun": "1200 Custom_BlueMoonVineyard 50 43 2/1800 Town 42 56 0/2200 bed",
+"marriage_Fall_Sun": "1100 Custom_BlueMoonVineyard 50 43 2/1800 Town 42 56 0/2200 bed",
 
 "marriage_Winter_Fri": "1000 Bathhouse_MensLocker 6 5 2 hakan_workout/1400 Bathhouse_Pool 15 9 2 hakan_laze_shirtless/1800 Saloon 5 20 3/2400 Custom_haki_cabin 18 5 3 hakan_sleep",
 
 //HOLIDAYS
 
-"marriage_DesertFestival":"610 Railroad 15 57 0/630 Desert 15 7 3",
+"marriage_DesertFestival":"610 Railroad 15 57 0/630 Desert 15 7 3/2200 bed",
 
-"marriage_DesertFestival_2":"610 Railroad 15 57 0/630 Desert 4 14 1 birdie_fish",
+"marriage_DesertFestival_2":"610 Railroad 15 57 0/630 Desert 4 14 1 birdie_fish/2200 bed",
 
 "marriage_SquidFest":"700 Beach 44 35 1 birdie_fish/2200 bed",
 
@@ -100,7 +100,7 @@
 
 //NIGHTMARKET
 
-"Winter_17":"1700 Beach 11 31 3/2300 bed"
+"marriage_Winter_17":"1700 Beach 11 31 3/2300 bed"
 
 //Testing purposes only
 

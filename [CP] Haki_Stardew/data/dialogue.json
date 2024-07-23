@@ -10,49 +10,49 @@
 
             "Introduction":"{{i18n:Hakan.Intro}}",
             "GreenRain":"{{i18n:Hakan.GreenRain}}",
-            "GreenRain_2": "",
+            //"GreenRain_2": "",
             "GreenRainFinished":"{{i18n:Hakan.GreenRainFinished}}",
             "DumpsterDiveComment":"{{i18n:Hakan.Dumpsterdive}}",
             "dating_Hakan":"{{i18n:Hakan.dating}}",
             "dating_Hakan_memory_oneday":"{{i18n:Hakan.dating_memory_oneday}}",
             "dating_Hakan_memory_oneyear":"{{i18n:Hakan.dating_memory_oneyear}}",
-            "breakUp": "{{i18n:Hakan.breakup}}",
-            "divorced": "{{i18n:Hakan.divorced}}",
-            "secondChance_Guys": "{{i18n:Hakan.second_chance}}",
-            "spring_1_2": "{{i18n:Hakan.Spring.1YR2}}",
+            "breakUp":"{{i18n:Hakan.breakup}}",
+            "divorced":"{{i18n:Hakan.divorced}}",
+            "secondChance_Guys":"{{i18n:Hakan.second_chance}}",
+            "spring_1_2":"{{i18n:Hakan.Spring.1YR2}}",
             "HitBySlingshot":"{{i18n:Hakan.slingshot}}",
-            "WipedMemory": "{{i18n:Hakan.wipedmemory}}",
-            "give_pendant": "{{i18n:Hakan.give_pendant}}",
+            "WipedMemory":"{{i18n:Hakan.wipedmemory}}",
+            "give_pendant":"{{i18n:Hakan.give_pendant}}",
             
         //Flower Dance
 
-            "FlowerDance_Decline": "{{i18n:Hakan.flowerdance_accept}}",
-            "FlowerDance_Accept": "{{i18n:Hakan.flowerdance_decline}}",
+            "FlowerDance_Decline":"{{i18n:Hakan.flowerdance_accept}}",
+            "FlowerDance_Accept":"{{i18n:Hakan.flowerdance_decline}}",
 
         //Valley Fair
         
-            "Fair_Judged_PlayerLost_PurpleShorts": "{{i18n:Hakan.JudgedPlayerLostPurpleShorts}}",
-            "Fair_Judged_PlayerLost": "{{i18n:Hakan.JudgedPlayerWon}}",
-            "Fair_Judged_PlayerWon": "{{i18n:Hakan.JudgedPlayerLost}}",
+            "Fair_Judged_PlayerLost_PurpleShorts":"{{i18n:Hakan.JudgedPlayerLostPurpleShorts}}",
+            //"Fair_Judged_PlayerLost":"{{i18n:Hakan.JudgedPlayerWon}}",
+            //"Fair_Judged_PlayerWon":"{{i18n:Hakan.JudgedPlayerLost}}",
         
         // Bouquet
 
-            "AcceptBouquet": "{{i18n:Hakan.AcceptBouquet}}",
-            "RejectBouquet_Divorced": "{{i18n:Hakan.RejectBouquetDivorced}}",
-            "RejectBouquet_NpcAlreadyMarried": "{{i18n:Hakan.RejectBouquet_NpcAlreadyMarried}}",
-            "RejectBouquet_VeryLowHearts": "{{i18n:Hakan.RejectBouquet_VeryLowHearts}}",
-            "RejectBouquet_LowHearts": "{{i18n:Hakan.RejectBouquet_LowHearts}}",
-            "RejectBouquet": "{{i18n:Hakan.RejectBouquet}}",
+            "AcceptBouquet":"{{i18n:Hakan.AcceptBouquet}}",
+            "RejectBouquet_Divorced":"{{i18n:Hakan.RejectBouquetDivorced}}",
+            "RejectBouquet_NpcAlreadyMarried":"{{i18n:Hakan.RejectBouquet_NpcAlreadyMarried}}",
+            "RejectBouquet_VeryLowHearts":"{{i18n:Hakan.RejectBouquet_VeryLowHearts}}",
+            "RejectBouquet_LowHearts":"{{i18n:Hakan.RejectBouquet_LowHearts}}",
+            "RejectBouquet":"{{i18n:Hakan.RejectBouquet}}",
         
         // Pendant
 
-            "RejectMermaidPendant": "{{i18n:Hakan.RejectMermaidPendant}}",
-            "RejectMermaidPendant_Divorced": "{{i18n:Hakan.RejectMermaidPendantDivorced}}",
-            "RejectMermaidPendant_NeedHouseUpgrade": "{{i18n:Hakan.RejectMermaidPendantNeedHouseUpgrade}}",
-            "RejectMermaidPendant_PlayerWithSomeoneElse": "{{i18n:Hakan.RejectMermaidPendantPlayerWithSomeoneElse}}",
-            "RejectMermaidPendant_Under8Hearts": "{{i18n:Hakan.RejectMermaidPendantUnder8Hearts}}",
-            "RejectMermaidPendant_Under10Hearts": "{{i18n:Hakan.RejectMermaidPendantUnder10Hearts}}",
-            "RejectMermaidPendant_Under10Hearts_AskedAgain": "{{i18n:Hakan.RejectMermaidPendantUnder10HeartsAskedAgain}}",
+            "RejectMermaidPendant":"{{i18n:Hakan.RejectMermaidPendant}}",
+            "RejectMermaidPendant_Divorced":"{{i18n:Hakan.RejectMermaidPendantDivorced}}",
+            "RejectMermaidPendant_NeedHouseUpgrade":"{{i18n:Hakan.RejectMermaidPendantNeedHouseUpgrade}}",
+            "RejectMermaidPendant_PlayerWithSomeoneElse":"{{i18n:Hakan.RejectMermaidPendantPlayerWithSomeoneElse}}",
+            "RejectMermaidPendant_Under8Hearts":"{{i18n:Hakan.RejectMermaidPendantUnder8Hearts}}",
+            "RejectMermaidPendant_Under10Hearts":"{{i18n:Hakan.RejectMermaidPendantUnder10Hearts}}",
+            "RejectMermaidPendant_Under10Hearts_AskedAgain":"{{i18n:Hakan.RejectMermaidPendantUnder10HeartsAskedAgain}}",
 
         //Ginger Island
 
@@ -69,8 +69,17 @@
 
             "pamHouseUpgrade":"{{i18n:Hakan.pamHouseUpgrade}}",
             "pamHouseUpgradeAnonymous":"{{i18n:Hakan.pamHouseUpgradeAnonymous}}",
-            "cc_Complete": "{{i18n:Hakan.cc_Complete}}",
-            "dumped_Guys": "{{i18n:Hakan.cc_dumped_boys}}",
+            "cc_Complete":"{{i18n:Hakan.cc_Complete}}",
+            "dumped_Guys":"{{i18n:Hakan.cc_dumped_boys}}",
+            "movieTheater":"{{Hakan.movietheatercreated}}",
+
+        //Movie Tickets Rejects
+
+            "RejectMovieTicket_AlreadyInvitedBySomeoneElse":"{{i18n:Hakan.movie.RejectMovieTicketAlreadyInvitedBySomeoneElse}}",
+            "RejectMovieTicket_AlreadyWatchedThisWeek":"{{i18n:Hakan.movie.RejectMovieTicketAlreadyWatchedThisWeek}}",
+            "RejectMovieTicket_Divorced":"{{i18n:Hakan.movie.RejectMovieTicketDivorced}}",
+            "RejectMovieTicket_DontWantToSeeThatMovie":"{{i18n:Hakan.movie.RejectMovieTicketDontWantToSeeThatMovie}}",
+            "RejectMovieTicket":"{{i18n:Hakan.movie.RejectMovieTicket}}",
 
         //Specific Gift Dialogues
 
@@ -94,7 +103,7 @@
             "AcceptGift_(O)392":"{{i18n:Gifts.Hakan.Tankdecor}}",
             "AcceptGift_(O)128":"{{i18n:Gifts.Hakan.Pufferfish}}",
             "AcceptGift_(O)138":"{{i18n:Gifts.Hakan.FishLiked}}",
-            "AcceptGift_(O)254": "{{i18n:Gifts.Hakan.Melon}}",
+            "AcceptGift_(O)254":"{{i18n:Gifts.Hakan.Melon}}",
 
             //Neutral Topaz
 
@@ -102,21 +111,21 @@
 
             // Disliked Parsnip, Mayo, Pancakes
 
-            "AcceptGift_(O)306": "{{i18n:Gifts.Hakan.Mayo}}",
-            "AcceptGift_(O)211": "{{i18n:Gifts.Hakan.Pancakes}}",
+            "AcceptGift_(O)306":"{{i18n:Gifts.Hakan.Mayo}}",
+            "AcceptGift_(O)211":"{{i18n:Gifts.Hakan.Pancakes}}",
 
             // Hated Eggplant, Squid, Beer, Mead, Red Mushroom, Green Algae, White Algae, Fried Calamari 
 
-            "AcceptGift_(O)272": "{{i18n:Gifts.Hakan.Eggplant}}",
-            "RejectItem_(O)151": "{{i18n:Gifts.Hakan.Squid}}",
-            "RejectItem_(O)420": "{{i18n:Gifts.Hakan.RedMushroom}}",
-            "RejectItem_(O)202": "{{i18n:Gifts.Hakan.Squid}}",
+            "AcceptGift_(O)272":"{{i18n:Gifts.Hakan.Eggplant}}",
+            "RejectItem_(O)151":"{{i18n:Gifts.Hakan.Squid}}",
+            "RejectItem_(O)420":"{{i18n:Gifts.Hakan.RedMushroom}}",
+            "RejectItem_(O)202":"{{i18n:Gifts.Hakan.Squid}}",
 
             //Birthday
 
-            "AcceptBirthdayGift_Negative": "{{i18n:Bday.Hakan.Negative}}",
-            "AcceptBirthdayGift_Positive": "{{i18n:Bday.Hakan.Positive}}",
-            "AcceptBirthdayGift": "{{i18n:Bday.Hakan.Generic}}",
+            "AcceptBirthdayGift_Negative":"{{i18n:Bday.Hakan.Negative}}",
+            "AcceptBirthdayGift_Positive":"{{i18n:Bday.Hakan.Positive}}",
+            "AcceptBirthdayGift":"{{i18n:Bday.Hakan.Generic}}",
 
             // Other Gifting Dialogue
 
@@ -160,39 +169,61 @@
 
         //Specific Tiles
 
+        //Some of these may be replaced with schedule strings later...
+
             "AdventureGuild_8_11":"{{i18n:Hakan.Guild_Board}}",
             "AdventureGuild_11_16":"{{i18n:Hakan.Guild_Sword}}",
             "Desert_4_14":"{{i18n:Hakan.desertfestival_01}}", 
             "Desert_15_7":"{{i18n:Hakan.desertfestival_02}}",
+            "Custom_BlueMoonVineyard_22_56":"{{i18n:Hakan.Oceangazing}}",
+            "Custom_AdventurerSummit_20_16":"{{i18n:Hakan.Patrol_01}}",
+            "Mine_16_4":"{{i18n:Hakan.Patrol_01}}",
+            "SeedShop_24_15":"{{i18n:Hakan.AerobicsClass}}",
+            "Forest_104_23":"{{i18n:Hakan.Patrol_01}}",
+            "Forest_32_96":"{{i18n:Hakan.Patrol_01}}",
+            "Forest_32_11":"{{i18n:Hakan.Cart}}",
+            "Custom_WizardBasement_13_5":"{{i18n:Hakan.WizardTower}}",
+
+            //Not using this entry for Hakan laze... yet...
+            //"Woods_46_55":"{{i18n:Hakan.WizardTower}}",
+
+            "Woods_37_49":"{{i18n:Hakan.ForestFishing}}",
+            "Saloon_5_20":"{{i18n:Hakan.Stardropsaloon}}",
+            "Beach_46_22":"{{i18n:Hakan.BeachLaze}}",
+            "Bathhouse_MensLocker_6_5":"{{i18n:Hakan.BathWorkout}}",
+            "Bathhouse_Pool_15_9_2": "{{i18n:Hakan.BathLaze}}",
+            "Woods_41_82":"{{i18n:Hakan.TroutDerby}}",
+            "Beach_44_35":"{{i18n:Hakan.SquidDerby}}",
+            "Beach_11_31":"{{i18n:Hakan.nightmarket_02}}",
 
         //Specific Days
 
-            "spring_12": "{{i18n:Hakan.Spring.12}}",
-            "spring_14": "{{i18n:Hakan.Spring.14}}",
-            "spring_15": "{{i18n:Hakan.Spring.15}}",
-            "spring_23": "{{i18n:Hakan.Spring.23}}",
-            "summer_10": "{{i18n:Hakan.Summer.10}}",
-            "summer_27": "{{i18n:Hakan.Summer.27}}",
-            "spring_19": "{{i18n:Hakan.Spring.19}}",
-            "fall_8": "{{i18n:Hakan.Fall.8}}",
-            "fall_15": "{{i18n:Hakan.Fall.15}}",
-            "fall_26": "{{i18n:Hakan.Fall.26}}",
-            "winter_7": "{{i18n:Hakan.Winter.07}}",
-            "winter_11": "{{i18n:Hakan.Winter.11}}",
-            "winter_14": "{{i18n:Hakan.Winter.14}}",
-            "winter_24": "{{i18n:Hakan.Winter.24}}",
-            "spring_14_2": "{{i18n:Hakan.Spring.14YR2}}"
+            "spring_12":"{{i18n:Hakan.Spring.12}}",
+            "spring_14":"{{i18n:Hakan.Spring.14}}",
+            "spring_15":"{{i18n:Hakan.Spring.15}}",
+            "spring_23":"{{i18n:Hakan.Spring.23}}",
+            "summer_10":"{{i18n:Hakan.Summer.10}}",
+            "summer_27":"{{i18n:Hakan.Summer.27}}",
+            "summer_19":"{{i18n:Hakan.Summer.19}}",
+            "fall_8":"{{i18n:Hakan.Fall.8}}",
+            "fall_15":"{{i18n:Hakan.Fall.15}}",
+            "fall_26":"{{i18n:Hakan.Fall.26}}",
+            "winter_7":"{{i18n:Hakan.Winter.07}}",
+            "winter_11":"{{i18n:Hakan.Winter.11}}",
+            "winter_14":"{{i18n:Hakan.Winter.14}}",
+            "winter_24":"{{i18n:Hakan.Winter.24}}",
+            "spring_14_2":"{{i18n:Hakan.Spring.14YR2}}",
 
         //Locations
 
             "Saloon":"{{i18n:Hakan.Saloon}}",
-            "Woods": "{{i18n:Hakan.Woods}}",
-            "Woods10": "{{i18n:Hakan.Woods10}}",
-            "SeedShop4": "{{i18n:Hakan.SeedShop4}}",
-            "Bathhouse": "{{i18n:Hakan.Bathhouse}}",
-            "Custom_haki_cabin": "{{i18n:Hakan.HakiHouse}}",
-            "Custom_haki_cabin6": "{{i18n:Hakan.HakiHouse6}}",
-            "Custom_haki_cabin10": "{{i18n:Hakan.HakiHouse10}}"
+            "Woods":"{{i18n:Hakan.Woods}}",
+            "Woods10":"{{i18n:Hakan.Woods10}}",
+            "SeedShop4":"{{i18n:Hakan.SeedShop4}}",
+            "Bathhouse":"{{i18n:Hakan.Bathhouse}}",
+            "Custom_haki_cabin":"{{i18n:Hakan.HakiHouse}}",
+            "Custom_haki_cabin6":"{{i18n:Hakan.HakiHouse6}}",
+            "Custom_haki_cabin10":"{{i18n:Hakan.HakiHouse10}}"
 
         }
     }
