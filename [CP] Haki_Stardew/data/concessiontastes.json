@@ -1,7 +1,3 @@
-
-// MOVIE THEATRE DATA
-
-// TASTES
 {
 	"Changes": [
 		{
@@ -46,25 +42,25 @@
 							"Response": "like",
 							"Whitelist": [],
 							"SpecialResponses": {
-							"BeforeMovie": {
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "{{Hakan.movie.bravelilsapling_1}}",
-							},
-							"DuringMovie": {
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "{{Hakan.movie.bravelilsapling_2}}",
-							},
-							"AfterMovie": {
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "{{Hakan.movie.bravelilsapling_3}}",
-							}
-							},
-							"ID": "reaction_0"
+								"BeforeMovie": {
+									"ResponsePoint": null,
+									"Script": null,
+									"Text": "{{i18n:Hakan.movie.bravelilsapling_1}}",
+								},
+								"DuringMovie": {
+									"ResponsePoint": null,
+									"Script": null,
+									"Text": "{{i18n:Hakan.movie.bravelilsapling_2}}",
+								},
+								"AfterMovie": {
+									"ResponsePoint": null,
+									"Script": null,
+									"Text": "{{i18n:Hakan.movie.bravelilsapling_3}}",
+								}
+								},
+								"ID": "reaction_0"
 
-						},
+							},
 
 						{
 							
@@ -73,25 +69,25 @@
 							"Response": "love",
 							"Whitelist": [],
 							"SpecialResponses": {
-							"BeforeMovie": {
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "{{Hakan.movie.naturalwonders_1}}",
-							},
-							"DuringMovie": {
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "{{Hakan.movie.naturalwonders_2}}",
-							},
-							"AfterMovie": {
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "{{Hakan.movie.naturalwonders_3}}",
-							}
-							},
-							"ID": "reaction_1"
+								"BeforeMovie": {
+									"ResponsePoint": null,
+									"Script": null,
+									"Text": "{{i18n:Hakan.movie.naturalwonders_1}}",
+								},
+								"DuringMovie": {
+									"ResponsePoint": null,
+									"Script": null,
+									"Text": "{{i18n:Hakan.movie.naturalwonders_2}}",
+								},
+								"AfterMovie": {
+									"ResponsePoint": null,
+									"Script": null,
+									"Text": "{{i18n:Hakan.movie.naturalwonders_3}}",
+								}
+								},
+								"ID": "reaction_1"
 
-						},
+							},
 
 						{
 							
@@ -100,25 +96,25 @@
 							"Response": "like",
 							"Whitelist": [],
 							"SpecialResponses": {
-							"BeforeMovie": {
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "{{Hakan.movie.journeyofprairie_1}}",
-							},
-							"DuringMovie": {
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "{{Hakan.movie.journeyofprairie_2}}",
-							},
-							"AfterMovie": {
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "{{Hakan.movie.journeyofprairie_3}}",
-							}
-							},
-							"ID": "reaction_2"
+								"BeforeMovie": {
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n:Hakan.movie.journeyofprairie_1}}",
+								},
+								"DuringMovie": {
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n:Hakan.movie.journeyofprairie_2}}",
+								},
+								"AfterMovie": {
+									"ResponsePoint": null,
+									"Script": null,
+									"Text": "{{i18n:Hakan.movie.journeyofprairie_3}}",
+								}
+								},
+								"ID": "reaction_2"
 
-						},
+							},
 
 						{
 							
@@ -127,26 +123,26 @@
 							"Response": "hate",
 							"Whitelist": [],
 							"SpecialResponses": {
-							"BeforeMovie": {
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "{{Hakan.movie.wumbus_1}}",
-							},
-							"DuringMovie": {
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "{{Hakan.movie.wumbus_2}}",
-							},
-							"AfterMovie": {
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "{{Hakan.movie.wumbus_3}}",
-							}
-							},
-							"ID": "reaction_3"
+								"BeforeMovie": {
+									"ResponsePoint": null,
+									"Script": null,
+									"Text": "{{i18n:Hakan.movie.wumbus_1}}",
+								},
+								"DuringMovie": {
+									"ResponsePoint": null,
+									"Script": null,
+									"Text": "{{i18n:Hakan.movie.wumbus_2}}",
+								},
+								"AfterMovie": {
+									"ResponsePoint": null,
+									"Script": null,
+									"Text": "{{i18n:Hakan.movie.wumbus_3}}",
+								}
+								},
+								"ID": "reaction_3"
 
 
-						},
+							},
 
 						{
 							
@@ -155,54 +151,54 @@
 							"Response": "hate",
 							"Whitelist": [],
 							"SpecialResponses": {
-							"BeforeMovie": {
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "{{Hakan.movie.mysterium_1}}",
-							},
-							"DuringMovie": {
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "{{Hakan.movie.mysterium_2}}",
-							},
-							"AfterMovie": {
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "{{Hakan.movie.mysterium_3}}",
-							}
-							},
-							"ID": "reaction_4"
+								"BeforeMovie": {
+									"ResponsePoint": null,
+									"Script": null,
+									"Text": "{{i18n:Hakan.movie.mysterium_1}}",
+								},
+								"DuringMovie": {
+									"ResponsePoint": null,
+									"Script": null,
+									"Text": "{{i18n:Hakan.movie.mysterium_2}}",
+								},
+								"AfterMovie": {
+									"ResponsePoint": null,
+									"Script": null,
+									"Text": "{{i18n:Hakan.movie.mysterium_3}}",
+								}
+								},
+								"ID": "reaction_4"
 
 
-						},
+							},
 
 						{
 							
 							//It howls in the rain
-							"Tag": "fall_movie_0",
+							"Tag": "fall_movie_1",
 							"Response": "dislike",
 							"Whitelist": [],
 							"SpecialResponses": {
-							"BeforeMovie": {
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "{{Hakan.movie.ithowlsintherain_1}}",
-							},
-							"DuringMovie": {
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "{{Hakan.movie.ithowlsintherain_2}}",
-							},
-							"AfterMovie": {
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "{{Hakan.movie.ithowlsintherain_3}}",
-							}
-							},
-							"ID": "reaction_5"
+								"BeforeMovie": {
+									"ResponsePoint": null,
+									"Script": null,
+									"Text": "{{i18n:Hakan.movie.ithowlsintherain_1}}",
+								},
+								"DuringMovie": {
+									"ResponsePoint": null,
+									"Script": "/shake Hakan 3000/speak Hakan \"{{i18n:Hakan.movie.ithowlsintherain_2}}\"/pause 500/message \"{{i18n:Hakan.movie.ithowlsintherain_2.5}}\"",
+									"Text": "",
+								},
+								"AfterMovie": {
+									"ResponsePoint": null,
+									"Script": null,
+									"Text": "{{i18n:Hakan.movie.ithowlsintherain_3}}",
+								}
+								},
+								"ID": "reaction_5"
 
 
-						},
+							},
 
 						{
 							
@@ -211,26 +207,26 @@
 							"Response": "like",
 							"Whitelist": [],
 							"SpecialResponses": {
-							"BeforeMovie": {
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "{{Hakan.movie.coldstarranch_1}}",
-							},
-							"DuringMovie": {
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "{{Hakan.movie.coldstarranch_2}}",
-							},
-							"AfterMovie": {
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "{{Hakan.movie.coldstarranch_3}}",
-							}
-							},
-							"ID": "reaction_6"
+								"BeforeMovie": {
+									"ResponsePoint": null,
+									"Script": null,
+									"Text": "{{i18n:Hakan.movie.coldstarranch_1}}",
+								},
+								"DuringMovie": {
+									"ResponsePoint": null,
+									"Script": null,
+									"Text": "{{i18n:Hakan.movie.coldstarranch_2}}",
+								},
+								"AfterMovie": {
+									"ResponsePoint": null,
+									"Script": null,
+									"Text": "{{i18n:Hakan.movie.coldstarranch_3}}",
+								}
+								},
+								"ID": "reaction_6"
 
 
-						},
+							},
 
 						{
 							
@@ -239,25 +235,23 @@
 							"Response": "dislike",
 							"Whitelist": [],
 							"SpecialResponses": {
-							"BeforeMovie": {
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "{{Hakan.movie.zuzucity_1}}",
-							},
-							"DuringMovie": {
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "{{Hakan.movie.zuzucity_2}}",
-							},
-							"AfterMovie": {
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "{{Hakan.movie.zuzucity_3}}",
+								"BeforeMovie": {
+									"ResponsePoint": null,
+									"Script": null,
+									"Text": "{{i18n:Hakan.movie.zuzucity_1}}",
+								},
+								"DuringMovie": {
+									"ResponsePoint": null,
+									"Script": "speak Hakan \"{{i18n:Hakan.movie.zuzucity_2}}\"/pause 500/message \"{{i18n:Hakan.movie.zuzucity_2.5}}\"",
+									"Text": "",
+								},
+								"AfterMovie": {
+									"ResponsePoint": null,
+									"Script": null,
+									"Text": "{{i18n:Hakan.movie.zuzucity_3}}",
+								},
+								"ID": "reaction_7"
 							}
-							},
-							"ID": "reaction_7"
-
-
 						}
 
 					]

@@ -9,7 +9,7 @@
 "Hakan.cc_Complete": "I feel a great natural magic surrounding the valley. Your offerings have made the forest spirits happy, perhaps it will keep the monsters at bay.$7",
 "Hakan.movietheatercreated": "The new movie theater looks amazing. It appeared overnight. I wonder what powers are capable of doing that?$19",
 "Hakan.pamHouseUpgrade": "I heard you got Pam a new house. It looks so much better than that old trailer...Maybe I should ask Robin to fix up the cabin?$6",
-"Hakan.pamHouseUpgradeAnonymous": "Hmph, I wonder who got Pam a new house. #$bHakan stares at you suspiciously.#$11# #$b#Was it you?$11",
+"Hakan.pamHouseUpgradeAnonymous": "Hmph, I wonder who got Pam a new house. #$bHakan stares at you suspiciously.$11#$b#Was it you?$11",
 "Hakan.slingshot": "Hey! You really think it's good idea to piss me off?$4",
 "Hakan.wipedmemory": "Guh, why am I getting a sense of deja'vu?$15",
 
@@ -115,7 +115,7 @@
 "Hakan.movie.mysterium_2": "*shivers*$5",
 "Hakan.movie.mysterium_3": "That was horrifying...I'm glad the ghosts of the mines aren't as scary. I never gave their purpose much thought.$8",
 "Hakan.movie.coldstarranch_1": "It's cold outside...I'm ready for a cozy movie.$1",
-"Hakan.movie.coldstarranch_2": "*sniff* $b%Hakan has a somber look on his face.$2",
+"Hakan.movie.coldstarranch_2": "*sniff*$2",
 "Hakan.movie.coldstarranch_3": "Sorry, that movie brought up some old memories.$2",
 "Hakan.movie.naturalwonders_1": "A movie about our natural world, I'm gonna love this.$7",
 "Hakan.movie.naturalwonders_2": "Haha, crab rave!$18",
@@ -124,10 +124,12 @@
 "Hakan.movie.wumbus_2": "Ewww...$13",
 "Hakan.movie.wumbus_3": "What strange character designs.$8",
 "Hakan.movie.ithowlsintherain_1": "Wait, its the noise we sometimes hear in the rain!$15",
-"Hakan.movie.ithowlsintherain_2": "...#&b#Hakan looks anxious$2",
+"Hakan.movie.ithowlsintherain_2": "...$2",
+"Hakan.movie.ithowlsintherain_2.5": "Hakan looks anxious",
 "Hakan.movie.ithowlsintherain_3": "*sigh* And still, no one has answers for what that strange noise is.$8",
 "Hakan.movie.zuzucity_1": "I'm not a huge fan of trains or old films, but this should be fun!$1",
-"Hakan.movie.zuzucity_2": "*Snore*#&b#Hakan fell asleep...$12",
+"Hakan.movie.zuzucity_2": "*Snore*$12",
+"Hakan.movie.zuzucity_2.5": "Hakan fell asleep...",
 "Hakan.movie.zuzucity_3": "*yawn* Is the movie over now?$8",
 
 // Flower Dance
@@ -140,11 +142,11 @@
 // Festivals
 
 "Hakan.eggfestival": "Why did Marnie make me hide all the eggs this year? She knows that I get hungry...$16",
-"Hakan.luau": "When I was a kid I threw a sea cucumber into the soup... $eIt took a while for everyone to forgive me after that.$7",
-"Hakan.moonjellies": "...Isn't it super weird that Pierre is selling merchandise at a jellyfish viewing?#$3#$e#...and at many other town events. He's sacrificing these rare moments just to make a quick buck.$3",
-"Hakan.fair": "*Homf nomf* $bHakan is too busy eating burgers.$14",
+"Hakan.luau": "When I was a kid I threw a sea cucumber into the soup... #$e#It took a while for everyone to forgive me after that.$7",
+"Hakan.moonjellies": "...Isn't it super weird that Pierre is selling merchandise at a jellyfish viewing?$3#$e#...and at many other town events. He's sacrificing these rare moments just to make a quick buck.$3",
+"Hakan.fair": "*Homf nomf* #$b#Hakan is too busy eating burgers.$14",
 "Hakan.spirit": "It's kind of messed up that the guild captures monsters for the town's entertainment.$6#$b#I should've just dressed up as a vampire.$9",
-"Hakan.ice": "Puh, you won't beat me at the fishing competition. I have the touch.#$1#$b#Fish can't resist my rod.$7",
+"Hakan.ice": "Puh, you won't beat me at the fishing competition. I have the touch.$1#$b#Fish can't resist my rod.$7",
 "Hakan.winterstar": "I hope my recipient likes the gift I got them...$0",
 "Hakan.nightmarket_1": "Yo, you should try the deep fishing on the submarine. I've caught some really unusual fish there!$1",
 "Hakan.nightmarket_02": "I'm keeping an eye out on that Shrouded Figure. Can never be too careful.$6",
@@ -161,19 +163,19 @@
 
 // Married Festival Variants
 
-"Hakan.eggfestival_spouse": "Hey you! *blushes* #$4#$b#Don't worry, I smuggled some eggs for us to share at home. Heheheh.#$7#$e#We should cook something delicious up at home.$14",
+"Hakan.eggfestival_spouse": "Hey you! *blushes* $4#$b#Don't worry, I smuggled some eggs for us to share at home. Heheheh.$7#$e#We should cook something delicious up at home.$14",
 "Hakan.flowerdance_spouse": "*Homf nomf* Hey handsome. You're lookin' almost as good as this meal right here. Almost.#$14#^*Homf nomf* Hey beautiful. You're lookin' almost as good as this meal right here. Almost.$14",
-"Hakan.luau_spouse": "Hey sexy, why don't you lose the shirt and cuddle with me. I know you like it.#$18#$b#Oh wait, maybe we should eat first...$15",
+"Hakan.luau_spouse": "Hey sexy, why don't you lose the shirt and cuddle with me. I know you like it.$18#$b#Oh wait, maybe we should eat first...$15",
 "Hakan.moonjellies_spouse": "H-h...wow you look quite dashing under the moonlight. You stand out like the green jellyfish.$4",
 "Hakan.fair_spouse": "*Homf nomf chomp chomp*#&b#Oh! Hey handsome, wanna share some with me? Gus's burgers are fire.$18^*Homf nomf chomp chomp*#&b#Oh! Hey beautiful, wanna share some with me? Gus's burgers are fire.$18",
-"Hakan.spirit_spouse": "Heh, are you a skeleton? Cause I have a bone to pick with you.#$14#$b#...What? We all have bones inside of us.$15",
+"Hakan.spirit_spouse": "Heh, are you a skeleton? Cause I have a bone to pick with you.$14#$b#...What? We all have bones inside of us.$15",
 "Hakan.ice_spouse": "Just because we are married doesn't I'm gonna go easy on you. They always want my rod.$7",
 "Hakan.winterstar_spouse": "I may not be your secret gifter this year, but I have a *BIG* gift for you when we get home. Prepare yourself.$14",
 
 // SVE COMMUNITY DAY:
 
 "Hakan.cd_spring": "Caroline and I like to exchange our plant clippings here.$1",
-"Hakan.cd_summer": "Willy told me some fishing secrets...#$1$$bNow I'm unstoppable.$7",
+"Hakan.cd_summer": "Willy told me some fishing secrets...$1#$b#Now I'm unstoppable.$7",
 "Hakan.cd_fall": "I kind of feel like this building could be great for a guildhall...$18",
 "Hakan.cd_winter": "I taught Abigail some sword moves... She's got a sense of adventure, but lacks experience.$1",
 
@@ -186,7 +188,7 @@
 
 // Dating Dialogue
 
-"Hakan.dating": "Uh, have you've seen any monsters lately? Cause I think I see one right now.#$18#$b#Er....Sorry, I'm bad at this.$4",
+"Hakan.dating": "Uh, have you've seen any monsters lately? Cause I think I see one right now.$18#$b#Er....Sorry, I'm bad at this.$4",
 "Hakan.dating_memory_oneday": "O-Oh hey honey... Sorry I'm trying to get used to this intimacy thing.$4",
 "Hakan.dating_memory_oneyear": "It's been awhile... Don't you think we should take this relationship further?$4",
 "Hakan.divorced": "...Sorry I can't look at you right now.$2",
@@ -224,9 +226,9 @@
 "Hakan.rainynight.05": "Sometimes, I miss my parents. I hope they are doing alright out there. I wish I could introduce you.$2",
 "Hakan.rainynight.06": "Please leave your shoes at the door, honey. I already cleaned up after %pet today.$1",
 
-"Hakan.good.01": "Heh, I'm glad I hooked a catch like you...#$4#$b#or did you hook me?#$9#$e#Well, who did what doesn't matter. We are in this like together.$7",
+"Hakan.good.01": "Heh, I'm glad I hooked a catch like you...$4#$b#or did you hook me?$9#$e#Well, who did what doesn't matter. We are in this like together.$7",
 "Hakan.good.02": "Why should I go fishing when I already caught someone like you?$7",
-"Hakan.good.03": "Hey...@...guess what?#$1#$e#I love you.$4",
+"Hakan.good.03": "Hey...@...guess what?$1#$e#I love you.$4",
 "Hakan.good.04": "The farm looks like a lot of work, but you never ask me for help. Hey, I'm here for you if you need me to help. Just ask.$1",
 "Hakan.good.05": "Can I have a kiss before you go?$4",
 "Hakan.good.06": "You make me feel whole, secure. I hope to grow old together.$4",
@@ -236,7 +238,7 @@
 "Hakan.neutral.02": "I swear, sometimes when I'm foraging near your grandfather's shrine... I hear whispering. I think there's something special about it.$0",
 "Hakan.neutral.03": "Marlon took me under his wing when my parents mysteriously left. And now here I am, an adventurer fully trained to fight monsters. #$e#There used to be more of us, but it's a risky profession.",
 "Hakan.neutral.04": "I learned a little bit of magic from Marlon. I'm not the best at it but I can cast some useful spells...$1",
-"Hakan.neutral.05": "Patrolling the town at night is so boring most of the time... the only rustling in the bushes I've heard were from Lewis and Marnie...-#$0#$b#...You don't wanna know.$5",
+"Hakan.neutral.05": "Patrolling the town at night is so boring most of the time... the only rustling in the bushes I've heard were from Lewis and Marnie...-$0#$b#...You don't wanna know.$5",
 "Hakan.neutral.06": "What do you think our future will be? Will we continue the cozy life on the farm, or go adventuring together?$1",
 "Hakan.neutral.07": "I hope my fish are doing okay at my house. Willy helps me monitor them but its hard not being there 24/7.$2",
 
@@ -272,12 +274,12 @@
 
 //These two entries below are defaults for when Hakan leaves the farmhouse.
 
-"Hakan.fun_return": "I think I had a huge fish on the line today, but it broke my rod. I think I'm gonna need to fix my rod tonight.#$0#$b#Heh...Can you help me out?$14",
+"Hakan.fun_return": "I think I had a huge fish on the line today, but it broke my rod. I think I'm gonna need to fix my rod tonight.$0#$b#Heh...Can you help me out?$14",
 "Hakan.fun_leave": "Hey I'm gonna go out fishing today. I hope I get some good catches.$1",
 
 "Hakan.OneKid_1": "%kid1 is so cute... I wanna spoil them.$4",
 "Hakan.OneKid_2": "I can't believe our family is expanding. I never thought I'd have my own child.$4",
-"Hakan.OneKid_3": "%kid1 sure is stubborn. I have to show a lot of restraint dealing with them.#$4#$b#I wonder who they get it from.$11",
+"Hakan.OneKid_3": "%kid1 sure is stubborn. I have to show a lot of restraint dealing with them.$4#$b#I wonder who they get it from.$11",
 "Hakan.OneKid_4": "Do you think I should start training %kid1 in the art of the sword? So they can defend themselves?$6",
 
 "Hakan.TwoKids_1": "I love our children, lets make sure they grow up to be great people. Just as great as you.$1",
@@ -304,13 +306,13 @@
 "Hakan.married.spring.14": "I can't wait to go to the desert festival, the skull caverns are so interesting!$1#$e#...We should explore them together.$4",
 "Hakan.married.spring.23": "Ah the flower dance is tomorrow... I don't care much for dancing but I'd like to see you dance...$4",
 "Hakan.married.summer.10": "So the Luau...what are you going to bring for it? #$b#Me? I'm gonna bring some fish I caught earlier!$1",
-"Hakan.married.summer.19": "Heh, tomorrow is the trout derby. Are you going to be competing in it? Better not see you lackin'. #$1#$b#If you lose, dont feel too bad, them fish love to get hooked by me. Heh.$7#$e#*looks at you suggestively*$14#$b#You are my biggest catch.$18",
+"Hakan.married.summer.19": "Heh, tomorrow is the trout derby. Are you going to be competing in it? Better not see you lackin'. $1#$b#If you lose, dont feel too bad, them fish love to get hooked by me. Heh.$7#$e#*looks at you suggestively*$14#$b#You are my biggest catch.$18",
 "Hakan.married.summer.27": "Hey @! Are you gonna see the Jellyfish tomorrow?$1#$b#I'd like to watch them with you...$4",
 "Hakan.married.fall.15": "Hehehe...I'm gonna make Gus go out of business tomorrow...$14",
 "Hakan.married.fall.26": "Gotta go capture some monsters today...special request from Marlon.$0",
 "Hakan.married.winter.07": "Hey @, are you participating in the fishing tourney tomorrow? $1&b#Heh, I'll gladly give you second place.$7",
-"Hakan.married.winter.11": "Tomorrow we will see a bunch of squid migrating in mass numbers... Gonna stock up.#$1#$b#...and sell them cause I'm allergic.$5",
-"Hakan.married.winter.14": "Maybe the night market will have some useful items for me...$1#$b#Or for us...heheheh...$14",
+"Hakan.married.winter.11": "Tomorrow we will see a bunch of squid migrating in mass numbers... Gonna stock up.$1#$b#...and sell them cause I'm allergic.$5",
+"Hakan.married.winter.14": "Maybe the night market will have some useful items for me...$1$b#Or for us...heheheh...$14",
 "Hakan.married.winter.24": "I'm glad the town gets together for spirits eve. It feels great being part of such a loving community.$4",
 "Hakan.married.winter.28": "A new year starts tomorrow. Are you ready @?$1#$e#I'm ready to tackle this new year together.$18",
 
@@ -333,7 +335,7 @@
 "Hakan.Dyn.04": "I'm exhausted from doing quests. Want to cuddle tonight?$0#$e#*yawn*...please...$4",
 //Spring Fri
 "Hakan.Dyn.05": "Hey I'm gonna go out fishing today in the woods. I hope I get some good catches.$1",
-"Hakan.Dyn.06": "I think I had a huge fish on the line today, but it broke my rod. I think I'm gonna need to fix my rod tonight.#$0#$b#Heh...Can you help me out?$14",
+"Hakan.Dyn.06": "I think I had a huge fish on the line today, but it broke my rod. I think I'm gonna need to fix my rod tonight.$0#$b#Heh...Can you help me out?$14",
 //Desert Festival 1
 "Hakan.Dyn.07": "Hey, @, ready for the desert festival?$1",
 "Hakan.Dyn.08": "I had to fight a mummy today...It crawled out of the skull cavern.$6#$e#It took forever though...I had to wait for Marlon to bomb it.$8#$e#My arm is a bit tired...help me out...$4",
@@ -362,7 +364,7 @@
 "Hakan.Dyn.23": "Trout Derby is today! Gonna make those rainbow trouts adore me. You have no chance. $7",
 "Hakan.Dyn.24": "You know, you remind me of a rainbow trout, maybe I should start calling you my little trout?$7#$b#You know... because rainbows...$4",
 //Trout Derby Day before...
-"Hakan.Dyn.25": "Heh, tomorrow is the trout derby. Are you going to be competing in it? Better not see you lackin'. #$1#$b#If you lose, dont feel too bad, them fish love to get hooked by me. Heh.$7#$e#*looks at you suggestively*$14#$b#You are my biggest catch.$18#$e#Anyways...I'll be going to the beach as usual today. Love ya.$7",
+"Hakan.Dyn.25": "Heh, tomorrow is the trout derby. Are you going to be competing in it? Better not see you lackin'. $1#$b#If you lose, dont feel too bad, them fish love to get hooked by me. Heh.$7#$e#*looks at you suggestively*$14#$b#You are my biggest catch.$18#$e#Anyways...I'll be going to the beach as usual today. Love ya.$7",
 "Hakan.Dyn.26": "Fishy fish fish...$7#e$#W-wah! I uh...sorry I'm just excited for tomorrow.$9",
 //Trout Derby Day 2
 "Hakan.Dyn.27": "I may be a little behind, but those rainbow trouts, I just know I'll be catching a ton of them on my rod today.$7",
@@ -399,7 +401,7 @@
 
 "Hakan.resort_bar": "Ah, these tropical drinks are delicious, wanna try some?$1",
 "Hakan.resort_entering": "Hopefully the tiger slimes stay away... I'd like to just relax.$6",
-"Hakan.resort_leaving": "Phew, those tiger slimes are strong! I had to swing my sword several times to subdue them.#$0#$e#I don't think I'll be swinging my sword anymore tonight.$8",
+"Hakan.resort_leaving": "Phew, those tiger slimes are strong! I had to swing my sword several times to subdue them.$0#$e#I don't think I'll be swinging my sword anymore tonight.$8",
 "Hakan.resort_shore": "...I wonder if there's any rare tropical fish here...$18",
 "Hakan.resort_wander": "No tiger slimes yet... I'm glad they are staying away from the beach.$1",
 "Hakan.resort_towel": "Ah, the sun feels so nice on my fur. Come here, you should sunbathe with me.$7",
@@ -418,7 +420,7 @@
 "Hakan.Wed.Spring": "Have you've gone to the adventurers guild yet? I can smell the dust of the mines on you.$0",
 "Hakan.Thurs.Spring": "I've been slaying slimes since I was a teenager. Marlon taught me the way of the sword when I was younger.$0",
 "Hakan.Fri.Spring": "How have things been on the farm? No monsters have been spawning there I hope.$0",
-"Hakan.Sat.Spring": "I wonder how my friend Lance is doing. We used to go on a lot of quests together.#$1#$b#But at some point, we both got good enough to do jobs solo.$7",
+"Hakan.Sat.Spring": "I wonder how my friend Lance is doing. We used to go on a lot of quests together.$1#$b#But at some point, we both got good enough to do jobs solo.$7",
 "Hakan.Sun.Spring": "I do admit, the trees are beautiful during the spring.$0",
 
 //Summer
@@ -448,7 +450,7 @@
 "Hakan.Wed.Winter": "I used to make snowmen with my parents during the winter...$2",
 "Hakan.Thurs.Winter": "It's crazy to me how the train drops a bunch of supplies when it's passing through the valley. Why don't they put a cover on the containers?#$b#Well, at least it's free stuff for me.$0",
 "Hakan.Fri.Winter": "I wonder if Willy will go ice fishing with me later...$0",
-"Hakan.Sat.Winter": "Hey @, cold day today huh? Do you want to borrow my jacket? $bI don't really need it.$0",
+"Hakan.Sat.Winter": "Hey @, cold day today huh? Do you want to borrow my jacket? #$b#I don't really need it.$0",
 "Hakan.Sun.Winter": "...#$b#*Hakan's mouth is frozen shut*#$e#What? It's cold outside...",
 
 // Specific Days
@@ -463,12 +465,12 @@
 "Hakan.Spring.23": "Ah the flower dance is tomorrow... I don't care much for dancing but I love the seasonal food that Marnie and Gus cook up for it.$1",
 "Hakan.Summer.10": "So the Luau...what are you going to bring for it? #$b#Me? I'm gonna bring some fish I caught earlier!$1",
 "Hakan.Summer.27": "Hey @! Are you gonna see the Jellyfish tomorrow?$1",
-"Hakan.Summer.19": "Heh, tomorrow is the trout derby. Are you going to be competing in it? Better not see you lackin'. #$1#$b#If you lose, dont feel too bad, them fish love to get hooked by me. Heh.$7",
+"Hakan.Summer.19": "Heh, tomorrow is the trout derby. Are you going to be competing in it? Better not see you lackin'. $1#$b#If you lose, dont feel too bad, them fish love to get hooked by me. Heh.$7",
 "Hakan.Fall.8": "Did you see the plants producing blackberries? I'm not too much of a fan of them but they are a good source of energy.$0",
 "Hakan.Fall.15": "Hehehe...I'm gonna make Gus go out of business tomorrow...$14",
 "Hakan.Fall.26": "Gotta go capture some monsters today...special request from Marlon.$0",
 "Hakan.Winter.07": "Hey @, are you participating in the fishing tourney tomorrow? #$1#&b#Heh, I'll gladly give you second place.$7",
-"Hakan.Winter.11": "Tomorrow we will see a bunch of squid migrating in mass numbers... Gonna stock up.#$1#$b#...and sell them cause I'm allergic.$5",
+"Hakan.Winter.11": "Tomorrow we will see a bunch of squid migrating in mass numbers... Gonna stock up.$1#$b#...and sell them cause I'm allergic.$5",
 "Hakan.Winter.14": "Maybe the night market will have some useful items for me...$1",
 "Hakan.Winter.24": "I'm glad the town gets together for spirits eve. It prevents me from feeling lonely.$4",
 "Hakan.Spring.14YR2": "Ooo I can't wait to go to the desert tomorrow. I love collecting the free cacti.$1",
@@ -489,13 +491,13 @@
 "Hakan.WizardTower": "Sorry...can't talk...studying arcane magics...$0",
 "Hakan.Patrol_01": "Hey, @! Stay safe out there.$1",
 "Hakan.Patrol_02": "I heard rustling in the bushes...so I checked it out.#$13#&b#It was just Marnie and Lewis...#&b#*shudders*...Freaks.$5",
-"Hakan.AerobicsClass": "Come on girls, get those legs movin!'#$19#$b#Oh, hello @...are you here to exercise too?$21",
+"Hakan.AerobicsClass": "Come on girls, get those legs movin!'$19#$b#Oh, hello @...are you here to exercise too?$21",
 "Hakan.ForestFishing": "Hey @...Let me focus I'm trying to catch so woodskips.$0",
 "Hakan.ForestLaze": "Ahhh...$22",
 "Hakan.BeachLaze": "%Hakan is relaxing in the sand",
 "Hakan.BathWorkout": "@! Unf... I wish I could talk but I'm in the zone right now.$19",
 "Hakan.BathLaze": "Ahhh...That hits the spot...*grunts*$22",
-"Hakan.SleepingJob": "*snore*#$12#$b#G-Guh?! Oh hey, its you.$4",
+"Hakan.SleepingJob": "*snore*$12#$b#G-Guh?! Oh hey, its you.$4",
 "Hakan.Cart": "Did'ja get anything cool from Suki today? She always seems to bring in interesting stuff.$1",
 "Hakan.TroutDerby": "Come on lil' rainbow trout... bite bite bite...$10#$b#Oh...why am I soaking wet? Well uh...I got pulled in...$10",
 "Hakan.SquidDerby":"Gah, I keep getting treasure chests instead of squids... I need squids dammit!$3",
@@ -554,8 +556,55 @@
 
 "Strings.Foothills": "Foothills",
 "Strings.FunnySilo.": "'Fish n Slime'...An awful stench eminates from inside",
-"Strings.FoothillsPathway": "Foothills Path"
+"Strings.FoothillsPathway": "Foothills Path",
 
 //Events
+
+//Intro Events
+"Hakan.intro_pt1_01":"Hello there farmer. As you might’ve noticed. Monsters seem to be more present in the valley...so I’ve been taking some new measures.",
+"Hakan.intro_pt1_02":"You should be seeing a new face soon. He’s one of my top adventurers, Hakan.", 
+"Hakan.intro_pt1_02.4":"He used to be a resident of the valley before going off for training.",
+"Hakan.intro_pt1_02.5":"I basically raised that kid...hah...$2",
+"Hakan.intro_pt1_03":"He might be a little shy and intimidating at first, but he’s a good guy...",
+"Hakan.intro_pt1_04":"Well, see you around, @.",
+
+"Hakan.intro_pt2_01":"Hm...I wonder if there’s any jobs worth doing here in the valley...$0",
+"Hakan.intro_pt2_02":"Hmph... Just as boring as before...$0#$b#Nothing ever happens in this town...$0#$b#Oh well...*sigh*$8",
+"Hakan.intro_pt2_03": "Oh uh...sorry...uhm...ah you must be the farmer!$15",
+"Hakan.intro_pt2_04": "...$4",
+"Hakan.intro_pt2_05": "See you around??$13",
+"Hakan.intro_pt2_06": "Out of the way...please.$6",
+"Hakan.intro_pt2_07": "Ah...that kid. Don't mind him, he can be a bit awkward at first.",
+"Hakan.intro_pt2_08": "He'll warm up to ya eventually.",
+"Hakan.intro_pt2_09": "Erm... So you are part of the guild too? That's cool.$4",
+
+//Heart Event 2
+
+"Hakan.heartevent2_01": "Oh, hello @. Surprised to see me here instead of patrolling around for monsters?$1",
+"Hakan.heartevent2_02":"...Tcheh...$7",
+"Hakan.heartevent2_03":"Well. I'm more than just that. It may not look like it, but I love the sea, despite the dangers the waves may bring.$18",
+"Hakan.heartevent2_04":"I like to come here to collect natural materials like shells or driftwood.$1",
+"Hakan.heartevent2_05":"You see, I have a collection of this stuff at home. I hope to use some of the materials in my aquascapes.",
+"Hakan.heartevent2_06":"So I can be a little bit closer to the sea.$7",
+"Hakan.heartevent2_07":"What do you think of the sea?",
+//Answers
+"Hakan.heartevent2_08":"My eyes get lost in those waves...",
+"Hakan.heartevent2_09":"Eh, its just a big pool of water.",
+"Hakan.heartevent2_10":"The ocean is kind of lame.",
+//Responses
+"Hakan.heartevent2_11":"Right?$7",
+"Hakan.heartevent2_12":"Heh, I suppose it is.$15",
+"Hakan.heartevent2_13":"Huff, why are you even here then?$3",
+//Event Cont.
+"Hakan.heartevent2_14":"Well, it was nice running into you here...$1",
+"Hakan.heartevent2_15":"And thank you for repairing the bridge. I won't be getting my fur wet thanks to you. $6#$b#Here, I want you to have this rainbow shell as a token of my appreciation...[394]$7",
+"Hakan.heartevent2_16":"Heh, lets hang out for a bit. I don't bite.$7",
+"Hakan.heartevent2_16.5":"You and Hakan watch the waves for a bit",
+"Hakan.heartevent2_17":"...",
+"Hakan.heartevent2_18":"Oh no.$5",
+"Hakan.heartevent2_19":"I forgot that I was supposed to be meeting with Marlon soon!$13",
+"Hakan.heartevent2_20":"Sorry @, this is where I must make my exit. Thanks for talking!$0",
+"Hakan.heartevent2_21":"Later!$18",
+"Hakan.heartevent2_22":"Ah, thanks for hanging out with me. It feels great to have a friend.$4",
 
 } 

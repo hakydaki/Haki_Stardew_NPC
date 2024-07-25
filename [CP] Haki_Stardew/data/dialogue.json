@@ -1,4 +1,3 @@
-//Haki Basic Dialogues
 {
     "Changes": [
       {
@@ -71,7 +70,6 @@
             "pamHouseUpgradeAnonymous":"{{i18n:Hakan.pamHouseUpgradeAnonymous}}",
             "cc_Complete":"{{i18n:Hakan.cc_Complete}}",
             "dumped_Guys":"{{i18n:Hakan.cc_dumped_boys}}",
-            "movieTheater":"{{Hakan.movietheatercreated}}",
 
         //Movie Tickets Rejects
 

@@ -8,7 +8,7 @@
 				"HasSeenEvent": "191393"
 			},
 			"Entries": {
-				"FlashShifter.StardewValleyExpandedCP_CommunityDay": "700 Custom_foothills 32 10 2/1100 CommunityCenter 7 7 2/1400 CommunityCenter 42 10 0/1600 CommunityCenter 37 13 3/1730 CommunityCenter 55 13 2/1830 Custom_haki_cabin 6 11/2300 Custom_haki_cabin 18 5 3",
+				"FlashShifter.StardewValleyExpandedCP_CommunityDay": "700 Custom_foothills 32 10 2/1030 CommunityCenter 46 13 0 \"Strings\\schedules\\Hakan:CommunityDay_Hakan\"/1430 CommunityCenter 42 10 0 \"Strings\\schedules\\Hakan:CommunityDay_Hakan\" /1600 CommunityCenter 55 13 2 \"Strings\\schedules\\Hakan:CommunityDay_Hakan\"/1830 Custom_haki_cabin 6 11/2300 Custom_haki_cabin 18 5 3",
 			},
 		},
 		{ //Spring Dialogue
@@ -19,7 +19,7 @@
 				"Season |contains=Summer, Fall, Winter": false
 			},
 			"Entries": {
-				"CommunityDay_Sam": "{{i18n:Hakan.cd_spring}}"
+				"CommunityDay_Hakan": "{{i18n:Hakan.cd_spring}}"
 			}
 		},
 		{ //Summer Dialogue
@@ -30,7 +30,7 @@
 				"Season |contains=Spring, Fall, Winter": false
 			},
 			"Entries": {
-				"CommunityDay_Sam": "{{i18n:Hakan.cd_summer}}"
+				"CommunityDay_Hakan": "{{i18n:Hakan.cd_summer}}"
 			}
 		},
 		{ //Fall Dialogue
@@ -41,7 +41,7 @@
 				"Season |contains=Spring, Summer, Winter": false
 			},
 			"Entries": {
-				"CommunityDay_Sam": "{{i18n:Hakan.cd_fall}}"
+				"CommunityDay_Hakan": "{{i18n:Hakan.cd_fall}}"
 			}
 		},
 		{ //Winter Dialogue
@@ -52,7 +52,7 @@
 				"Season |contains=Spring, Summer, Fall": false
 			},
 			"Entries": {
-				"CommunityDay_Sam": "{{i18n:Hakan.cd_winter}}"
+				"CommunityDay_Hakan": "{{i18n:Hakan.cd_winter}}"
 			}
 		},
 		{ //Haki Community Day Schedule - MARRIED
@@ -64,7 +64,7 @@
 				"Day": "22"
 			},
 			"Entries": {
-				"marriage_FlashShifter.StardewValleyExpandedCP_CommunityDay": "1030 CommunityCenter 35 13 1 \"Strings\\schedules\\Hakan:CommunityDay_Hakan_Married\"/1730 bed",
+				"marriage_FlashShifter.StardewValleyExpandedCP_CommunityDay": "/1030 CommunityCenter 46 13 0 \"Strings\\schedules\\Hakan:CommunityDay_Hakan_Married\"/1430 CommunityCenter 42 10 0 \"Strings\\schedules\\Hakan:CommunityDay_Hakan_Married\" /1600 CommunityCenter 55 13 2 \"Strings\\schedules\\Hakan:CommunityDay_Hakan_Married\"/1730 bed",
 			},
 		},
 		{ //Spring Dialogue - MARRIED
@@ -75,7 +75,7 @@
 				"Season |contains=Summer, Fall, Winter": false
 			},
 			"Entries": {
-				"CommunityDay_Sam_Married": "{{i18n:Hakan.cd_married_spring}}"
+				"CommunityDay_Hakan_Married": "{{i18n:Hakan.cd_married_spring}}"
 			}
 		},
 		{ //Summer Dialogue - MARRIED
@@ -86,7 +86,7 @@
 				"Season |contains=Spring, Fall, Winter": false
 			},
 			"Entries": {
-				"CommunityDay_Sam_Married": "{{i18n:Hakan.cd_married_summer}}"
+				"CommunityDay_Hakan_Married": "{{i18n:Hakan.cd_married_summer}}"
 			}
 		},
 		{ //Fall Dialogue - MARRIED
@@ -97,7 +97,7 @@
 				"Season |contains=Spring, Summer, Winter": false
 			},
 			"Entries": {
-				"CommunityDay_Sam_Married": "{{i18n:Hakan.cd_married_fall}}"
+				"CommunityDay_Hakan_Married": "{{i18n:Hakan.cd_married_fall}}"
 			}
 		},
 		{ //Winter Dialogue - MARRIED
@@ -108,7 +108,7 @@
 				"Season |contains=Spring, Summer, Fall": false
 			},
 			"Entries": {
-				"CommunityDay_Sam_Married": "{{i18n:Hakan.cd_married_winter}}"
+				"CommunityDay_Hakan_Married": "{{i18n:Hakan.cd_married_winter}}"
 			}
 		}
     ]

@@ -1,0 +1,14 @@
+{
+"Changes": [
+
+    {
+        "LogName": "Hakan Strings",
+        "Action": "EditData",
+        "Target": "Strings/schedules/Hakan",
+        "Entries": {
+            "CommunityDay": "{{i18n:Hakan.cd_spring}}",
+            "CommunityDayMarried": "{{i18n:Hakan.cd_married_spring}}",
+        }
+    }
+]
+}

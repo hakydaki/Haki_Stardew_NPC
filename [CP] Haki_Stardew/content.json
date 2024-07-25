@@ -201,11 +201,11 @@
             "Target": "Characters/schedules/Hakan",
             "FromFile": "data/schedule.json"
         },
-        //Blank JSON loads
+        //Blank JSON loads Dialogue...
         {
-            "Logname":"Haki_Dialogue_BLANK",
+            "Logname":"Haki_BLANK_Loads",
             "Action": "Load",
-            "Target": "Characters/Dialogue/Hakan",
+            "Target": "Characters/Dialogue/Hakan, Characters/Dialogue/MarriageDialogueHakan, Strings/schedules/Hakan",
             "FromFile": "data/blank.json"
         },
         //Actual Dialogues
@@ -214,11 +214,41 @@
             "Action": "Include",
             "FromFile":"data/dialogue.json"
         },
+        //Marriage Dialogues
+        {
+            "Logname":"Haki_Marriage_Dialogue",
+            "Action": "Include",
+            "FromFile":"data/marriagedialogue.json"
+        },
+        //Strings Dialogues
+        {
+            "Logname":"Haki_Strings_Dialogue",
+            "Action": "Include",
+            "FromFile":"data/schedulestrings.json"
+        }, 
         //Festival Data
         {
             "Logname":"Haki_FestivalData",
             "Action": "Include",
             "FromFile":"data/festivals.json"
+        },
+        //SVE Community Day
+        {
+            "Logname":"Haki_SVE_CommunityDAY",
+            "Action": "Include",
+            "FromFile":"data/svecommunityday.json"
+        },
+        //Event Data
+        {
+            "Logname":"Haki_Events",
+            "Action": "Include",
+            "FromFile":"data/events.json"
+        },
+        //Movie Theatre Data
+        {
+            "Logname":"Haki_MovieTheatre",
+            "Action": "Include",
+            "FromFile":"data/concessiontastes.json"
         },
         //Gift Taste Data
         {  
