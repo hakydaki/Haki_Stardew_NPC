@@ -1,7 +1,7 @@
 Hello there, this is a mod that adds my OC, Hakan into Stardew Valley. It is currently being tested but should mostly be feature complete now.
 So far this mod features about 700 lines of dialogue, a small extension to the map, and of course my NPC.
 
-!!WARNING: This mod was designed with the intent of having Stardew Valley Expanded installed (https://www.nexusmods.com/stardewvalley/mods/3753)
+!!WARNING: This mod was designed with the intent of having Stardew Valley Expanded installed:https://www.nexusmods.com/stardewvalley/mods/3753
 Schedules may break if the SVE isn't installed. (Actually, the mod shouldn't even run?)
 
 Credits:
