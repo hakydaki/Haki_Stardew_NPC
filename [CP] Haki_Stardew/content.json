@@ -238,6 +238,13 @@
             "Action": "Include",
             "FromFile":"data/svecommunityday.json"
         },
+        //Load blank events data
+        {
+            "Logname":"Blank_Load_Events",
+            "Action":"Load",
+            "Target":"Data/Events/Custom_haki_cabin",
+            "FromFile":"data/blank.json"
+        },
         //Event Data
         {
             "Logname":"Haki_Events",

@@ -2,3 +2,10 @@ Version 1.0 -
 
 - Set up the initial NPC
 - Added portraits & sprites
+- 5 Heart Events, 2 misc events.
+- Movie Tastes
+- "Foothills" Map to the left of the railroad
+- Spouse patio and room
+- Hakan's Cabin
+- Gift tastes, schedule, all the basic things needed for a fleshed out NPC.
+

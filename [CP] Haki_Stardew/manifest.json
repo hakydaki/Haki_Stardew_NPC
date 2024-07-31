@@ -1,11 +1,17 @@
 {
     "Name": "HakanNPC",
     "Author": "hakydaki",
-    "Version": "0.1",
+    "Version": "0.9",
     "Description": "Adds a new wolfman npc named Hakan.",
     "UniqueID": "hakydaki.HakanNPC",
-    "UpdateKeys": [ "Nexus:???" ],
+    "UpdateKeys": [],
     "ContentPackFor": {
     "UniqueID": "Pathoschild.ContentPatcher"
-    }
+    },
+    "Dependencies": [
+        {
+           "UniqueID": "FlashShifter.StardewValleyExpandedCP",
+           "IsRequired": true,
+        },
+    ]
 }

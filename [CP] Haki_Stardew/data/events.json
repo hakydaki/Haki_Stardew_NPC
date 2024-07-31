@@ -10,7 +10,7 @@
           "Day":"3"
         },
         "Entries": {
-          "02661001/t 600 1800":"continue/64 15/farmer 64 16 2 MarlonFay 64 18 0/broadcastEvent/skippable/pause 1500/speak MarlonFay \"{{i18n:Hakan.intro_pt1_01}}\"/speak MarlonFay \"{{i18n:Hakan.intro_pt1_02}}\"/speak MarlonFay \"{{i18n:Hakan.intro_pt1_02.4}}\"/speak MarlonFay \"{{i18n:Hakan.intro_pt1_02.5}}\"/pause 500/ speak MarlonFay \"{{i18n:Hakan.intro_pt1_03}}\"/pause 500/emote MarlonFay 40/pause 500/speak MarlonFay \"{{i18n:Hakan.intro_pt1_04}}\"/globalFade/viewport -1000 -1000/end"
+          "02661001/t 600 1800":"continue/64 15/farmer 64 16 2 MarlonFay 64 18 0/broadcastEvent/skippable/pause 1500/speak MarlonFay \"{{i18n:Hakan.intro_pt1_01}}\"/pause 500/ speak MarlonFay \"{{i18n:Hakan.intro_pt1_03}}\"/pause 500/emote MarlonFay 40/pause 500/speak MarlonFay \"{{i18n:Hakan.intro_pt1_04}}\"/globalFade/viewport -1000 -1000/pause 2000/end"
         },
     },
     {
@@ -20,11 +20,13 @@
         "HasSeenEvent": "02661001"
       },
       "Entries": {
-        "02661002/j 31":"MarlonsTheme/-500 -500/farmer 6 17 0 Hakan 8 11 0 MarlonFay 4 11 2/pause 500/skippable/fade/viewport 6 15/emote Hakan 40/speak Hakan \"{{i18n:Hakan.intro_pt2_01}}\"/emote Hakan 12/speak Hakan \"{{i18n:Hakan.intro_pt2_02}}\"/pause 250/move Hakan 0 3 2/move Hakan -2 0 2/move Hakan 0 2 2/emote Hakan 40/pause 1000/speak Hakan \"{{i18n:Hakan.intro_pt2_03}}\"/pause 1000/speak Hakan \"{{i18n:Hakan.intro_pt2_04}}\"/speak Hakan \"{{i18n:Hakan.intro_pt2_05}}\"/emote Hakan 40/pause 1000/speak Hakan \"{{i18n:Hakan.intro_pt2_06}}\"/move farmer -1 0 1/pause 250/move Hakan 0 3 2/move farmer 0 0 2/pause 1000/warp Hakan 300 300/playSound doorClose/move farmer 0 0 0/speak MarlonFay \"{{i18n:Hakan.intro_pt2_07}}\"/speak MarlonFay \"{{i18n:Hakan.intro_pt2_08}}\"/globalFade/viewport -1000 -1000/end dialogue Hakan {{i18n:Hakan.intro_pt2_09}}\""
+        "02661002/t 1200 2400":"MarlonsTheme/-500 -500/farmer 6 17 0 Hakan 8 11 0 MarlonFay 4 11 2/pause 500/skippable/fade/viewport 6 15/emote Hakan 40/speak Hakan \"{{i18n:Hakan.intro_pt2_01}}\"/emote Hakan 12/speak Hakan \"{{i18n:Hakan.intro_pt2_02}}\"/pause 250/move Hakan 0 3 2/move Hakan -2 0 2/move Hakan 0 2 2/emote Hakan 40/pause 1000/speak Hakan \"{{i18n:Hakan.intro_pt2_03}}\"/pause 1000/speak Hakan \"{{i18n:Hakan.intro_pt2_04}}\"/emote Hakan 40/pause 1000/speak Hakan \"{{i18n:Hakan.intro_pt2_06}}\"/move farmer -1 0 1/pause 250/move Hakan 0 3 2/move farmer 0 0 2/pause 1000/warp Hakan 300 300/playSound doorClose/move farmer 0 0 0/speak MarlonFay \"{{i18n:Hakan.intro_pt2_07}}\"/fade/pause 2000/end dialogue Hakan \"{{i18n:Hakan.intro_pt2_09}}\""
       }
     },
 
 // Heart Events
+
+    //HEART EVENT 2
     {
       "Action": "EditData",
       "Target": "Data/Events/Beach",
@@ -32,9 +34,80 @@
         "HasFlag": "beachBridgeFixed"
       },
       "Entries": {
-        "02661003/f Hakan 500/w sunny/t 1400 1800/z Spring Fall Winter/":"Music/-500 -500/farmer 66 9 1 Hakan 74 9 1/pause 500/skippable/fade/viewport 74 14/move farmer 2 0 1/move Hakan 3 0 1/pause 1000/move Hakan -3 0 3/emote Hakan 16/pause 1000/speak Hakan \"{{i18n:Hakan.heartevent2_01}}\"/pause 500/move Hakan 0 0 1/pause 500/speak Hakan \"{{i18n:Hakan.heartevent2_02}}\"/speak Hakan \"{{i18n:Hakan.heartevent2_03}}\"/pause 500/move Hakan 0 0 3/pause 500/speak Hakan \"{{i18n:Hakan.heartevent2_04}}\"/speak Hakan \"{{i18n:Hakan.heartevent2_05}}\"/pause 500/move Hakan 0 0 2/pause 500/speak Hakan \"{{i18n:Hakan.heartevent2_06}}\"/pause 500/move Hakan -3 0 3/pause 500/quickQuestion {{i18n:Hakan.heartevent2_07}}#{{i18n:Hakan.heartevent2_08}}#{{i18n:Hakan.heartevent2_09}}#{{i18n:Hakan.heartevent2_10}}(break)friendship Hakan 50\\speak Hakan \"{{i18n:Hakan.heartevent2_11}}\"\\pause 100(break)speak Hakan \"{{i18n:Hakan.heartevent2_12}}\"\\pause 100(break)friendship Hakan -50\\speak Hakan \"{{i18n:Hakan.heartevent2_13}}\"\\pause 100\/speak Hakan \"{{i18n:Hakan.heartevent2_14}}\"/speak Hakan \"{{i18n:Hakan.heartevent2_15}}\"/speak Hakan \"{{i18n:Hakan.heartevent2_16}}\"/pause 1000/move farmer 0 0 2/move Hakan 0 0 2/pause 1000/emote farmer 32/pause 500/emote Hakan 32/message \"{{i18n:Hakan.heartevent2_16.5}}\"/speak Hakan \"{{i18n:Hakan.heartevent2_17}}\"/jump Hakan/pause 250/emote 28/pause 500/speak Hakan \"{{i18n:Hakan.heartevent2_18}}\"/speak Hakan \"{{i18n:Hakan.heartevent2_19}}\"/move Hakan 0 0 1/emote 12/pause 500/speak Hakan \"{{i18n:Hakan.heartevent2_20}}\"/move Hakan 0 3 2/pause 500/speak Hakan \"{{i18n:Hakan.heartevent2_21}}\"/move Hakan -5 0 3/globalFade/viewport -1000 -1000/end dialogue Hakan {{i18n:Hakan.intro_pt2_22}}\""
+        "02661003/f Hakan 500/w sunny/t 1400 1800/z Spring Fall Winter/":"ocean/-500 -500/farmer 66 9 1 Hakan 74 9 1/pause 500/skippable/fade/viewport 71 10/move farmer 2 0 1/move Hakan 3 0 1/pause 1000/move Hakan -3 0 3/emote Hakan 16/pause 1000/speak Hakan \"{{i18n:Hakan.heartevent2_01}}\"/pause 500/move Hakan 0 0 1/pause 500/speak Hakan \"{{i18n:Hakan.heartevent2_02}}\"/pause 500/move Hakan 0 0 3/pause 500/speak Hakan \"{{i18n:Hakan.heartevent2_04}}\"/pause 500/move Hakan 0 0 2/pause 500/speak Hakan \"{{i18n:Hakan.heartevent2_06}}\"/pause 500/move Hakan -3 0 3/pause 500/quickQuestion {{i18n:Hakan.heartevent2_07}}#{{i18n:Hakan.heartevent2_08}}#{{i18n:Hakan.heartevent2_09}}#{{i18n:Hakan.heartevent2_10}}(break)friendship Hakan 50\\speak Hakan \"{{i18n:Hakan.heartevent2_11}}\"\\pause 100(break)speak Hakan \"{{i18n:Hakan.heartevent2_12}}\"\\pause 100(break)friendship Hakan -50\\speak Hakan \"{{i18n:Hakan.heartevent2_13}}\"\\pause 100\/speak Hakan \"{{i18n:Hakan.heartevent2_14}}\"/pause 1000/move farmer 0 0 2/move Hakan 0 0 2/pause 1000/emote farmer 32/pause 500/emote Hakan 32/message \"{{i18n:Hakan.heartevent2_16.5}}\"/speak Hakan \"{{i18n:Hakan.heartevent2_17}}\"/jump Hakan/pause 250/emote Hakan 28/pause 500/speak Hakan \"{{i18n:Hakan.heartevent2_18}}\"/move Hakan 0 0 1/emote Hakan 12/pause 500/speak Hakan \"{{i18n:Hakan.heartevent2_20}}\"/move Hakan -1 0 3/move Hakan 0 4 2/pause 500/speak Hakan \"{{i18n:Hakan.heartevent2_21}}\"/move Hakan -6 0 3 true/pause 1000/end dialogue Hakan \"{{i18n:Hakan.heartevent2_22}}\""
       }
     },
+    
+    //HEART EVENT 4
 
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/Town",
+      "When": {
+      },
+    "Entries": {
+      "02661004/f Hakan 1000/w rainy/t 2000 2400/":"continue/-500 -500/farmer 42 33 1 Hakan 48 33 2 Gus -100 -100 2 Pam -100 -100 0 Emily -100 -100 0 Willy -100 -100 2 Clint -100 -100 3 Leah -100 -100 1/pause 500/skippable/fade/viewport 47 33/move farmer 4 0 1/pause 300/move Hakan 0 0 3/emote Hakan 16/pause 500/speak Hakan \"{{i18n:Hakan.heartevent4_01}}\"/move Hakan 0 0 2/pause 500/ move farmer 0 0 2/quickQuestion {{i18n:Hakan.heartevent4_01.5}}#{{i18n:Hakan.heartevent4_02}}#{{i18n:Hakan.heartevent4_03}}(break)speak Hakan \"{{i18n:Hakan.heartevent4_04}}\"\\pause 100(break)speak Hakan \"{{i18n:Hakan.heartevent4_05}}\"\\pause 100\/speak Hakan \"{{i18n:Hakan.heartevent4_06}}\"/emote Hakan 28/pause 1000/speak Hakan \"{{i18n:Hakan.heartevent4_07}}\"/emote farmer 32/move Hakan 0 4 2 true/pause 500/move farmer 0 4 2 true/pause 500/fade/pause 2000/viewport -1000 -1000/changeLocation Saloon/playMusic Saloon1/faceDirection farmer 0/faceDirection Hakan 0/warp farmer 16 20/warp Hakan 17 20/warp Gus 14 18/warp Pam 10 20/warp Emily 18 17/warp Willy 17 22/warp Clint 19 23/warp Leah 2 20/pause 250/fade unfade/viewport 17 20/pause 250/emote Hakan 32/pause 500/speak Hakan \"{{i18n:Hakan.heartevent4_08}}\"/emote farmer 32/pause 500//speak Hakan \"{{i18n:Hakan.heartevent4_09}}\"/globalFade/viewport 500 500/pause 2000/end position 45 72 dialogue Hakan \"{{i18n:Hakan.heartevent2_10}}\""
+    }
+  },
+
+  //Heart Event 6
+
+  {
+    "Action": "EditData",
+    "Target": "Data/Events/Woods",
+    "When": {
+    },
+  "Entries": {
+    "02661005/f Hakan 1500/t 900 1800/z Winter/":"woodsTheme/-500 -500/farmer 58 45 2 Hakan 54 49 3/changeSprite Hakan Beach/ChangePortrait Hakan Beach/pause 500/skippable/fade/viewport 54 49/move farmer 0 3 3/emote farmer 16/pause 250/faceDirection Hakan 1/emote Hakan 16/speak Hakan \"{{i18n:Hakan.heartevent6_1}}\"/pause 500/move farmer 0 1 2/move farmer -2 0 3/speak Hakan \"{{i18n:Hakan.heartevent6_2}}\"/faceDirection Hakan 1/faceDirection Hakan 3/playSound waterSlosh/jump farmer 3/faceDirection Hakan 1/faceDirection Hakan 3/faceDirection Hakan 1/faceDirection Hakan 3/pause 250/emote Hakan 60/pause 250/faceDirection Hakan 1/speak Hakan \"{{i18n:Hakan.heartevent6_3}}\"/emote Hakan 40/pause 500/faceDirection Hakan 2/pause 250/speak Hakan \"{{i18n:Hakan.heartevent6_4}}\"/emote farmer 60/faceDirection Hakan 1/pause 500/speak Hakan \"{{i18n:Hakan.heartevent6_5}}\"/emote Hakan 40/pause 500/speak Hakan \"{{i18n:Hakan.heartevent6_6}}\"/faceDirection Hakan 2/animate Hakan false false 200 26 27 28//animate Hakan false true 200 17 17/pause 250/speak Hakan \"{{i18n:Hakan.heartevent6_7}}\"/emote farmer 32/pause 500/fade/viewport -1000 -1000/pause 2000/message \"{{i18n:Hakan.heartevent6_8}}\"/end dialogue Hakan \"{{i18n:Hakan.heartevent2_9}}\"/"
+  }
+},
+
+//Heart Event 8
+{
+  "Action": "EditData",
+  "Target": "Data/Events/Custom_BlueMoonVineyard",
+  "When": {
+  },
+"Entries": {
+  "02661006/f Hakan 2000/t 1200 1800/":"ocean/-500 -500/farmer 32 50 3 Hakan 25 55 2/pause 500/skippable/fade/viewport 24 54/move farmer -5 0 3/move farmer 0 0 2/pause 250/emote farmer 8/pause 500/move farmer 0 5 3/pause 250/emote Hakan 16/move Hakan 0 0 1/pause 500/speak Hakan \"{{i18n:Hakan.heartevent8_1}}\"/move Hakan 0 0 3/emote Hakan 60/pause 500/speak Hakan \"{{i18n:Hakan.heartevent8_2}}\"/message \"{{i18n:Hakan.heartevent8_3}}\"/move farmer 0 1 2/move farmer -3 0 3/move farmer 0 -1 0/move farmer 0 0 2/pause 500/emote farmer 60/pause 250/emote Hakan 40/pause 1000/speak Hakan \"{{i18n:Hakan.heartevent8_4}}\"/playMusic echos/emote farmer 8/pause 500/speak Hakan \"{{i18n:Hakan.heartevent8_5}}\"/pause 250/move Hakan 0 1 2/pause 250/speak Hakan \"{{i18n:Hakan.heartevent8_6}}\"/emote Hakan 28/pause 500/speak Hakan \"{{i18n:Hakan.heartevent8_7}}\"/emote farmer 60/pause 500/stopAnimation farmer/pause 250/move farmer 0 1 2/pause 250/speak Hakan \"{{i18n:Hakan.heartevent8_8}}\"/emote Hakan 40/pause 1000/emote farmer 60/pause 1000/move Hakan 0 0 3/pause 500/move farmer 0 0 1/speak Hakan \"{{i18n:Hakan.heartevent8_9}}\"/emote farmer 32/pause 500/emote Hakan 60/pause 1000/speak Hakan \"{{i18n:Hakan.heartevent8_10}}\"/move Hakan 0 0 2/move farmer 0 0 2/viewport 24 65 3000/pause 3000/fade/viewport -1000 -1000/message \"{{i18n:Hakan.heartevent8_11}}\"/end dialogue Hakan \"{{i18n:Hakan.heartevent8_12}}\"/"
+}
+},
+//Heart Event 9 
+{
+  "Action": "EditData",
+  "Target": "Data/Events/SeedShop",
+  "When": {
+    "HasSeenEvent": "16"
+  },
+"Entries": {
+  "02661007/f Hakan 2250/t 900 1800/":"distantBanjo/-500 -500/farmer 31 13 0 Caroline 36 5 3 Hakan 34 5 1 Pierre 26 14 0/skippable/fade/viewport 35 6/pause 1000/speak Hakan \"{{i18n:Hakan.heartevent9_1}}\"/speak Caroline \"{{i18n:Hakan.heartevent9_2}}\"/move farmer 0 -4 0/move farmer 4 0 0/faceDirection Hakan 2/emote Hakan 16/pause 500/faceDirection Caroline 2/speak Hakan \"{{i18n:Hakan.heartevent9_3}}\"/speak Caroline \"{{i18n:Hakan.heartevent9_4}}\"/emote farmer 32/move Pierre 4 0 1/move Pierre 0 -1 0/move Pierre 1 0 0/move Pierre 0 -4 0/move Pierre 2 0 0/faceDirection farmer 3/emote Hakan 16/emote Caroline 16/emote Pierre 12/pause 500/speak Pierre \"{{i18n:Hakan.heartevent9_5}}\"/speak Hakan \"{{i18n:Hakan.heartevent9_7}}\"/speak Caroline \"{{i18n:Hakan.heartevent9_6}}\"/speak Pierre \"{{i18n:Hakan.heartevent9_8}}\"/speak Caroline \"{{i18n:Hakan.heartevent9_9}}\"/speak Pierre \"{{i18n:Hakan.heartevent9_10}}\"/jump Caroline/speak Caroline \"{{i18n:Hakan.heartevent9_11}}\"/jump Pierre/speak Pierre \"{{i18n:Hakan.heartevent9_12}}\"/jump Caroline/textAboveHead Caroline \"{{i18n:Hakan.heartevent9_13}}\"/pause 500/speak Hakan \"{{i18n:Hakan.heartevent9_14}}\"/message \"{{i18n:Hakan.heartevent9_15}}\"/quickQuestion \"{{i18n:Hakan.heartevent9_16}}\"(break)switchEvent 02661007_normal(break)switchEvent 02661007_diabolical(break)switchEvent 02661007_dating",
+
+  "02661007_normal":"pause 500/faceDirection Pierre 1/emote Pierre 28/pause 500/speak Pierre \"{{i18n:Hakan.heartevent9_17}}\"/jump Caroline/speak Caroline \"{{i18n:Hakan.heartevent9_18}}\"/faceDirection Pierre 2/emote Pierre 28/pause 500/speak Pierre \"{{i18n:Hakan.heartevent9_19}}\"/faceDirection farmer 0/emote farmer 60/pause 50/emote Hakan 60/pause 100/emote Caroline 12/pause 1000/friendship Hakan 50/friendship Caroline 50/fade/viewport 500 500/message \"{{i18n:Hakan.heartevent9_20}}\"/end dialogue Hakan \"{{i18n:Hakan.heartevent9_21}}\"/",
+
+  "02661007_diabolical":"playMusic honkytonky/showFrame Pierre 16/jump Pierre/textAboveHead Caroline \"{{i18n:Hakan.heartevent9_23}}\"/pause 500/showFrame Pierre 0/speak Pierre \"{{i18n:Hakan.heartevent9_22}}\"/speak Caroline \"{{i18n:Hakan.heartevent9_24}}\"/textAboveHead Pierre \"{{i18n:Hakan.heartevent9_25}}\"/speed Hakan 6/speed Caroline 6/speed Pierre 6/ignoreCollisions Hakan/ignoreCollisions Caroline/ignoreCollisions Pierre/advancedMove Hakan false -2 0 3 50 0 -1 2 50/advancedMove Caroline false -4 0 2 50 0 5 2 50 -1 0 3 50 0 3 2 50 -2 0 3 50 0 10 2 50/advancedMove Pierre false -2 0 3 50 0 4 2 50 -2 0 3 50 0 10 2 50/pause 4000/playSound swordswipe/pause 100/playSound slimedead/speak Pierre \"{{i18n:Hakan.heartevent9_26}}\"/emote Hakan 40/pause 1000/speak Hakan \"{{i18n:Hakan.heartevent9_27}}\"/friendship Pierre -1500/fade/viewport 500 500/pause 1000/end dialogue Hakan \"{{i18n:Hakan.heartevent9_28}}\"/",
+
+  "02661007_dating":"playMusic playful/speak Hakan \"{{i18n:Hakan.heartevent9_29}}\"/emote Hakan 60/pause 500/speak Caroline \"{{i18n:Hakan.heartevent9_30}}\"/speak Pierre \"{{i18n:Hakan.heartevent9_31}}\"/emote farmer 12/pause 500/speak Caroline \"{{i18n:Hakan.heartevent9_32}}\"/playMusic honkytonky/jump Pierre/pause 250/speak Pierre \"{{i18n:Hakan.heartevent9_33}}\"/jump Caroline/pause 250/speak Caroline \"{{i18n:Hakan.heartevent9_34}}\"/speak Pierre \"{{i18n:Hakan.heartevent9_35}}\"/speak Caroline \"{{i18n:Hakan.heartevent9_36}}\"/speak Hakan \"{{i18n:Hakan.heartevent9_37}}\"/fade/viewport 500 500/pause 500/message \"{{i18n:Hakan.heartevent9_38}}\"/friendship Hakan 50/end dialogue Hakan\"{{i18n:Hakan.heartevent9_39}}\""
+}
+},
+{
+  "Action": "EditData",
+  "Target": "Data/Events/Railroad",
+  "When": {
+  },
+"Entries": {
+  "02661008/f Hakan 2500 /t 1800 2400/z Spring Summer Fall/":"communityCenter/-500 -500/farmer 29 54 0 Hakan -500 -500 2/addTemporaryActor SlimeActor1 16 32 27 51 2/pause 500/skippable/fade/viewport 29 50/ignoreCollisions SlimeActor1/move farmer 0 -4 0/pause 250/playSound hitEnemy/pause 250/playSound hitEnemy/emote farmer 8/pause 250/doAction 31 57/speed SlimeActor1 3/move SlimeActor1 2 0 0/jump SlimeActor1/pause 250/speak Hakan \"{{i18n:Hakan.heartevent10_1}}\"/faceDirection farmer 2/pause 100/animate farmer false true 100 94/jump farmer/startJittering/pause 250/screenFlash 1/warp Hakan 29 52/faceDirection Hakan 0/playSound wand/speak Hakan \"{{i18n:Hakan.heartevent10_2}}\"/pause 100/specificTemporarySprite swordswipe 29 51/playSound swordswipe/pause 250/playSound slimedead/warp SlimeActor1 -100 100/stopAnimation farmer/stopJittering/pause 1000/emote farmer 28/pause 500/emote Hakan 60/pause 500/faceDirection Hakan 3/pause 50/faceDirection Hakan 2/pause 500/speak Hakan \"{{i18n:Hakan.heartevent10_3}}\"/faceDirection Hakan 3/pause 50/faceDirection Hakan 0/speak Hakan \"{{i18n:Hakan.heartevent10_4}}\"/startJittering/pause 500/showFrame farmer 5/emote Hakan 16/pause 500/stopJittering/speak Hakan \"{{i18n:Hakan.heartevent10_5}}\"/move Hakan 0 -1 0/pause 500/message \"{{i18n:Hakan.heartevent10_6}}\"/speak Hakan \"{{i18n:Hakan.heartevent10_7}}\"/fade/viewport -1000 -1000/pause 500/speak Hakan \"{{i18n:Hakan.heartevent10_8}}\"/message \"{{i18n:Hakan.heartevent10_9}}\"/showFrame farmer 0/stopAnimation/changeLocation Custom_haki_cabin/warp farmer 18 5/faceDirection farmer 3/warp Hakan 16 5/faceDirection Hakan 1/fade unfade/viewport 16 8/pause 500/speak Hakan \"{{i18n:Hakan.heartevent10_10}}\"/move Hakan -2 0 3/globalFade 0.007 true/move Hakan 0 5 2/pause 500/viewport 500 500/pause 250/playSound furnace/speak Hakan \"{{i18n:Hakan.heartevent10_11}}\"/message \"{{i18n:Hakan.heartevent10_12}}\"/fade unfade/viewport 16 8/pause 500/move Hakan 0 -5 0/move Hakan 2 0 1/speak Hakan \"{{i18n:Hakan.heartevent10_13}}\"/farmerEat 226/pause 2000/faceDirection farmer 3/speak Hakan \"{{i18n:Hakan.heartevent10_14}}\"/message \"{{i18n:Hakan.heartevent10_15}}\"/speak Hakan \"{{i18n:Hakan.heartevent10_16}}\"/faceDirection Hakan 2/emote Hakan 40/pause 1000/speak Hakan \"{{i18n:Hakan.heartevent10_17}}\"/emote Hakan 40/pause 500/faceDirection Hakan 1/pause 500/emote Hakan 60/pause 1000/speak Hakan \"{{i18n:Hakan.heartevent10_18}}\"/quickQuestion \"{{i18n:Hakan.heartevent10_19}}\"(break)switchEvent 02661008_cuddleHakan(break)switchEvent 02661008_nocuddleHakan",
+}
+},
+{
+    "Action": "EditData",
+    "Target": "Data/Events/Custom_haki_cabin",
+    "When": {
+    },
+  "Entries": {
+  "02661008_cuddleHakan":"pause 500/speak Hakan \"{{i18n:Hakan.heartevent10_24}}\"/faceDirection Hakan 2/faceDirection Hakan 3/changeSprite Hakan Beach/changePortrait Hakan Beach/faceDirection Hakan 0/faceDirection Hakan 1/message \"{{i18n:Hakan.heartevent10_25}}\"/message \"{{i18n:Hakan.heartevent10_26}}\"/message \"{{i18n:Hakan.heartevent10_27}}\"/speak Hakan \"{{i18n:Hakan.heartevent10_28}}\"/emote farmer 20/pause 500/speak Hakan \"{{i18n:Hakan.heartevent10_29}}\"/move Hakan 1 0 1/speak Hakan \"{{i18n:Hakan.heartevent10_30}}\"/positionOffset Hakan 2 0/pause 50/positionOffset Hakan 2 0/pause 50/positionOffset Hakan 2 0/pause 50/positionOffset Hakan 2 0/pause 50/positionOffset Hakan 2 0/pause 50/positionOffset Hakan 2 0/pause 50/positionOffset Hakan 2 0/pause 50/positionOffset Hakan 2 0/pause 50/positionOffset Hakan 2 0/pause 50/positionOffset Hakan 2 0/pause 50/positionOffset Hakan 2 0/pause 50/positionOffset Hakan 2 0/pause 50/positionOffset Hakan 2 0/pause 50/positionOffset Hakan 2 0/pause 50/faceDirection Hakan 2/speak Hakan \"{{i18n:Hakan.heartevent10_31}}\"/emote farmer 32/pause 500/speak Hakan \"{{i18n:Hakan.heartevent10_32}}\"/showFrame Hakan 17/pause 250/speak Hakan \"{{i18n:Hakan.heartevent10_33}}\"/message \"{{i18n:Hakan.heartevent10_34}}\"/emote farmer 20/fade/message \"{{i18n:Hakan.heartevent10_35}}\"/end dialogue Hakan \"{{i18n:Hakan.heartevent8_12}}\"/",
+
+  "02661008_nocuddleHakan": "pause 400/speak Hakan \"{{i18n:Hakan.heartevent10_20}}\"/Fade/playSound bubbles/pause 500/Fade unfade/speak Hakan \"{{i18n:Hakan.heartevent10_21}}\"/farmerEat 395/speak Hakan \"{{i18n:Hakan.heartevent10_22}}\"/emote farmer 32/pause 500/speak Hakan \"{{i18n:Hakan.heartevent10_23}}\"/fade//message \"{{i18n:Hakan.heartevent10_23.5}}\"/end",
+}
+},
     ]
 }

@@ -29,6 +29,7 @@
                     "WinterStarParticipant": "True",
                     "PerfectionScore": true,
                     "EndSlideShow": "MainGroup",
+                    "Breather": false,
                     "SpouseRoom": {
                         "MapAsset": "Custom_HakanRoom",
                         "MapSourceRect": {
@@ -47,18 +48,6 @@
                             "Height": 4
                         }
                     },
-                    "BreathChestRect": {
-                        "X": 4,
-                        "Y": 17,
-                        "Width": 8,
-                        "Height": 5
-                    },
-
-                    "BreathChestPosition": {
-                        "X": 32,
-                        "Y": 0
-                    },
-
                     "Home": [
                         {
                             "Id": "Default",
