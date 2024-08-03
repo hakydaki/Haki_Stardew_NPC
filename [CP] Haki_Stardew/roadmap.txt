@@ -1,2 +1,0 @@
-Known problems I would like to fix -
-- Multi indexed animations. (For both fishing poses to get used eventually...)
