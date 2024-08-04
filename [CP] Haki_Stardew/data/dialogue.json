@@ -86,10 +86,10 @@
             "AcceptGift_(O)FlashShifter.StardewValleyExpandedCP_Butterfish":"{{i18n:Gifts.Hakan.Butterfish}}",
             "AcceptGift_(O)FlashShifter.StardewValleyExpandedCP_Blue_Moon_Wine":"{{i18n:Gifts.Hakan.AgedBlueMoonWine}}",
             "AcceptGift_(O)StardropTea":"{{i18n:Gifts.Hakan.StardropTea}}",  
-            "AcceptGift_(O)704":"{{i18n:Gifts.Hakan.Fish}}",
-            "AcceptGift_(O)669":"{{i18n:Gifts.Hakan.Fish}}",  
-            "AcceptGift_(O)139":"{{i18n:Gifts.Hakan.Fish}}",  
-            "AcceptGift_(O)838":"{{i18n:Gifts.Hakan.Fish}}",  
+            "AcceptGift_(O)704":"{{i18n:Gifts.Hakan.FishLoved}}",
+            "AcceptGift_(O)669":"{{i18n:Gifts.Hakan.FishLoved}}",  
+            "AcceptGift_(O)139":"{{i18n:Gifts.Hakan.FishLoved}}",  
+            "AcceptGift_(O)838":"{{i18n:Gifts.Hakan.FishLoved}}",  
             "AcceptGift_(O)836":"{{i18n:Gifts.Hakan.Stingray}}",
             "AcceptGift_(O)242":"{{i18n:Gifts.Hakan.DishOSea}}",  
 
@@ -105,7 +105,7 @@
 
             //Neutral Topaz
 
-            "AcceptGift_category_fish":"{{i18n:Gifts.Hakan.Fish}}",
+            "AcceptGift_category_fish":"{{i18n:Gifts.Hakan.FishLiked}}",
 
             // Disliked Parsnip, Mayo, Pancakes
 
