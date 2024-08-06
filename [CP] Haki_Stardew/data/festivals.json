@@ -187,13 +187,13 @@
                 {
                     "Operation": "Append",
                     "Target": ["Entries", "Set-Up_additionalCharacters"],
-                    "Value": "Hakan 65 68 2",
+                    "Value": "Hakan 20 27 2",
                     "Delimiter": "/"
                 },
                 {
                     "Operation": "Append",
                     "Target": ["Entries", "Set-Up_additionalCharacters_y2"],
-                    "Value": "Hakan 65 68 2",
+                    "Value": "Hakan 20 27 2",
                     "Delimiter": "/"
                 }
             ]
