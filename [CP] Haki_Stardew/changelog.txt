@@ -9,3 +9,9 @@ Version 0.9 (BETA) -
 - Hakan's Cabin
 - Gift tastes, schedule, all the basic things needed for a fleshed out NPC.
 
+Version 0.9.5 (BETA) -
+
+- Fixed some dialogue errors
+- Fixed awkward festival placements, like Hakan in the petting zoo. (Sorry, no petting the wolfman)
+- Added full vanilla support for the mod. It should be able to function correctly without SVE.
+- Backend stuff for the next update. (Don't look unless you like spoilers.)

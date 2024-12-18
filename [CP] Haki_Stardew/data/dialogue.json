@@ -224,6 +224,13 @@
             "Custom_haki_cabin10":"{{i18n:Hakan.HakiHouse10}}"
 
         }
+    },
+    {
+        "Action": "EditData",
+        "Target": "Characters/Dialogue/Docky",
+        "Entries": 
+        {
+        }
     }
     ]
 }

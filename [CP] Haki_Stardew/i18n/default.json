@@ -253,7 +253,7 @@
 "Hakan.indoorday.01": "Hello my little woodskip, watcha' doing today?$1",
 "Hakan.indoorday.02": "Hey darling, I made you some breakfast. It is the most important meal of the day after all. You need to keep your stamina up. [240 242 241]$1",
 "Hakan.indoorday.03": "I'll be working inside the house today, see you later my love.$1",
-"Hakan.indoorday.04": "I have a feeling you might go adventuring, so here, take some of my adventuring supplies. Stay safe out there! [773, 403, 772]$1",
+"Hakan.indoorday.04": "I have a feeling you might go adventuring, so here, take some of my adventuring supplies. Stay safe out there! [773 403 772]$1",
 "Hakan.indoorday.05": "I cleaned up the house a little for you, so you have one less thing to worry about when you get home tonight.$1",
 
 "Hakan.indoornight.01": "You must be exhausted. Here, I whipped up some dinner for us. [244 242 907 905 240]$1",
@@ -550,7 +550,7 @@
 "Strings.HakiCabin.7": "'Arcane Magic 101'",
 "Strings.HakiCabin.8": "The shelf is packed with books.",
 "Strings.HakiCabin.9": "The shelf is packed with books.",
-"Strings.HakiCabin.10": "debug10",
+"Strings.HakiCabin.10": "debug10", //dont remember what this one was for. will fix one day?
 "Strings.HakiCabin.11": "A cozy fireplace",
 "Strings.HakiCabin.12": "Did you hope for something funny?",
 
@@ -728,4 +728,8 @@
 "Hakan.heartevent9_37":"...We should go, no run, @.$13",
 "Hakan.heartevent9_38":"You and Hakan leave the building while Pierre and Caroline argue.",
 "Hakan.heartevent9_39":"Thanks for helping out woodskip. I've got to go finish my patrols now.$1#$b#Love you.$4",
+
+//14 Hearts
+
+
 } 

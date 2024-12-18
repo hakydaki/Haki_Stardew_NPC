@@ -1,0 +1,7 @@
+{
+// Docky's Schedule
+
+//debug schedules to help stop schedules from breaking.
+"default": "610 Custom_haki_cabin 18 5",
+"spring": "610 Custom_haki_cabin 18 5",
+}

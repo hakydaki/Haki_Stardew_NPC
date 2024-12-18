@@ -1,5 +1,5 @@
 {
-    "Format": "2.0.0",
+    "Format": "2.3.0",
 
     //MAP CHANGES
     "CustomLocations": [
@@ -194,12 +194,34 @@
             "Action": "Include",
             "FromFile": "data/mapstrings.json"
         },
-        //Schedule data
+        {
+            "Logname":"Docky_Schedule",
+            "Action": "Load",
+            "Target": "Characters/schedules/Docky",
+            "FromFile": "data/schedule_docky.json",
+            "When": {
+                "HasMod |contains=FlashShifter.StardewValleyExpandedCP": false,
+            }
+        },
+        //Hakan Schedule data - Vanilla Version
         {
             "Logname":"Haki_Schedule",
             "Action": "Load",
             "Target": "Characters/schedules/Hakan",
-            "FromFile": "data/schedule.json"
+            "FromFile": "data/schedule_hakan.json",
+            "When": {
+                "HasMod |contains=FlashShifter.StardewValleyExpandedCP": false,
+            }
+        },
+        //Hakan Schedule data - Loads SVE version if detected
+        {
+            "Logname":"Haki_Schedule_SVE",
+            "Action": "Load",
+            "Target": "Characters/schedules/Hakan",
+            "FromFile": "data/schedule_hakan_sve.json",
+            "When": {
+                "HasMod |contains=FlashShifter.StardewValleyExpandedCP": true,
+            }
         },
         //Blank JSON loads Dialogue...
         {
@@ -208,36 +230,65 @@
             "Target": "Characters/Dialogue/Hakan, Characters/Dialogue/MarriageDialogueHakan, Strings/schedules/Hakan",
             "FromFile": "data/blank.json"
         },
+
+        {
+            "Logname":"Docky_BLANK_Loads",
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Docky",
+            "FromFile": "data/blank.json"
+        },
+
         //Actual Dialogues
         {
             "Logname":"Haki_Dialogue",
             "Action": "Include",
-            "FromFile":"data/dialogue.json"
+            "FromFile":"data/dialogue_hakan.json"
+        },
+        {
+            "Logname":"Docky_Dialogue",
+            "Action": "Include",
+            "FromFile":"data/dialogue_docky.json"
         },
         //Marriage Dialogues
         {
             "Logname":"Haki_Marriage_Dialogue",
             "Action": "Include",
-            "FromFile":"data/marriagedialogue.json"
+            "FromFile":"data/marriagedialogue_hakan.json"
         },
         //Strings Dialogues
         {
             "Logname":"Haki_Strings_Dialogue",
             "Action": "Include",
-            "FromFile":"data/schedulestrings.json"
+            "FromFile":"data/schedulestrings_hakan.json"
         }, 
-        //Festival Data
+        //Festival Data - Vanilla
         {
             "Logname":"Haki_FestivalData",
             "Action": "Include",
-            "FromFile":"data/festivals.json"
-        },
+            "FromFile":"data/festivals.json",
+            "When": {
+                "HasMod |contains=FlashShifter.StardewValleyExpandedCP": false,
+            }
+        }
+        //Festival Data - SVE
+        {
+            "Logname":"Haki_FestivalData",
+            "Action": "Include",
+            "FromFile":"data/festivals_SVE.json",
+            "When": {
+                "HasMod |contains=FlashShifter.StardewValleyExpandedCP": true,
+            }
+        }
         //SVE Community Day
         {
             "Logname":"Haki_SVE_CommunityDAY",
             "Action": "Include",
-            "FromFile":"data/svecommunityday.json"
-        },
+            "FromFile":"data/svecommunityday.json",
+            "When": {
+                "HasMod": "FlashShifter.StardewValleyExpandedCP"
+            }
+        }
+
         //Load blank events data
         {
             "Logname":"Blank_Load_Events",

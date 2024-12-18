@@ -1,5 +1,7 @@
 {
 	"Changes": [
+
+		//HAKAN CONCESSION TASTES
 		{
 			"Action": "EditData",
 			"Target": "Data/ConcessionTastes",
@@ -33,6 +35,267 @@
 			"Entries": {
 				"Hakan": {
 					"NPCName": "Hakan",
+					"Reactions": [
+
+						{
+							
+							//The Brave Little Sapling
+							"Tag": "spring_movie_0",
+							"Response": "like",
+							"Whitelist": [],
+							"SpecialResponses": {
+								"BeforeMovie": {
+									"ResponsePoint": null,
+									"Script": null,
+									"Text": "{{i18n:Hakan.movie.bravelilsapling_1}}",
+								},
+								"DuringMovie": {
+									"ResponsePoint": null,
+									"Script": null,
+									"Text": "{{i18n:Hakan.movie.bravelilsapling_2}}",
+								},
+								"AfterMovie": {
+									"ResponsePoint": null,
+									"Script": null,
+									"Text": "{{i18n:Hakan.movie.bravelilsapling_3}}",
+								}
+								},
+								"ID": "reaction_0"
+
+							},
+
+						{
+							
+							//Natural Wonders
+							"Tag": "spring_movie_1",
+							"Response": "love",
+							"Whitelist": [],
+							"SpecialResponses": {
+								"BeforeMovie": {
+									"ResponsePoint": null,
+									"Script": null,
+									"Text": "{{i18n:Hakan.movie.naturalwonders_1}}",
+								},
+								"DuringMovie": {
+									"ResponsePoint": null,
+									"Script": null,
+									"Text": "{{i18n:Hakan.movie.naturalwonders_2}}",
+								},
+								"AfterMovie": {
+									"ResponsePoint": null,
+									"Script": null,
+									"Text": "{{i18n:Hakan.movie.naturalwonders_3}}",
+								}
+								},
+								"ID": "reaction_1"
+
+							},
+
+						{
+							
+							//Journey of the Prairie King
+							"Tag": "summer_movie_0",
+							"Response": "like",
+							"Whitelist": [],
+							"SpecialResponses": {
+								"BeforeMovie": {
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n:Hakan.movie.journeyofprairie_1}}",
+								},
+								"DuringMovie": {
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n:Hakan.movie.journeyofprairie_2}}",
+								},
+								"AfterMovie": {
+									"ResponsePoint": null,
+									"Script": null,
+									"Text": "{{i18n:Hakan.movie.journeyofprairie_3}}",
+								}
+								},
+								"ID": "reaction_2"
+
+							},
+
+						{
+							
+							//Wumbus
+							"Tag": "summer_movie_1",
+							"Response": "hate",
+							"Whitelist": [],
+							"SpecialResponses": {
+								"BeforeMovie": {
+									"ResponsePoint": null,
+									"Script": null,
+									"Text": "{{i18n:Hakan.movie.wumbus_1}}",
+								},
+								"DuringMovie": {
+									"ResponsePoint": null,
+									"Script": null,
+									"Text": "{{i18n:Hakan.movie.wumbus_2}}",
+								},
+								"AfterMovie": {
+									"ResponsePoint": null,
+									"Script": null,
+									"Text": "{{i18n:Hakan.movie.wumbus_3}}",
+								}
+								},
+								"ID": "reaction_3"
+
+
+							},
+
+						{
+							
+							//Mysterium
+							"Tag": "fall_movie_0",
+							"Response": "hate",
+							"Whitelist": [],
+							"SpecialResponses": {
+								"BeforeMovie": {
+									"ResponsePoint": null,
+									"Script": null,
+									"Text": "{{i18n:Hakan.movie.mysterium_1}}",
+								},
+								"DuringMovie": {
+									"ResponsePoint": null,
+									"Script": null,
+									"Text": "{{i18n:Hakan.movie.mysterium_2}}",
+								},
+								"AfterMovie": {
+									"ResponsePoint": null,
+									"Script": null,
+									"Text": "{{i18n:Hakan.movie.mysterium_3}}",
+								}
+								},
+								"ID": "reaction_4"
+
+
+							},
+
+						{
+							
+							//It howls in the rain
+							"Tag": "fall_movie_1",
+							"Response": "dislike",
+							"Whitelist": [],
+							"SpecialResponses": {
+								"BeforeMovie": {
+									"ResponsePoint": null,
+									"Script": null,
+									"Text": "{{i18n:Hakan.movie.ithowlsintherain_1}}",
+								},
+								"DuringMovie": {
+									"ResponsePoint": null,
+									"Script": "/shake Hakan 3000/speak Hakan \"{{i18n:Hakan.movie.ithowlsintherain_2}}\"/pause 500/message \"{{i18n:Hakan.movie.ithowlsintherain_2.5}}\"",
+									"Text": "",
+								},
+								"AfterMovie": {
+									"ResponsePoint": null,
+									"Script": null,
+									"Text": "{{i18n:Hakan.movie.ithowlsintherain_3}}",
+								}
+								},
+								"ID": "reaction_5"
+
+
+							},
+
+						{
+							
+							//Coldstar Ranch
+							"Tag": "winter_movie_0",
+							"Response": "like",
+							"Whitelist": [],
+							"SpecialResponses": {
+								"BeforeMovie": {
+									"ResponsePoint": null,
+									"Script": null,
+									"Text": "{{i18n:Hakan.movie.coldstarranch_1}}",
+								},
+								"DuringMovie": {
+									"ResponsePoint": null,
+									"Script": null,
+									"Text": "{{i18n:Hakan.movie.coldstarranch_2}}",
+								},
+								"AfterMovie": {
+									"ResponsePoint": null,
+									"Script": null,
+									"Text": "{{i18n:Hakan.movie.coldstarranch_3}}",
+								}
+								},
+								"ID": "reaction_6"
+
+
+							},
+
+						{
+							
+							//Zuzu
+							"Tag": "winter_movie_1",
+							"Response": "dislike",
+							"Whitelist": [],
+							"SpecialResponses": {
+								"BeforeMovie": {
+									"ResponsePoint": null,
+									"Script": null,
+									"Text": "{{i18n:Hakan.movie.zuzucity_1}}",
+								},
+								"DuringMovie": {
+									"ResponsePoint": null,
+									"Script": "speak Hakan \"{{i18n:Hakan.movie.zuzucity_2}}\"/pause 500/message \"{{i18n:Hakan.movie.zuzucity_2.5}}\"",
+									"Text": "",
+								},
+								"AfterMovie": {
+									"ResponsePoint": null,
+									"Script": null,
+									"Text": "{{i18n:Hakan.movie.zuzucity_3}}",
+								},
+								"ID": "reaction_7"
+							}
+						}
+
+					]
+				}
+			}
+		},
+
+		//DOCKY CONCESSION TASTES
+
+		{
+			"Action": "EditData",
+			"Target": "Data/ConcessionTastes",
+			"Entries": { 
+				"Docky": {
+					"Name": "Docky",
+					"LovedTags": [
+						"Nachos",
+						"Fries",
+                        "Star Cookie"
+					],
+					"LikedTags": [
+						"Salty",
+                        "Hot",
+                        "Fatty"
+					],
+					"DislikedTags": [
+						"Joja Cola",
+                        "Salted Peanuts",
+                        "Hummus Snack Pack"
+					]
+				} 
+			}
+		},
+
+// CUSTOM REACTIONS
+
+		{
+			"Action": "EditData",
+			"Target": "Data/MoviesReactions",
+			"Entries": {
+				"Docky": {
+					"NPCName": "Docky",
 					"Reactions": [
 
 						{
