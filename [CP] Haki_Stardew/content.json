@@ -23,7 +23,7 @@
 
     "Changes": [
 
-    // Railroad Map Patch
+    // Railroad Map Patch - SVE
         {
             "Action": "EditMap",
             "Target": "Maps/Railroad",
@@ -200,7 +200,7 @@
             "Target": "Characters/schedules/Docky",
             "FromFile": "data/schedule_docky.json",
             "When": {
-                "HasMod |contains=FlashShifter.StardewValleyExpandedCP": false,
+                "HasMod |contains=FlashShifter.StardewValleyExpandedCP": false
             }
         },
         //Hakan Schedule data - Vanilla Version
@@ -210,7 +210,7 @@
             "Target": "Characters/schedules/Hakan",
             "FromFile": "data/schedule_hakan.json",
             "When": {
-                "HasMod |contains=FlashShifter.StardewValleyExpandedCP": false,
+                "HasMod |contains=FlashShifter.StardewValleyExpandedCP": false
             }
         },
         //Hakan Schedule data - Loads SVE version if detected
@@ -220,7 +220,7 @@
             "Target": "Characters/schedules/Hakan",
             "FromFile": "data/schedule_hakan_sve.json",
             "When": {
-                "HasMod |contains=FlashShifter.StardewValleyExpandedCP": true,
+                "HasMod |contains=FlashShifter.StardewValleyExpandedCP": true
             }
         },
         //Blank JSON loads Dialogue...
@@ -267,16 +267,16 @@
             "Action": "Include",
             "FromFile":"data/festivals.json",
             "When": {
-                "HasMod |contains=FlashShifter.StardewValleyExpandedCP": false,
+                "HasMod |contains=FlashShifter.StardewValleyExpandedCP": false
             }
         },
         //Festival Data - SVE
         {
             "Logname":"Haki_FestivalData",
             "Action": "Include",
-            "FromFile":"data/festivals_SVE.json",
+            "FromFile":"data/festivals_sve.json",
             "When": {
-                "HasMod |contains=FlashShifter.StardewValleyExpandedCP": true,
+                "HasMod |contains=FlashShifter.StardewValleyExpandedCP": true
             }
         },
         //SVE Community Day
@@ -296,11 +296,23 @@
             "Target":"Data/Events/Custom_haki_cabin",
             "FromFile":"data/blank.json"
         },
-        //Event Data
+        //Event Data - Vanilla
         {
             "Logname":"Haki_Events",
             "Action": "Include",
-            "FromFile":"data/events.json"
+            "FromFile":"data/events.json",
+            "When": {
+                "HasMod |contains=FlashShifter.StardewValleyExpandedCP": false
+            }
+        },
+        //Event Data - SVE
+        {
+            "Logname":"Haki_Events",
+            "Action": "Include",
+            "FromFile":"data/events_sve.json",
+            "When": {
+                "HasMod |contains=FlashShifter.StardewValleyExpandedCP": true
+            }
         },
         //Movie Theatre Data
         {
@@ -373,17 +385,26 @@
             "FromFile":"data/animations.json"
         },
 
-        //Spouse Room
+            //Spouse Room
         {
             "Action": "Load", "Priority": "Low",
             "Target": "Maps/Custom_HakanRoom",
             "FromFile": "assets/maps/taki_HakiSpouseRoom.tmx",
         },
-          //Spouse Patio
+            //Spouse Patio
         {
             "Action": "Load", "Priority": "Low",
             "Target": "Maps/Hakan_Spouse_Area",
             "FromFile": "assets/maps/taki_Haki_Spouse_Patio.tmx"
         },
+            //Temp Slime actor if SVE isn't loaded...credit to flashshifter
+        {
+            "Action": "Load", "Priority": "Low",
+            "Target": "Characters/SlimeActor1",
+            "FromFile": "assets/characters/SlimeActor1.png",
+            "When": {
+                "HasMod |contains=FlashShifter.StardewValleyExpandedCP": false
+            }
+          }
     ]
 }
