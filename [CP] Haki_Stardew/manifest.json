@@ -11,7 +11,7 @@
     "Dependencies": [
         {
            "UniqueID": "FlashShifter.StardewValleyExpandedCP",
-           "IsRequired": true,
+           "IsRequired": false,
         },
     ]
 }

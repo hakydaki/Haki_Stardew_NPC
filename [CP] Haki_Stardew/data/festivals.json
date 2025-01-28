@@ -61,7 +61,7 @@
                 {
                     "Operation": "Append",
                     "Target": ["Entries", "Set-Up_additionalCharacters"],
-                    "Value": "Hakan 7 33 2",
+                    "Value": "Hakan 7 34 2",
                     "Delimiter": "/"
                 },
                 {
@@ -73,7 +73,7 @@
                 {
                     "Operation": "Append",
                     "Target": ["Entries", "MainEvent_additionalCharacters"],
-                    "Value": "Hakan 7 33 2",
+                    "Value": "Hakan 7 34 2",
                     "Delimiter": "/"
                 },
                 {
@@ -187,13 +187,13 @@
                 {
                     "Operation": "Append",
                     "Target": ["Entries", "Set-Up_additionalCharacters"],
-                    "Value": "Hakan 20 27 2",
+                    "Value": "Hakan 27 35 2",
                     "Delimiter": "/"
                 },
                 {
                     "Operation": "Append",
                     "Target": ["Entries", "Set-Up_additionalCharacters_y2"],
-                    "Value": "Hakan 20 27 2",
+                    "Value": "Hakan 27 35 2",
                     "Delimiter": "/"
                 }
             ]
@@ -247,13 +247,13 @@
                 {
                     "Operation": "Append",
                     "Target": ["Entries", "Set-Up_additionalCharacters"],
-                    "Value": "Hakan 80 47 2",
+                    "Value": "Hakan 87 40 2",
                     "Delimiter": "/"
                 },
                 {
                     "Operation": "Append",
                     "Target": ["Entries", "Set-Up_additionalCharacters_y2"],
-                    "Value": "Hakan 80 47 2",
+                    "Value": "Hakan 87 40 2",
                     "Delimiter": "/"
                 },
                 {
@@ -301,13 +301,13 @@
                 {
                     "Operation": "Append",
                     "Target": ["Entries", "Set-Up_additionalCharacters"],
-                    "Value": "Hakan 29 58 2",
+                    "Value": "Hakan 40 57 2",
                     "Delimiter": "/"
                 },
                 {
                     "Operation": "Append",
                     "Target": ["Entries", "Set-Up_additionalCharacters_y2"],
-                    "Value": "Hakan 29 58 2",
+                    "Value": "Hakan 40 57 2",
                     "Delimiter": "/"
                 }
             ]
