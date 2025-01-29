@@ -1,0 +1,18 @@
+{
+    "Changes": [
+        //Texture Load
+        {
+            "Action": "Load", "Priority": "Low",
+            "Target": "Mods/hakydaki.HakanNPC/Furniture",
+            "FromFile": "assets/Furniture/Hakan_Portrait.png"
+        },
+        //Funiture Obj
+            {
+            "Action": "EditData",
+            "Target": "Data/Furniture",
+            "Entries": {
+                "hakydaki.HakanNPC_HakanTuxedoPortrait": "HakanTuxedoPortrait/painting/2 2/2 2/1/999/-1/{{i18n:Hakan.tuxedo_portrait}}/0/Mods\\hakydaki.HakanNPC\\Furniture/true"
+            }
+        }
+    ]
+}

@@ -16,3 +16,4 @@ Version 0.9.5 (BETA) -
 - Added full vanilla support for the mod. It should be able to function correctly without SVE.
 - Backend stuff for the next update. (Don't look unless you like spoilers.)
 - Added spouse patio animation. 
+- Added character portrait furniture item for 10 hearts. May show up in the traveling cart.

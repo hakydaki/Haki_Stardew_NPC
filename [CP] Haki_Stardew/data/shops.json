@@ -1,0 +1,32 @@
+{
+    //Travelling Cart edits
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/Shops",
+            "TargetField": [
+                "Traveler",
+                "Items"
+            ],
+        "Entries": {
+                "FlashShifter.StardewValleyExpandedCP_ClairePortrait":{
+                    "Price": 30000,
+                    "AvailableStock": 1,
+                    "AvailableStockLimit": "Player",
+                    "AvoidRepeat": false,
+                    "UseObjectDataPrice": false,
+                    "IgnoreShopPriceModifiers": false,
+                    "PriceModifierMode": "Stack",
+                    "AvailableStockModifiers": null,
+                    "AvailableStockModifierMode": "Stack",
+                    "Condition": "PLAYER_HEARTS Current Hakan 10",
+                    "Id": "(F)FlashShifter.StardewValleyExpandedCP_ClairePortrait",
+                    "ItemId": "(F)FlashShifter.StardewValleyExpandedCP_ClairePortrait",
+                    "IsRecipe": false,
+                    "StackModifierMode": "Stack",
+                    "QualityModifierMode": "Stack",
+                }
+            }
+        }
+    ]
+}

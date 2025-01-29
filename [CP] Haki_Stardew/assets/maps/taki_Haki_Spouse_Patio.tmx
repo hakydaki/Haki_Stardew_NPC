@@ -15,7 +15,7 @@
  <layer id="4" name="Buildings" width="4" height="5">
   <data encoding="csv">
 0,0,0,0,
-0,0,0,1336,
+0,0,0,0,
 0,0,0,1368,
 0,0,0,962,
 1920,0,0,898
@@ -42,7 +42,7 @@
  <layer id="7" name="AlwaysFront" width="4" height="5">
   <data encoding="csv">
 0,0,0,0,
-0,0,0,0,
+0,0,0,1336,
 0,0,0,0,
 0,0,0,0,
 0,0,0,0

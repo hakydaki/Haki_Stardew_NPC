@@ -255,11 +255,14 @@
             "Action": "Include",
             "FromFile":"data/dialogue/marriagedialogue_hakan.json"
         },
-        //Strings Dialogues
+        //Strings Dialogues for SVE Community Day
         {
             "Logname":"Haki_Strings_Dialogue",
             "Action": "Include",
-            "FromFile":"data/schedulestrings_hakan.json"
+            "FromFile":"data/schedulestrings.json",
+            "When": {
+                "HasMod |contains=FlashShifter.StardewValleyExpandedCP": true
+            }
         }, 
         //Festival Data - Vanilla
         {
@@ -401,10 +404,22 @@
         {
             "Action": "Load", "Priority": "Low",
             "Target": "Characters/SlimeActor1",
-            "FromFile": "assets/characters/SlimeActor1.png",
+            "FromFile": "assets/characters/sprites/SlimeActor1.png",
             "When": {
                 "HasMod |contains=FlashShifter.StardewValleyExpandedCP": false
             }
-          }
+        },
+            //Object loads
+        {
+            "Logname":"Furniture/Item Loading",
+            "Action": "Include",
+            "FromFile":"data/items.json"
+        },
+            //Shop Edits
+        {
+            "Logname":"Shops",
+            "Action": "Include",
+            "FromFile":"data/shops.json"
+        },
     ]
 }
