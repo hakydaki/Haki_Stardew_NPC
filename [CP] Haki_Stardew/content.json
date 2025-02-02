@@ -352,6 +352,12 @@
              "Target": "Portraits/Hakan_Beach",
              "FromFile": "assets/characters/sprites/hakanBeachPortraits.png"
         },
+        {
+            "Logname": "Docky_Portraits",
+            "Action": "Load",
+            "Target": "Portraits/Docky",
+            "FromFile": "assets/characters/sprites/dockyPortraits.png"
+        },
 
 
             //SPRITE LOADING - SPRITES
@@ -378,6 +384,13 @@
             "Action": "Load",
             "Target": "Characters/Hakan_Beach",
             "FromFile": "assets/characters/sprites/HakanSpritesBeach.png"
+        },
+		
+        {
+            "Logname": "Docky_Sprites",
+            "Action": "Load",
+            "Target": "Characters/Docky",
+            "FromFile": "assets/characters/sprites/Dockysprites.png"
         },
 
             //ANIMATION LOADS
