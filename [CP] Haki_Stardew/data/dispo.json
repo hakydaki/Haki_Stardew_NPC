@@ -97,7 +97,7 @@
             "Target": "Data/Characters",
             "Entries": {
                 "Docky": {
-                    "DisplayName": "Seagull",
+                    "DisplayName": "Docky",
                     "Gender": "Male",
                     "Age": "Adult",
 		            "Manner": "Rude",

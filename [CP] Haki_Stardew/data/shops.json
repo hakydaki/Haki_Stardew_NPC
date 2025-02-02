@@ -9,7 +9,7 @@
                 "Items"
             ],
         "Entries": {
-                "FlashShifter.StardewValleyExpandedCP_ClairePortrait":{
+                "hakydaki.HakanNPC_HakanTuxedoPortrait":{
                     "Price": 30000,
                     "AvailableStock": 1,
                     "AvailableStockLimit": "Player",
@@ -20,8 +20,8 @@
                     "AvailableStockModifiers": null,
                     "AvailableStockModifierMode": "Stack",
                     "Condition": "PLAYER_HEARTS Current Hakan 10",
-                    "Id": "(F)FlashShifter.StardewValleyExpandedCP_ClairePortrait",
-                    "ItemId": "(F)FlashShifter.StardewValleyExpandedCP_ClairePortrait",
+                    "Id": "hakydaki.HakanNPC_HakanTuxedoPortrait",
+                    "ItemId": "hakydaki.HakanNPC_HakanTuxedoPortrait",
                     "IsRecipe": false,
                     "StackModifierMode": "Stack",
                     "QualityModifierMode": "Stack",

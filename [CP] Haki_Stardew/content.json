@@ -39,7 +39,7 @@
                 "Y": 53,
                 "Width": 8,
                 "Height": 9
-            }
+            },
             "When": {
                 "HasMod |contains=FlashShifter.StardewValleyExpandedCP": true
             }
@@ -61,7 +61,7 @@
                 "Y": 53,
                 "Width": 26,
                 "Height": 9
-            }
+            },
             "When": {
                 "HasMod |contains=FlashShifter.StardewValleyExpandedCP": false
             }

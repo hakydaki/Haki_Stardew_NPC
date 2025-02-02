@@ -21,7 +21,7 @@
 
 "Spring_Thu": "900 Custom_haki_cabin 6 11 0/930 Custom_haki_cabin 13 19 2/940 Custom_haki_cabin 16 17 0/950 Custom_haki_cabin 20 6 0/1000 Custom_haki_cabin 3 17 2/1030 Custom_foothills 32 10 2/1200 Town 72 101 2/1700 Town 79 95 2/2000 Railroad 44 40 2/2300 Custom_haki_cabin 18 5 3 hakan_sleep",
 
-"Spring_Fri": "800 Railroad 53 52 2/1000 Woods 18 20 2 hakan_laze/1400 Woods 18 23 1 birdie_fish/1800 Saloon 5 20 3/2400 Custom_haki_cabin 18 5 3 hakan_sleep",
+"Spring_Fri": "800 Railroad 53 52 2/1000 Woods 18 20 2 hakan_laze/1400 Woods 5 23 1 birdie_fish/1800 Saloon 5 20 3/2400 Custom_haki_cabin 18 5 3 hakan_sleep",
 
 "Spring_Sat": "900 Custom_haki_cabin 14 5 2 hakan_read/1100 Railroad 15 57 0/1130 SeedShop 11 23 0/1230 SeedShop 12 28 3/1330 80 9 2 hakan_look/1800 Custom_haki_cabin 20 17 0/2000 Custom_haki_cabin 14 5 2 hakan_read/2400 Custom_haki_cabin 18 5 3 hakan_sleep",
 
@@ -33,7 +33,7 @@
 
 "Fall_Fri": "900 Custom_haki_cabin 14 5 2/1100 Forest 32 11 2/1800 Saloon 5 20 3/2400 Custom_haki_cabin 18 5 3 hakan_sleep",
 
-"Fall_Sat": "800 Railroad 53 52 2/1000 Woods 18 20 2 hakan_laze/1400 Woods 18 23 1 birdie_fish/1800 Saloon 5 20 3/2400 Custom_haki_cabin 18 5 3 hakan_sleep",
+"Fall_Sat": "800 Railroad 53 52 2/1000 Woods 18 20 2 hakan_laze/1400 Woods 5 23 1 birdie_fish/1800 Saloon 5 20 3/2400 Custom_haki_cabin 18 5 3 hakan_sleep",
 
 "Fall_Sun": "900 Custom_haki_cabin 6 11 0/1030 Custom_foothills 32 10 2/1200 Town 19 63 2/1800 Town 42 56 0/2200 Custom_haki_cabin 18 5 3 hakan_sleep",
 
@@ -80,7 +80,7 @@
 
 //FUN
 
-"marriage_Spring_Fri": "1000 Woods 18 20 2 hakan_laze/1400 Woods 18 23 1 birdie_fish/1800 Woods 18 20 2 hakan_laze/2000 bed",
+"marriage_Spring_Fri": "1000 Woods 18 20 2 hakan_laze/1400 Woods 5 23 1 birdie_fish/1800 Woods 18 20 2 hakan_laze/2000 bed",
 
 "marriage_Summer_Sat": "1100 Beach 46 22 2 hakan_laze_shirtless/1500 Beach 44 35 1 birdie_fish/2000 bed",
 

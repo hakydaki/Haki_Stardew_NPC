@@ -213,8 +213,8 @@
 
 "Hakan.rainyday.01": "I love the smell of rain. Stay safe out there, I've been hearing something mysterious occasionally.$6",
 "Hakan.rainyday.02": "The rain should wash all the pollen away. My nose will be feeling clear tomorrow.$0",
-//"Hakan.rainyday.03": "Maybe the slimes will be out of the caves today?",
-//"Hakan.rainyday.04": "I hope %pet doesn't track in mud...",
+"Hakan.rainyday.03": "Maybe the slimes will be out of the caves today?",
+"Hakan.rainyday.04": "I hope %pet doesn't track in mud...",
 "Hakan.rainyday.05": "I'll be staying inside today. I don't want to get my fur wet, it's a nightmare to dry it out.$0",
 "Hakan.rainyday.06": "Make sure to take an umbrella and stay dry. I don't want you getting a cold. I might smother you when I am warming you up!$4",
 "Hakan.rainyday.07": "It's raining today... I wonder if there's any rare fish out.$18",
@@ -733,6 +733,10 @@
 
 //Items and Furniture
 
-"Hakan.tuxedo_portrait": "Hakan Tuxedo Portrait"
+"Hakan.tuxedo_portrait": "Hakan Tuxedo Portrait",
 
+//DOCKY DIALOGUES!!!!
+
+"Docky.intro": "Caw Caw! Give me some food you bum. I will now proceed to stand here until my dev updates me.",
+"Docky.spring": "Whaddya want? Scram loser!"
 } 

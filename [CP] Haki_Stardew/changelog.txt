@@ -17,3 +17,5 @@ Version 0.9.5 (BETA) -
 - Backend stuff for the next update. (Don't look unless you like spoilers.)
 - Added spouse patio animation. 
 - Added character portrait furniture item for 10 hearts. May show up in the traveling cart.
+- Edited Vanilla railroad map to lead to Hakan's cabin.
+- Cleaned up some of my map edits...
