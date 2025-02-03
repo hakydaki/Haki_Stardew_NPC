@@ -493,8 +493,8 @@
 "Hakan.Patrol_02": "I heard rustling in the bushes...so I checked it out.#$13#&b#It was just Marnie and Lewis...#&b#*shudders*...Freaks.$5",
 "Hakan.AerobicsClass": "Come on girls, get those legs movin!'$19#$b#Oh, hello @...are you here to exercise too?$21",
 "Hakan.ForestFishing": "Hey @...Sorry I need to focus I'm trying to catch some woodskips.$0",
-"Hakan.ForestLaze": "Ahhh...$22",
-"Hakan.BeachLaze": "%Hakan is relaxing in the sand",
+"Hakan.ForestLaze": "*snore* *honk shoooo*$27#$b#%...Hakan is asleep...",
+"Hakan.BeachLaze": "%Hakan is relaxing in the sand.",
 "Hakan.BathWorkout": "@! Unf... I wish I could talk but I'm in the zone right now.$19",
 "Hakan.BathLaze": "Ahhh...That hits the spot...*grunts*$22",
 "Hakan.SleepingJob": "*snore*$12#$b#G-Guh?! Oh hey, its you.$4",
@@ -512,7 +512,7 @@
 "Hakan.Saloon8": "",
 "Hakan.Saloon10": "",
 
-"Hakan.Woods": "I like it here...it's quiet.#$e# Oh the slimes? Don't worry I have a slime charmer ring.$0",
+"Hakan.Woods": "I like it here...it's quiet.$1#$b# Oh the slimes? Don't worry, I have a slime charmer ring.$7",
 "Hakan.Woods2": "",
 "Hakan.Woods4": "",
 "Hakan.Woods6": "",
@@ -555,7 +555,7 @@
 "Strings.HakiCabin.12": "Did you hope for something funny?",
 
 "Strings.Foothills": "Foothills",
-"Strings.FunnySilo.": "'Fish n Slime'...An awful stench eminates from inside",
+"Strings.FunnySilo": "'Fish n Slime'...An awful stench eminates from inside",
 "Strings.FoothillsPathway": "Foothills Path",
 
 //Events
@@ -632,7 +632,7 @@
 "Hakan.heartevent8_2":"...Sorry. Eyes are a little misty.$2#$b#...$0#$b#...here come stand next to me.$0#$b#I want to tell you something.$6",
 "Hakan.heartevent8_3":"Hakan signals to the spot next to him.",
 "Hakan.heartevent8_4":"You know why I look at the ocean so much?$6",
-"Hakan.heartevent8_5":"Sometimes I hope they would come back, like I’d see that boat coming over the horizon.$2#$b#My parents. They used to be adventurers like me.$0#$b#My mother used to take me out fishing alot, and we’d collect pretty shells from Ginger Island often. Or the occasionally blue discus.$7#$b#And my father he was a strong man. He helped Marlon handle the mines when monsters took it over…$6#$b#...$2#$b#Well...one time they went out on a job, and they had to take a boat to Ginger Island.",
+"Hakan.heartevent8_5":"Sometimes I hope they would come back, like I’d see that boat coming over the horizon.$2#$b#My parents. They used to be adventurers like me.$0#$b#My mother used to take me out fishing alot, and we’d collect pretty shells from Ginger Island often. Or the occasionally blue discus.$7#$b#And my father... he was a strong man. He helped Marlon handle the mines when monsters took it over…$6#$b#...$2#$b#Well...one time they went out on a job, and they had to take a boat to Ginger Island.",
 "Hakan.heartevent8_6":"Willy took them on his boat.$0#$b#And well, a terrible storm came out of nowhere and damaged the boat and knocked my parents off into the treacherous sea.",
 "Hakan.heartevent8_7":"Willy couldn’t do anything but limp the ship back.$2#$b# It was a really hard time in my life. Not a trace of them was left...$2",
 "Hakan.heartevent8_8":"Marlon basically adopted me after that, and I later became an adventurer under his wing.$0#$b#I take my job as an adventurer seriously, because I want my parents to be proud of me.$2#$b#Though time has numbed the pain and grief, I still do miss them.$2",
@@ -738,5 +738,11 @@
 //DOCKY DIALOGUES!!!!
 
 "Docky.intro": "Caw Caw! Give me some food you bum. I will now proceed to stand here until my dev updates me.",
-"Docky.spring": "Whaddya want? Scram loser!"
+"Docky.Monday": "You know what's worse than Mondays? You. Get out of my face.",
+"Docky.Tuesday": "Chewsday? What the fuck is a chewsday? Do you want a bottle of wah-uh?#$e#That's what you sound like.",
+"Docky.Wednesday": "Did you know it was hump day? No? Of course YOU wouldn't know a thing about hump day.",
+"Docky.Thursday": "You look dashing today. Now dash off all those calories.",
+"Docky.Friday": "Yo momma so large she has gravity.",
+"Docky.Saturday": "You know who you remind me of? Clint.",
+"Docky.Sunday": "You have a face only your grandpa would love. Too bad he's 6 feet under.#$e#Ooo did I hit a nerve?",
 } 

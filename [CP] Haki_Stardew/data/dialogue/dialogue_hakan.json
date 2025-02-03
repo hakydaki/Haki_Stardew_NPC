@@ -182,10 +182,12 @@
             "Forest_32_11":"{{i18n:Hakan.Cart}}",
             "Custom_WizardBasement_13_5":"{{i18n:Hakan.WizardTower}}",
 
-            //Not using this entry for Hakan laze... yet...
             //"Woods_46_55":"{{i18n:Hakan.WizardTower}}",
 
             "Woods_37_49":"{{i18n:Hakan.ForestFishing}}",
+            "Woods_5_23":"{{i18n:Hakan.ForestFishing}}",
+            "Woods_18_21":"{{i18n:Hakan.ForestLaze}}",
+            "Woods_54_49":"{{i18n:Hakan.ForestLaze}}",
             "Saloon_5_20":"{{i18n:Hakan.Stardropsaloon}}",
             "Beach_46_22":"{{i18n:Hakan.BeachLaze}}",
             "Bathhouse_MensLocker_6_5":"{{i18n:Hakan.BathWorkout}}",
@@ -223,13 +225,6 @@
             "Custom_haki_cabin6":"{{i18n:Hakan.HakiHouse6}}",
             "Custom_haki_cabin10":"{{i18n:Hakan.HakiHouse10}}"
 
-        }
-    },
-    {
-        "Action": "EditData",
-        "Target": "Characters/Dialogue/Docky",
-        "Entries": 
-        {
         }
     }
     ]

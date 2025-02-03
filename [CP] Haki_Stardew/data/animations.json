@@ -6,7 +6,7 @@
             "Entries": {
             
             //ginger island
-            "hakan_beach_towel": "17/17/17/laying_down/offset 0 16",
+            "hakan_beach_towel": "17/17/17//laying_down/offset 0 16",
             "hakan_beach_dance": "28/28 29 30 31 30 29 28 28/28",
             "hakan_beach_umbrella": "16/16/16",
             
@@ -14,8 +14,8 @@
             
             "hakan_sleep": "59/59/59",
             "hakan_read": "24 25 26/26/26 25 24",
-            "hakan_laze": "51/51/51/laying_down/offset 0 16",
-            "hakan_laze_shirtless": "31/31/31/laying_down/offset 0 16",
+            "hakan_laze": "51/51/51//laying_down/offset 0 16",
+            "hakan_laze_shirtless": "31/31/31//laying_down/offset 0 16",
             "hakan_standing_sleep": "21/21/21",
             "hakan_standing_sleep_sideways": "27/27/27",
             "hakan_sunglasses": "29/29/29",

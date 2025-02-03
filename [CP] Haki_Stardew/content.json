@@ -383,6 +383,15 @@
             "Target": "Portraits/Docky",
             "FromFile": "assets/characters/sprites/dockyPortraits.png"
         },
+        {
+            "Logname": "Docky_Portraits",
+            "Action": "Load",
+            "Target": "Portraits/Docky_Winter",
+            "FromFile": "assets/characters/sprites/dockyPortraitsWinter.png",
+            "When": {
+                "Season": "winter"
+            }
+        },
 
 
             //SPRITE LOADING - SPRITES
@@ -415,7 +424,16 @@
             "Logname": "Docky_Sprites",
             "Action": "Load",
             "Target": "Characters/Docky",
-            "FromFile": "assets/characters/sprites/Dockysprites.png"
+            "FromFile": "assets/characters/sprites/DockySprites.png"
+        },
+        {
+            "Logname": "Docky_Winter_Sprites",
+            "Action": "Load",
+            "Target": "Characters/Docky_Winter",
+            "FromFile": "assets/characters/sprites/DockySpritesWinter.png",
+            "When": {
+                "Season": "winter"
+            }
         },
 
             //ANIMATION LOADS

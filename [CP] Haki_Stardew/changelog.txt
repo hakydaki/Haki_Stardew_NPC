@@ -19,3 +19,9 @@ Version 0.9.5 (BETA) -
 - Added character portrait furniture item for 10 hearts. May show up in the traveling cart.
 - Edited Vanilla railroad map to lead to Hakan's cabin.
 - Cleaned up some of my map edits...
+- Adjusted Hakan's spritesheet a bit...I swear I need to come up with a better solution for outfit swaps.....
+- Hakan has proper dialogue when lazing in the secret woods
+- Changed timing on Hakan departing to the secret woods so he hopefully actually makes it for nap time...
+- Fixed up the foothills map during the winter.
+- Added Docky the Seagull, who will be expanded into a full character next update. For now he will just hurl insults at you.
+- Fixed Bathhouse visits
