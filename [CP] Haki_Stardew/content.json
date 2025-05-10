@@ -28,12 +28,6 @@
             "Action": "EditMap",
             "Target": "Maps/Railroad",
             "FromFile": "assets/Maps/taki_Railroad_patch.tmx",
-            "FromArea": {
-                "X": 0,
-                "Y": 0,
-                "Width": 8,
-                "Height": 9
-            },
             "ToArea": {
                 "X": 0,
                 "Y": 53,
@@ -50,16 +44,10 @@
             "Action": "EditMap",
             "Target": "Maps/Railroad",
             "FromFile": "assets/Maps/taki_Railroad_patch_vanilla.tmx",
-            "FromArea": {
-                "X": 0,
-                "Y": 0,
-                "Width": 26,
-                "Height": 9
-            },
             "ToArea": {
                 "X": 0,
                 "Y": 53,
-                "Width": 26,
+                "Width": 5,
                 "Height": 9
             },
             "When": {

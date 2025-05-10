@@ -25,3 +25,10 @@ Version 0.9.5 (BETA) -
 - Fixed up the foothills map during the winter.
 - Added Docky the Seagull, who will be expanded into a full character next update. For now he will just hurl insults at you.
 - Fixed Bathhouse visits
+
+Version 1.0 -
+
+- Hakan now likes all fish, with a few exceptions.
+- Fixed a bug where Hakan would escape containment in the first spring if it was a Friday.
+- Minor tweaks to a few i18n entries to make lore more clear.
+- Added a translation entry for Hakan's name

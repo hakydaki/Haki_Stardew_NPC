@@ -1,4 +1,6 @@
 {
+//NPC NAME
+"Hakan.Name": "Hakan",
 //Special
 
 "Hakan.Intro": "Hello, @, I heard you were the new farmer that moved in. Name's Hakan. I actually work at the adventurers guild but Marlon called me back. #$b#See, the monsters in the mines have been riled up for some reason. #$b#But don't worry, I'm here to help keep them under control. See you around, farmer.",
@@ -311,7 +313,7 @@
 "Hakan.married.fall.15": "Hehehe...I'm gonna make Gus go out of business tomorrow...$14",
 "Hakan.married.fall.26": "Gotta go capture some monsters today...special request from Marlon.$0",
 "Hakan.married.winter.07": "Hey @, are you participating in the fishing tourney tomorrow? $1&b#Heh, I'll gladly give you second place.$7",
-"Hakan.married.winter.11": "Tomorrow we will see a bunch of squid migrating in mass numbers... Gonna stock up.$1#$b#...and sell them cause I'm allergic.$5",
+"Hakan.married.winter.11": "Tomorrow we will see a bunch of squid migrating in mass numbers... Gonna stock up.$1#$b#...and sell them cause I'm allergic to calamari.$5",
 "Hakan.married.winter.14": "Maybe the night market will have some useful items for me...$1#$b#Or for us...heheheh...$14",
 "Hakan.married.winter.24": "I'm glad the town gets together for spirits eve. It feels great being part of such a loving community.$4",
 "Hakan.married.winter.28": "A new year starts tomorrow. Are you ready @?$1#$e#I'm ready to tackle this new year together.$18",
