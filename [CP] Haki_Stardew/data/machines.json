@@ -1,0 +1,43 @@
+{
+	"Changes": [
+		{
+			"Action": "EditData",
+			"Target": "Data/Machines",
+			"TargetField": [
+				"(BC)19",
+				"OutputRules"
+			],
+			"Entries": {
+				"Hakan_Washing": {
+					"Id": "Hakan_Washing",
+					"Triggers": [
+						{
+							"RequiredItemId": "260"
+						}
+					],
+					"OutputItem": [
+						
+                        {
+							"ItemId": "378",
+                            "MinStack": "1",
+                            "MaxStack": "5"
+						},
+                        
+                        {
+							"ItemId": "380",
+                            "MinStack": "1",
+                            "MaxStack": "5"
+						},
+
+                        {
+							"ItemId": "384",
+                            "MinStack": "1",
+                            "MaxStack": "5"
+						}
+					],
+					"MinutesUntilReady": 0
+				}
+			}
+		}
+	]
+}

@@ -1,0 +1,13 @@
+{
+  "Changes": [
+    {
+        "Action": "EditData",
+        "Target": "data/mail",
+        
+        "Entries": {
+        "Hakan_14_heart_mail":"{{i18n:Hakan.14_Heart_recipe}}",
+        "Hakan_Challenge_mail":"{{i18n:Hakan.challenge_letter}}"
+      }
+    }
+  ]
+}

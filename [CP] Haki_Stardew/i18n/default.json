@@ -733,9 +733,53 @@
 
 //14 Hearts
 
+"Hakan.heartevent14_1":"Ah my little minnow, I see you are doing more farm work as usual.$6",
+"Hakan.heartevent14_2":"I wish I could help some more, but I'm not sure how...$8",
+"Hakan.heartevent14_3":"Hmm...$0",
+"Hakan.heartevent14_4":"Wait, I know what I could do!$9",
+"Hakan.heartevent14_5":"But I uhm… Might need a few materials to experiment with. Can you grab these items for me please?$0",
+"Hakan.heartevent14_6":"%Hakan hands the player a list of items, asking for the following items: 5 Iron, 30 Wood, and 1 Soapstone.%",
+"Hakan.heartevent14_7":"Thanks, if you can get me these items, I'll have a neat little surprise for you.$7",
+
+//14 Hearts PT 2
+
+"Hakan.heartevent14_8":"Hah…hahhh there we go that should work…",
+"Hakan.heartevent14_9":"Guh?!?",
+"Hakan.heartevent14_10":"Shoot, stop stop STOP!!",
+"Hakan.heartevent14_11":"Grrrr...",
+"Hakan.heartevent14_12":"Oh great, how embarrassing… that you saw all that.",
+"Hakan.heartevent14_13":"Heh, I guess it was pretty funny…glad you liked the show.",
+"Hakan.heartevent14_14":"...At my expense...",
+"Hakan.heartevent14_15":"%Hakan blushes and looks away%",
+"Hakan.heartevent14_16":"Well, uhm, this was the little project I was working on…",
+"Hakan.heartevent14_17":"I uh, sometimes see your hands full of mud so I thought...maybe this would help.",
+"Hakan.heartevent14_18":"Sometimes when you wash the clay away, you might find something valuable left behind too.",
+"Hakan.heartevent14_19":"O-oh I'm glad you like it… I uh… hope you don't mind the soaking wet fur, farmer.",
+
+//14 HEARTS FORK 1
+"Hakan.heartevent14_20":"It's okay, its part of the charm.",
+
+"Hakan.heartevent14_21":"Heh and the dirt is a part of your charm.",
+"Hakan.heartevent14_22":"Guess we will both be covered in mud now.",
+
+"Hakan.heartevent14_23":"I love how you look when your dripping wet.",
+"Hakan.heartevent14_24":"What I-",
+"Hakan.heartevent14_25":"...heh.",
+"Hakan.heartevent14_26":"I'll make you drippin' too. House, now.",
+
 //Items and Furniture
 
 "Hakan.tuxedo_portrait": "Hakan Tuxedo Portrait",
+"Hakan.utility_sink": "Utility Sink",
+"Hakan.fishing_trophy": "Hakan's Trophy",
+
+//Mail
+
+"Hakan.challenge_letter": "",
+"Hakan.14_Heart_recipe": "Hello my little woodskip...I just realized I forgot to give you the blueprints for the utility sink. I placed it in the mailbox just so I know you get it...I hope you like it...",
+
+
+
 
 //DOCKY DIALOGUES!!!!
 
