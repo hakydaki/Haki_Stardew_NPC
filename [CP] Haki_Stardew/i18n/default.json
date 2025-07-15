@@ -737,8 +737,8 @@
 "Hakan.heartevent14_2":"I wish I could help some more, but I'm not sure how...$8",
 "Hakan.heartevent14_3":"Hmm...$0",
 "Hakan.heartevent14_4":"Wait, I know what I could do!$9",
-"Hakan.heartevent14_5":"But I uhm… Might need a few materials to experiment with. Can you grab these items for me please?$0",
-"Hakan.heartevent14_6":"%Hakan hands the player a list of items, asking for the following items: 5 Iron, 30 Wood, and 1 Soapstone.%",
+"Hakan.heartevent14_5":"But I uhm… Might need a few materials to experiment with. Can you find a soapstone for me please?$0",
+"Hakan.heartevent14_6":"%You nod in agreement%",
 "Hakan.heartevent14_7":"Thanks, if you can get me these items, I'll have a neat little surprise for you.$7",
 
 //14 Hearts PT 2
@@ -767,10 +767,18 @@
 "Hakan.heartevent14_25":"...heh.",
 "Hakan.heartevent14_26":"I'll make you drippin' too. House, now.",
 
+//Quests
+
+"Hakan.hearteventquesttitle":"Hakan's request",
+"Hakan.hearteventquestdesc":"Hakan needs some items for his idea.",
+"Hakan.hearteventquesthint":"Bring Hakan a soapstone.",
+"Hakan.hearteventquestreaction":"Thanks my little minnow, I'll start working on my idea for you immediately. Don't peak!$1"
+
 //Items and Furniture
 
 "Hakan.tuxedo_portrait": "Hakan Tuxedo Portrait",
 "Hakan.utility_sink": "Utility Sink",
+"Hakan.utility_sink_desc": "Washes certain items.",
 "Hakan.fishing_trophy": "Hakan's Trophy",
 
 //Mail
@@ -790,5 +798,5 @@
 "Docky.Thursday": "You look dashing today. Now dash off all those calories.",
 "Docky.Friday": "Yo momma so large she has gravity.",
 "Docky.Saturday": "You know who you remind me of? Clint.",
-"Docky.Sunday": "You have a face only your grandpa would love. Too bad he's 6 feet under.#$e#Ooo did I hit a nerve?",
+"Docky.Sunday": "You have a face only your grandpa would love. Too bad he's 6 feet under.#$e#Ooo did I hit a nerve?"
 } 

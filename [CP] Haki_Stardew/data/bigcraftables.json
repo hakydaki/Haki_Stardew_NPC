@@ -1,0 +1,17 @@
+{
+"Changes": [
+		{
+			"Action": "EditData",
+			"Target": "Data/BigCraftables",
+			"Entries": {
+				"Hakan_utilitysink": {
+					"Name": "Hakan_utilitysink",
+					"DisplayName": "{{i18n:Hakan.utility_sink}}",
+					"Description": "{{i18n:Hakan.utility_sink_desc}}",
+					"Texture": "Cornucopia.ArtisanMachines/Craftables",
+					"SpriteIndex": 0
+				}
+            }
+        }
+    ]
+}

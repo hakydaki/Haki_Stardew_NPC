@@ -1,19 +1,19 @@
-{
-    "Changes": [
-      {
-        "Action": "EditData",
-        "Target": "Characters/Dialogue/Docky",
-        "Entries": 
-        {
-        "Introduction":"{{i18n:Docky.intro}}",
-        "Mon":"{{i18n:Docky.Monday}}",
-        "Tue":"{{i18n:Docky.Tuesday}}",
-        "Wed":"{{i18n:Docky.Wednesday}}",
-        "Thu":"{{i18n:Docky.Thursday}}",
-        "Fri":"{{i18n:Docky.Friday}}",
-        "Sat":"{{i18n:Docky.Saturday}}",
-        "Sun":"{{i18n:Docky.Sunday}}"
-        }
-      }
-    ]
-}
+// {
+//     "Changes": [
+//       {
+//         "Action": "EditData",
+//         "Target": "Characters/Dialogue/Docky",
+//         "Entries": 
+//         {
+//         "Introduction":"{{i18n:Docky.intro}}",
+//         "Mon":"{{i18n:Docky.Monday}}",
+//         "Tue":"{{i18n:Docky.Tuesday}}",
+//         "Wed":"{{i18n:Docky.Wednesday}}",
+//         "Thu":"{{i18n:Docky.Thursday}}",
+//         "Fri":"{{i18n:Docky.Friday}}",
+//         "Sat":"{{i18n:Docky.Saturday}}",
+//         "Sun":"{{i18n:Docky.Sunday}}"
+//         }
+//       }
+//     ]
+// }

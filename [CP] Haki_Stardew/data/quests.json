@@ -1,0 +1,14 @@
+{
+  "Changes": 
+    [
+	{
+	  "Action": "EditData",
+	  "Target": "Data/Quests",	
+	  "Entries":
+	    {
+		"hakydaki.HakanNPC_HeartQuest": "ItemDelivery/{{i18n:Hakan.hearteventquesttitle}}/{{i18n:Hakan.hearteventquestdesc}}/{{i18n:Hakan.hearteventquesthint}}/Hakan 572/-1/0/-1/false/{{i18n:Hakan.hearteventquestreaction}}"
+
+	    }
+	}
+    ]
+}

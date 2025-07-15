@@ -207,15 +207,17 @@
             "Action": "Include",
             "FromFile": "data/mapstrings.json"
         },
-        {
-            "Logname":"Docky_Schedule",
-            "Action": "Load",
-            "Target": "Characters/schedules/Docky",
-            "FromFile": "data/schedule_docky.json",
-            "When": {
-                "HasMod |contains=FlashShifter.StardewValleyExpandedCP": false
-            }
-        },
+
+        // {
+        //     "Logname":"Docky_Schedule",
+        //     "Action": "Load",
+        //     "Target": "Characters/schedules/Docky",
+        //     "FromFile": "data/schedule_docky.json",
+        //     "When": {
+        //         "HasMod |contains=FlashShifter.StardewValleyExpandedCP": false
+        //     }
+        // },
+
         //Hakan Schedule data - Vanilla Version
         {
             "Logname":"Haki_Schedule",
@@ -244,12 +246,12 @@
             "FromFile": "data/blank.json"
         },
 
-        {
-            "Logname":"Docky_BLANK_Loads",
-            "Action": "Load",
-            "Target": "Characters/Dialogue/Docky",
-            "FromFile": "data/blank.json"
-        },
+        // {
+        //     "Logname":"Docky_BLANK_Loads",
+        //     "Action": "Load",
+        //     "Target": "Characters/Dialogue/Docky",
+        //     "FromFile": "data/blank.json"
+        // },
 
         //Actual Dialogues
         {
@@ -257,11 +259,13 @@
             "Action": "Include",
             "FromFile":"data/dialogue/dialogue_hakan.json"
         },
-        {
-            "Logname":"Docky_Dialogue",
-            "Action": "Include",
-            "FromFile":"data/dialogue/dialogue_docky.json"
-        },
+
+        // {
+        //     "Logname":"Docky_Dialogue",
+        //     "Action": "Include",
+        //     "FromFile":"data/dialogue/dialogue_docky.json"
+        // },
+
         //Marriage Dialogues
         {
             "Logname":"Haki_Marriage_Dialogue",
@@ -365,21 +369,21 @@
              "Target": "Portraits/Hakan_Beach",
              "FromFile": "assets/characters/sprites/hakanBeachPortraits.png"
         },
-        {
-            "Logname": "Docky_Portraits",
-            "Action": "Load",
-            "Target": "Portraits/Docky",
-            "FromFile": "assets/characters/sprites/dockyPortraits.png"
-        },
-        {
-            "Logname": "Docky_Portraits",
-            "Action": "Load",
-            "Target": "Portraits/Docky_Winter",
-            "FromFile": "assets/characters/sprites/dockyPortraitsWinter.png",
-            "When": {
-                "Season": "winter"
-            }
-        },
+        // {
+        //     "Logname": "Docky_Portraits",
+        //     "Action": "Load",
+        //     "Target": "Portraits/Docky",
+        //     "FromFile": "assets/characters/sprites/dockyPortraits.png"
+        // },
+        // {
+        //     "Logname": "Docky_Portraits",
+        //     "Action": "Load",
+        //     "Target": "Portraits/Docky_Winter",
+        //     "FromFile": "assets/characters/sprites/dockyPortraitsWinter.png",
+        //     "When": {
+        //         "Season": "winter"
+        //     }
+        // },
 
 
             //SPRITE LOADING - SPRITES
@@ -408,21 +412,21 @@
             "FromFile": "assets/characters/sprites/HakanSpritesBeach.png"
         },
 		
-        {
-            "Logname": "Docky_Sprites",
-            "Action": "Load",
-            "Target": "Characters/Docky",
-            "FromFile": "assets/characters/sprites/DockySprites.png"
-        },
-        {
-            "Logname": "Docky_Winter_Sprites",
-            "Action": "Load",
-            "Target": "Characters/Docky_Winter",
-            "FromFile": "assets/characters/sprites/DockySpritesWinter.png",
-            "When": {
-                "Season": "winter"
-            }
-        },
+        // {
+        //     "Logname": "Docky_Sprites",
+        //     "Action": "Load",
+        //     "Target": "Characters/Docky",
+        //     "FromFile": "assets/characters/sprites/DockySprites.png"
+        // },
+        // {
+        //     "Logname": "Docky_Winter_Sprites",
+        //     "Action": "Load",
+        //     "Target": "Characters/Docky_Winter",
+        //     "FromFile": "assets/characters/sprites/DockySpritesWinter.png",
+        //     "When": {
+        //         "Season": "winter"
+        //     }
+        // },
 
             //ANIMATION LOADS
 

@@ -1,7 +1,7 @@
-{
-// Docky's Schedule
+// {
+// // Docky's Schedule
 
-//debug schedules to help stop schedules from breaking.
-"default": "610 Beach 18 5",
-"spring": "610 Beach 18 5",
-}
+// //debug schedules to help stop schedules from breaking.
+// "default": "610 Beach 18 5",
+// "spring": "610 Beach 18 5",
+// }
