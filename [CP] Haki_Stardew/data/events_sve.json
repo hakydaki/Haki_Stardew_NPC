@@ -10,7 +10,7 @@
           "Day":"3"
         },
         "Entries": {
-          "02661001/t 600 1800":"continue/64 15/farmer 64 16 2 MarlonFay 64 18 0/broadcastEvent/skippable/pause 1500/speak MarlonFay \"{{i18n:Hakan.intro_pt1_01}}\"/pause 500/ speak MarlonFay \"{{i18n:Hakan.intro_pt1_03}}\"/pause 500/emote MarlonFay 40/pause 500/speak MarlonFay \"{{i18n:Hakan.intro_pt1_04}}\"/globalFade/viewport -1000 -1000/pause 2000/end"
+          "02661001/t 600 1800":"continue/64 15/farmer 64 16 2 MarlonFay 64 18 0/skippable/pause 1500/speak MarlonFay \"{{i18n:Hakan.intro_pt1_01}}\"/pause 500/ speak MarlonFay \"{{i18n:Hakan.intro_pt1_03}}\"/pause 500/emote MarlonFay 40/pause 500/speak MarlonFay \"{{i18n:Hakan.intro_pt1_04}}\"/globalFade/viewport -1000 -1000/pause 2000/end"
         },
     },
     {

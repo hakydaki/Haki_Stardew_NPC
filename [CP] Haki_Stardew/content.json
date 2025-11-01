@@ -225,7 +225,8 @@
             "Target": "Characters/schedules/Hakan",
             "FromFile": "data/schedule_hakan.json",
             "When": {
-                "HasMod |contains=FlashShifter.StardewValleyExpandedCP": false
+                "HasMod |contains=FlashShifter.StardewValleyExpandedCP": false,
+				"HasSeenEvent": "02661001"
             }
         },
         //Hakan Schedule data - Loads SVE version if detected
@@ -235,7 +236,8 @@
             "Target": "Characters/schedules/Hakan",
             "FromFile": "data/schedule_hakan_sve.json",
             "When": {
-                "HasMod |contains=FlashShifter.StardewValleyExpandedCP": true
+                "HasMod |contains=FlashShifter.StardewValleyExpandedCP": true,
+				"HasSeenEvent": "02661001"
             }
         },
         //Blank JSON loads Dialogue...

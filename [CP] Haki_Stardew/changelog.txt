@@ -35,3 +35,5 @@ Version 1.0 -
 - Removed Docky (he will come back as his own mod)
 - Fixed a bug where Hakan gets stuck on some rainy days. 
 - Cleaned up some maps (Thanks 7Kana!)
+- Fixed Bathhouse visits
+- Fixed up Marlon notification events so that they don't broadcast to every player when the event plays. 
