@@ -208,17 +208,18 @@
             "FromFile": "data/mapstrings.json"
         },
 
-        // {
-        //     "Logname":"Docky_Schedule",
-        //     "Action": "Load",
-        //     "Target": "Characters/schedules/Docky",
-        //     "FromFile": "data/schedule_docky.json",
-        //     "When": {
-        //         "HasMod |contains=FlashShifter.StardewValleyExpandedCP": false
-        //     }
-        // },
-
         //Hakan Schedule data - Vanilla Version
+        {
+            "Logname":"Haki_Schedule_FAKE",
+            "Action": "Load",
+            "Target": "Characters/schedules/Hakan",
+            "FromFile": "data/schedule_hakan_fake.json",
+            "When": {
+                "HasMod |contains=FlashShifter.StardewValleyExpandedCP": false,
+				"HasSeenEvent |contains=02661001": false
+            }
+		},
+			
         {
             "Logname":"Haki_Schedule",
             "Action": "Load",
@@ -231,7 +232,18 @@
         },
         //Hakan Schedule data - Loads SVE version if detected
         {
-            "Logname":"Haki_Schedule_SVE",
+			
+			"Logname":"Haki_Schedule_FAKE_SVE",
+            "Action": "Load",
+            "Target": "Characters/schedules/Hakan",
+            "FromFile": "data/schedule_hakan_fake.json",
+            "When": {
+                "HasMod |contains=FlashShifter.StardewValleyExpandedCP": true,
+				"HasSeenEvent |contains=02661001": false
+            }
+		},
+		{
+			"Logname":"Haki_Schedule_SVE",
             "Action": "Load",
             "Target": "Characters/schedules/Hakan",
             "FromFile": "data/schedule_hakan_sve.json",
@@ -248,25 +260,12 @@
             "FromFile": "data/blank.json"
         },
 
-        // {
-        //     "Logname":"Docky_BLANK_Loads",
-        //     "Action": "Load",
-        //     "Target": "Characters/Dialogue/Docky",
-        //     "FromFile": "data/blank.json"
-        // },
-
         //Actual Dialogues
         {
             "Logname":"Haki_Dialogue",
             "Action": "Include",
             "FromFile":"data/dialogue/dialogue_hakan.json"
         },
-
-        // {
-        //     "Logname":"Docky_Dialogue",
-        //     "Action": "Include",
-        //     "FromFile":"data/dialogue/dialogue_docky.json"
-        // },
 
         //Marriage Dialogues
         {
@@ -371,21 +370,6 @@
              "Target": "Portraits/Hakan_Beach",
              "FromFile": "assets/characters/sprites/hakanBeachPortraits.png"
         },
-        // {
-        //     "Logname": "Docky_Portraits",
-        //     "Action": "Load",
-        //     "Target": "Portraits/Docky",
-        //     "FromFile": "assets/characters/sprites/dockyPortraits.png"
-        // },
-        // {
-        //     "Logname": "Docky_Portraits",
-        //     "Action": "Load",
-        //     "Target": "Portraits/Docky_Winter",
-        //     "FromFile": "assets/characters/sprites/dockyPortraitsWinter.png",
-        //     "When": {
-        //         "Season": "winter"
-        //     }
-        // },
 
 
             //SPRITE LOADING - SPRITES
@@ -414,21 +398,6 @@
             "FromFile": "assets/characters/sprites/HakanSpritesBeach.png"
         },
 		
-        // {
-        //     "Logname": "Docky_Sprites",
-        //     "Action": "Load",
-        //     "Target": "Characters/Docky",
-        //     "FromFile": "assets/characters/sprites/DockySprites.png"
-        // },
-        // {
-        //     "Logname": "Docky_Winter_Sprites",
-        //     "Action": "Load",
-        //     "Target": "Characters/Docky_Winter",
-        //     "FromFile": "assets/characters/sprites/DockySpritesWinter.png",
-        //     "When": {
-        //         "Season": "winter"
-        //     }
-        // },
 
             //ANIMATION LOADS
 

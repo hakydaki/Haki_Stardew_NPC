@@ -564,7 +564,7 @@
 
 //Intro Events
 "Hakan.intro_pt1_01":"Hello there farmer.#$b# As you might’ve noticed. Monsters seem to be more present in the valley...#$b#I called back one of my top adventurers, Hakan.#$b#He used to be a resident of the valley before going off for training.#$b#I basically raised that kid...hah...$2",
-"Hakan.intro_pt1_03":"He's going to be living in a cabin west of the railroad.",
+"Hakan.intro_pt1_03":"He's going to be living in a cabin west of the railroad. Should be coming tomorrow.",
 "Hakan.intro_pt1_04":"Well, see you around, @.",
 
 "Hakan.intro_pt2_01":"Hm...I wonder if there’s any jobs worth doing here in the valley...$0",
@@ -772,7 +772,7 @@
 "Hakan.hearteventquesttitle":"Hakan's request",
 "Hakan.hearteventquestdesc":"Hakan needs some items for his idea.",
 "Hakan.hearteventquesthint":"Bring Hakan a soapstone.",
-"Hakan.hearteventquestreaction":"Thanks my little minnow, I'll start working on my idea for you immediately. Don't peak!$1"
+"Hakan.hearteventquestreaction":"Thanks my little minnow, I'll start working on my idea for you immediately. Don't peak!$1",
 
 //Items and Furniture
 

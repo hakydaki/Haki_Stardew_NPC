@@ -26,14 +26,16 @@ Version 0.9.5 (BETA) -
 - Added Docky the Seagull, who will be expanded into a full character next update. For now he will just hurl insults at you.
 - Fixed Bathhouse visits
 
-Version 1.0 -
+Version 0.9.6 -
 
 - Hakan now likes all fish, with a few exceptions.
 - Fixed a bug where Hakan would escape containment in the first spring if it was a Friday.
 - Minor tweaks to a few i18n entries to make lore more clear.
 - Added a translation entry for Hakan's name
-- Removed Docky (he will come back as his own mod)
+- Removed Docky (he will come back as his own mod) - Please play at least one day ingame and it should clear him from your save. 
 - Fixed a bug where Hakan gets stuck on some rainy days. 
 - Cleaned up some maps (Thanks 7Kana!)
 - Fixed Bathhouse visits
 - Fixed up Marlon notification events so that they don't broadcast to every player when the event plays. 
+- Marlon Event now plays 1 day before Hakan becomes accessible. 
+- !! Hakan will still stay in bed on day 3 of summer. This is a bug that I've been trying to get around, but it seems that the schedules load before the map changes take place. Lets just say he's taking a long nap after being tired from moving in. 
